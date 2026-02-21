@@ -1,0 +1,62 @@
+================ Installation Instructions ================
+
+IMPORTANT:
+This mod goes in the Victoria 2 installation folder,
+NOT in Documents\Paradox Interactive\Victoria II
+
+-----------------------------------------------------------
+
+STEP 1 – Install the mod folder
+
+1. Go to your Victoria 2 installation directory:
+   Example (Steam):
+   SteamLibrary\steamapps\common\Victoria 2\mod
+
+2. Place the folder named:
+   NjordVictoria2
+
+   into the mod folder.
+
+3. After this step, the folder structure MUST look like this:
+
+   Victoria 2\mod\NjordVictoria2\
+     ├─ history\
+     ├─ common\
+     ├─ localisation\
+     ├─ battleplans\
+     └─ (other mod folders)
+
+   ❌ WRONG:
+   Victoria 2\mod\NjordVictoria2\NjordVictoria2\
+
+   ✅ CORRECT:
+   Victoria 2\mod\NjordVictoria2\
+
+   If you see two NjordVictoria2 folders,
+   move the contents of the inner folder into the outer one
+   and delete the empty folder.
+
+-----------------------------------------------------------
+
+STEP 2 – Install the .mod file
+
+1. Locate the file:
+   NjordVictoria2.mod
+
+2. Move this file into:
+   Victoria 2\mod\
+
+   NOT inside the NjordVictoria2 folder.
+
+   Correct:
+   Victoria 2\mod\NjordVictoria2.mod
+
+-----------------------------------------------------------
+
+STEP 3 – Launch the game
+
+1. Start Victoria 2
+2. Enable "NjordVictoria2" in the launcher
+3. Start the game
+
+===========================================================
