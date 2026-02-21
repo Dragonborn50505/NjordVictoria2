@@ -1,0 +1,7 @@
+owner=MLC
+controller=MLC
+add_core=MLC
+trade_goods = fish
+life_rating = 31
+naval_base = 2
+fort = 1

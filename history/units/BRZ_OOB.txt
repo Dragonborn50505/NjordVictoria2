@@ -1,0 +1,729 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 50
+	level = 3
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -13
+	level = 2
+}
+DES = {
+	value = -12
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -12
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = -12
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -20
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 18
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 17
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 85
+	influence_value = 8
+	level = 3
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -13
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 50
+	level = 3
+}
+X27 = {
+	value = -13
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ubertu de Castilla"
+	date="1725.5.29"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Ölvir de Haro"
+	date="1733.8.30"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="T'ar'iq de Borja"
+	date="1736.7.6"
+	type=sea
+	personality="tactful"
+	background="pawn"
+}
+
+leader = {
+	name="Jofré de Castro"
+	date="1741.10.25"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Adergazuz de Castro"
+	date="1749.4.10"
+	type=sea
+	personality="tactful"
+	background="pawn"
+}
+
+leader = {
+	name="T'ar'iq de Menezes"
+	date="1750.7.20"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="16th Army"
+	location=2404
+	regiment = {
+		name="1st Vila do Poti Infantry"
+		type=infantry
+		home=2426
+	}
+	regiment = {
+		name="1st Belém Cavalry"
+		type=cavalry
+		home=2410
+	}
+	regiment = {
+		name="1st Belém Artillery"
+		type=artillery
+		home=2410
+	}
+	regiment = {
+		name="1st Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="3rd Vila do Poti Infantry"
+		type=infantry
+		home=2426
+	}
+	regiment = {
+		name="2nd Salvador da Bahia Cavalry"
+		type=cavalry
+		home=2436
+	}
+	regiment = {
+		name="1st Ouro Preto Artillery"
+		type=artillery
+		home=2441
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2446
+	regiment = {
+		name="1st Ouro Preto Infantry"
+		type=infantry
+		home=2441
+	}
+	regiment = {
+		name="1st Recife Artillery"
+		type=artillery
+		home=2432
+	}
+	regiment = {
+		name="1st Vila da Palma Artillery"
+		type=artillery
+		home=2423
+	}
+	regiment = {
+		name="4th Vila do Poti Infantry"
+		type=infantry
+		home=2426
+	}
+	regiment = {
+		name="1st Aracaju Artillery"
+		type=artillery
+		home=2435
+	}
+}
+
+army = {
+	name="11th Army"
+	location=2425
+	regiment = {
+		name="2nd Vila do Poti Infantry"
+		type=infantry
+		home=2426
+	}
+	regiment = {
+		name="1st Salvador da Bahia Cavalry"
+		type=cavalry
+		home=2436
+	}
+	regiment = {
+		name="2nd Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="1st Porto Alegre Artillery"
+		type=artillery
+		home=2463
+	}
+	regiment = {
+		name="1st Sabará Infantry"
+		type=infantry
+		home=2442
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2986
+	ship = {
+		name="Almirante Saldanha"
+		type=frigate
+	}
+	ship = {
+		name="Pernambuco"
+		type=frigate
+	}
+	ship = {
+		name="Vigia"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2987
+	ship = {
+		name="Inhauma"
+		type=frigate
+	}
+	ship = {
+		name="Jaceguay"
+		type=frigate
+	}
+	ship = {
+		name="Frontin"
+		type=frigate
+	}
+	ship = {
+		name="Belém"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2982
+	ship = {
+		name="Primeiro De Março"
+		type=manowar
+	}
+	ship = {
+		name="Paraíba"
+		type=manowar
+	}
+	ship = {
+		name="Guanabara"
+		type=manowar
+	}
+	ship = {
+		name="Trajano"
+		type=manowar
+	}
+	ship = {
+		name="Vital De Oliveira"
+		type=manowar
+	}
+	ship = {
+		name="Niterói"
+		type=manowar
+	}
+	ship = {
+		name="Sergipe"
+		type=manowar
+	}
+	ship = {
+		name="1st Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vila do Poti Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fortaleza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Natal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Macapá Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2976
+	ship = {
+		name="Julio De Noronha"
+		type=frigate
+	}
+	ship = {
+		name="1st São Luís Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2415
+	ship = {
+		name="Paraná"
+		type=manowar
+	}
+	ship = {
+		name="Greenhalgh"
+		type=manowar
+	}
+	ship = {
+		name="Uniao"
+		type=frigate
+	}
+	ship = {
+		name="Macapá"
+		type=manowar
+	}
+	ship = {
+		name="2nd Maceió Man'o'war"
+		type=manowar
+	}
+}
+

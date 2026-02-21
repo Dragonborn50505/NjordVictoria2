@@ -1,0 +1,2720 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 14
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 50
+	level = 3
+}
+GER = {
+	value = 30
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+IRE = {
+	value = 21
+	level = 2
+}
+ITA = {
+	value = -100
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -3
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 19
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = -6
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = -2
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = -9
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -15
+	level = 2
+}
+QUE = {
+	value = 199
+	influence_value = 37
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 86
+	influence_value = 9
+	level = 2
+}
+SIA = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = -7
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 1
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = -100
+	level = 2
+}
+USA = {
+	value = 190
+	influence_value = 35
+	level = 2
+}
+VIJ = {
+	value = 1
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 10
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = -9
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -14
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="= van Serooskerken"
+	date="1703.10.22"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name=", van Limburg"
+	date="1735.9.15"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="= van Montfoort"
+	date="1737.4.14"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name=", van Bergh"
+	date="1738.1.19"
+	type=land
+	personality="unflinching"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Brandt de Friesland"
+	date="1738.1.19"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Brandt de Friesland"
+	date="1738.1.20"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Brandt de Friesland"
+	date="1738.1.21"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name=", de Reginar"
+	date="1738.1.23"
+	type=land
+	personality="unflinching"
+	background="school_of_defense"
+}
+
+leader = {
+	name=", van Breda"
+	date="1739.6.1"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="= von Salm"
+	date="1741.7.4"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="= von Salm"
+	date="1741.7.4"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="leader_names van Loon"
+	date="1741.7.4"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="Staatse Leger"
+	location=389
+	regiment = {
+		name="1st Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="1st Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+	regiment = {
+		name="1st Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="2nd Middelburg Infantry"
+		type=infantry
+		home=378
+	}
+	regiment = {
+		name="3rd Namur Infantry"
+		type=infantry
+		home=392
+	}
+	regiment = {
+		name="3rd Middelburg Infantry"
+		type=infantry
+		home=378
+	}
+	regiment = {
+		name="2nd Leeuwarden Infantry"
+		type=infantry
+		home=385
+	}
+	regiment = {
+		name="3rd Arras Infantry"
+		type=infantry
+		home=401
+	}
+}
+
+army = {
+	name="Leger van Derby"
+	location=379
+	regiment = {
+		name="1st Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="1st Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="1st Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="1st Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="1st Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="1st Coventry Artillery"
+		type=artillery
+		home=287
+	}
+	regiment = {
+		name="2nd Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="1st Sheffield Artillery"
+		type=artillery
+		home=283
+	}
+	regiment = {
+		name="1st Plymouth Artillery"
+		type=artillery
+		home=299
+	}
+	regiment = {
+		name="1st Cardigan Artillery"
+		type=artillery
+		home=274
+	}
+	regiment = {
+		name="3rd Charleroi Infantry"
+		type=infantry
+		home=394
+	}
+	regiment = {
+		name="5th Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="2nd Llandrindod Infantry"
+		type=infantry
+		home=275
+	}
+	regiment = {
+		name="5th Llandrindod Artillery"
+		type=artillery
+		home=275
+	}
+}
+
+navy = {
+	name="Oost-Indi vloot"
+	location=302
+	ship = {
+		name="Wolf"
+		type=frigate
+	}
+	ship = {
+		name="Fret"
+		type=frigate
+	}
+	ship = {
+		name="Hermelijn"
+		type=frigate
+	}
+	ship = {
+		name="Vos"
+		type=frigate
+	}
+	ship = {
+		name="Panter"
+		type=frigate
+	}
+	ship = {
+		name="Jaguar"
+		type=frigate
+	}
+	ship = {
+		name="Lynx"
+		type=frigate
+	}
+	ship = {
+		name="Leeuw"
+		type=frigate
+	}
+	ship = {
+		name="Jakhals"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rotterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="Amsterdam"
+		type=clipper_transport
+	}
+	ship = {
+		name="Assendelft"
+		type=clipper_transport
+	}
+	ship = {
+		name="Batavia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Delfland"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amiens Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rotterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Southampton Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Oostzeevloot"
+	location=1417
+	ship = {
+		name="Admiraal Generaal"
+		type=manowar
+	}
+	ship = {
+		name="Beschermer"
+		type=manowar
+	}
+	ship = {
+		name="Brederode"
+		type=manowar
+	}
+	ship = {
+		name="Campen"
+		type=manowar
+	}
+	ship = {
+		name="Eendracht"
+		type=manowar
+	}
+	ship = {
+		name="Eenhoorn"
+		type=manowar
+	}
+	ship = {
+		name="Frederik Hendrik"
+		type=manowar
+	}
+	ship = {
+		name="Gouden Leeuw"
+		type=manowar
+	}
+	ship = {
+		name="Graaf Willem"
+		type=manowar
+	}
+	ship = {
+		name="Groote Liefde"
+		type=manowar
+	}
+	ship = {
+		name="Jozua"
+		type=manowar
+	}
+	ship = {
+		name="7th Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tacna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="Dordrecht"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Groningen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Huaraz Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Vloot van Hull"
+	location=292
+	ship = {
+		name="Kameel"
+		type=manowar
+	}
+	ship = {
+		name="Kapitein Generaal"
+		type=manowar
+	}
+	ship = {
+		name="Landman"
+		type=manowar
+	}
+	ship = {
+		name="Louisa Hendrika"
+		type=manowar
+	}
+	ship = {
+		name="Overwinnaer"
+		type=manowar
+	}
+	ship = {
+		name="Prinses Amalia"
+		type=manowar
+	}
+	ship = {
+		name="Prinses Roijaal"
+		type=manowar
+	}
+	ship = {
+		name="2nd Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Dutch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bath Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Leger van Lincolnshire"
+	location=378
+	regiment = {
+		name="2nd Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="1st Chester Infantry"
+		type=infantry
+		home=285
+	}
+	regiment = {
+		name="1st Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="2nd Chester Infantry"
+		type=infantry
+		home=285
+	}
+	regiment = {
+		name="1st Leeds Infantry"
+		type=infantry
+		home=282
+	}
+	regiment = {
+		name="3rd Ipswich Infantry"
+		type=infantry
+		home=292
+	}
+	regiment = {
+		name="7th Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+}
+
+army = {
+	name="Leger van Rysel"
+	location=377
+	regiment = {
+		name="1st Luxembourg Infantry"
+		type=infantry
+		home=397
+	}
+	regiment = {
+		name="2nd Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="2nd Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st Arlon Infantry"
+		type=infantry
+		home=398
+	}
+	regiment = {
+		name="1st St Albans Infantry"
+		type=infantry
+		home=295
+	}
+	regiment = {
+		name="5th Arlon Infantry"
+		type=infantry
+		home=398
+	}
+	regiment = {
+		name="4th Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="5th Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+}
+
+army = {
+	name="Leger van Scarborough"
+	location=387
+	regiment = {
+		name="1st Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="1st Bristol Infantry"
+		type=infantry
+		home=296
+	}
+	regiment = {
+		name="3rd Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="2nd Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="1st Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="5th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="4th Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="3rd Llandrindod Infantry"
+		type=infantry
+		home=275
+	}
+}
+
+army = {
+	name="Leger van Overijssel"
+	location=394
+	regiment = {
+		name="1st Arras Infantry"
+		type=infantry
+		home=401
+	}
+	regiment = {
+		name="1st Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="1st Groningen Infantry"
+		type=infantry
+		home=383
+	}
+	regiment = {
+		name="2nd Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="2nd Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="2nd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="7th Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="4th Namur Infantry"
+		type=infantry
+		home=392
+	}
+}
+
+army = {
+	name="Leger van Holland"
+	location=375
+	regiment = {
+		name="2nd Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="1st Limburg Infantry"
+		type=infantry
+		home=381
+	}
+	regiment = {
+		name="3rd Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="1st Charleroi Infantry"
+		type=infantry
+		home=394
+	}
+	regiment = {
+		name="2nd Arras Infantry"
+		type=infantry
+		home=401
+	}
+	regiment = {
+		name="1st Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="4th Middelburg Infantry"
+		type=infantry
+		home=378
+	}
+	regiment = {
+		name="3rd Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+}
+
+army = {
+	name="Leger van Cornwall"
+	location=376
+	regiment = {
+		name="2nd Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="1st Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Sheffield Infantry"
+		type=infantry
+		home=283
+	}
+	regiment = {
+		name="1st London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="2nd Sheffield Infantry"
+		type=infantry
+		home=283
+	}
+	regiment = {
+		name="4th Hasselt Infantry"
+		type=infantry
+		home=391
+	}
+	regiment = {
+		name="3rd Bath Infantry"
+		type=infantry
+		home=298
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=390
+	regiment = {
+		name="1st Hull Infantry"
+		type=infantry
+		home=281
+	}
+	regiment = {
+		name="2nd Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="2nd Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Bath Infantry"
+		type=infantry
+		home=298
+	}
+	regiment = {
+		name="1st Ipswich Infantry"
+		type=infantry
+		home=292
+	}
+	regiment = {
+		name="1st Llandrindod Infantry"
+		type=infantry
+		home=275
+	}
+	regiment = {
+		name="2nd Cardiff Infantry"
+		type=infantry
+		home=273
+	}
+	regiment = {
+		name="3rd Cardigan Infantry"
+		type=infantry
+		home=274
+	}
+}
+
+navy = {
+	name="Noordzeevloot"
+	location=2916
+	ship = {
+		name="1st Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salvador da Bahia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Carlisle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Leeuwarden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="Gouda"
+		type=clipper_transport
+	}
+	ship = {
+		name="Haarlem"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hoorn"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Groningen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Camden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Rotterdam Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=300
+	regiment = {
+		name="2nd Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+	regiment = {
+		name="3rd Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="2nd Charleroi Infantry"
+		type=infantry
+		home=394
+	}
+	regiment = {
+		name="4th Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="1st Liège Infantry"
+		type=infantry
+		home=395
+	}
+	regiment = {
+		name="1st Llandrindod Artillery"
+		type=artillery
+		home=275
+	}
+	regiment = {
+		name="1st Nottingham Artillery"
+		type=artillery
+		home=288
+	}
+	regiment = {
+		name="1st Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="2nd Sheffield Artillery"
+		type=artillery
+		home=283
+	}
+	regiment = {
+		name="1st Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="3rd Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="2nd Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="3rd Amsterdam Infantry"
+		type=infantry
+		home=375
+	}
+	regiment = {
+		name="2nd Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="6th Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="3rd Cardigan Artillery"
+		type=artillery
+		home=274
+	}
+}
+
+army = {
+	name="7th Army"
+	location=401
+	regiment = {
+		name="3rd Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Middelburg Infantry"
+		type=infantry
+		home=378
+	}
+	regiment = {
+		name="1st Hasselt Infantry"
+		type=infantry
+		home=391
+	}
+	regiment = {
+		name="5th Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="1st Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+	regiment = {
+		name="2nd Breda Infantry"
+		type=infantry
+		home=380
+	}
+	regiment = {
+		name="4th Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Zwolle Infantry"
+		type=infantry
+		home=384
+	}
+	regiment = {
+		name="2nd Zwolle Infantry"
+		type=infantry
+		home=384
+	}
+}
+
+army = {
+	name="8th Army"
+	location=388
+	regiment = {
+		name="2nd Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="1st Cardigan Infantry"
+		type=infantry
+		home=274
+	}
+	regiment = {
+		name="6th Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="1st Namur Infantry"
+		type=infantry
+		home=392
+	}
+	regiment = {
+		name="1st Holyhead Infantry"
+		type=infantry
+		home=276
+	}
+	regiment = {
+		name="1st Cardiff Infantry"
+		type=infantry
+		home=273
+	}
+	regiment = {
+		name="6th Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="7th Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Rusozi Infantry"
+		type=infantry
+		home=1991
+	}
+}
+
+army = {
+	name="Leger van Luangwa"
+	location=2050
+	regiment = {
+		name="1st Kitwe Infantry"
+		type=infantry
+		home=790
+	}
+	regiment = {
+		name="1st Umtali Infantry"
+		type=infantry
+		home=2070
+	}
+	regiment = {
+		name="1st Sena Infantry"
+		type=infantry
+		home=2053
+	}
+	regiment = {
+		name="1st Lilongwe Infantry"
+		type=infantry
+		home=2067
+	}
+	regiment = {
+		name="2nd Lilongwe Infantry"
+		type=infantry
+		home=2067
+	}
+}
+
+army = {
+	name="Leger van Kutai"
+	location=397
+	regiment = {
+		name="3rd Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="1st Leeuwarden Infantry"
+		type=infantry
+		home=385
+	}
+	regiment = {
+		name="2nd Hasselt Infantry"
+		type=infantry
+		home=391
+	}
+	regiment = {
+		name="1st Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="1st Arnhem Artillery"
+		type=artillery
+		home=382
+	}
+	regiment = {
+		name="1st Antwerp Artillery"
+		type=artillery
+		home=390
+	}
+	regiment = {
+		name="1st Brussels Artillery"
+		type=artillery
+		home=387
+	}
+	regiment = {
+		name="5th Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="6th Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+	regiment = {
+		name="2nd Madura Infantry"
+		type=infantry
+		home=1421
+	}
+	regiment = {
+		name="5th Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="4th Hasselt Artillery"
+		type=artillery
+		home=391
+	}
+	regiment = {
+		name="2nd Middelburg Artillery"
+		type=artillery
+		home=378
+	}
+}
+
+army = {
+	name="Leger van Sofala"
+	location=2017
+	regiment = {
+		name="3rd Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="2nd London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Chipata Artillery"
+		type=artillery
+		home=2018
+	}
+	regiment = {
+		name="1st Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="1st Harare Infantry"
+		type=infantry
+		home=2068
+	}
+	regiment = {
+		name="4th Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="1st Rusozi Artillery"
+		type=artillery
+		home=1991
+	}
+}
+
+army = {
+	name="5th Army"
+	location=404
+	regiment = {
+		name="4th Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+	regiment = {
+		name="2nd Ipswich Infantry"
+		type=infantry
+		home=292
+	}
+	regiment = {
+		name="4th Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="5th Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+	regiment = {
+		name="6th Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="2nd Holyhead Infantry"
+		type=infantry
+		home=276
+	}
+	regiment = {
+		name="6th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="10th Bruges Infantry"
+		type=infantry
+		home=388
+	}
+}
+
+army = {
+	name="13th Army"
+	location=399
+	regiment = {
+		name="2nd Cardigan Infantry"
+		type=infantry
+		home=274
+	}
+	regiment = {
+		name="2nd Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="2nd Leeds Infantry"
+		type=infantry
+		home=282
+	}
+	regiment = {
+		name="5th Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="4th Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="4th Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="8th Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="4th Arras Infantry"
+		type=infantry
+		home=401
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=290
+	regiment = {
+		name="2nd Nottingham Artillery"
+		type=artillery
+		home=288
+	}
+	regiment = {
+		name="1st Birmingham Artillery"
+		type=artillery
+		home=284
+	}
+	regiment = {
+		name="1st Leicester Artillery"
+		type=artillery
+		home=289
+	}
+	regiment = {
+		name="2nd Llandrindod Artillery"
+		type=artillery
+		home=275
+	}
+	regiment = {
+		name="1st Southampton Artillery"
+		type=artillery
+		home=303
+	}
+	regiment = {
+		name="1st London Artillery"
+		type=artillery
+		home=300
+	}
+	regiment = {
+		name="1st Cardiff Artillery"
+		type=artillery
+		home=273
+	}
+	regiment = {
+		name="2nd Southampton Artillery"
+		type=artillery
+		home=303
+	}
+	regiment = {
+		name="1st Oxford Artillery"
+		type=artillery
+		home=294
+	}
+	regiment = {
+		name="3rd Leicester Artillery"
+		type=artillery
+		home=289
+	}
+}
+
+army = {
+	name="17th Army"
+	location=385
+	regiment = {
+		name="3rd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="3rd Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="4th Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="5th Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="3rd Liège Infantry"
+		type=infantry
+		home=395
+	}
+	regiment = {
+		name="6th Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="5th Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="7th Ghent Infantry"
+		type=infantry
+		home=389
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2233
+	regiment = {
+		name="1st Oxford Infantry"
+		type=infantry
+		home=294
+	}
+	regiment = {
+		name="5th Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="3rd Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+}
+
+army = {
+	name="Leger van Zeeland"
+	location=400
+	regiment = {
+		name="3rd Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="2nd Bath Infantry"
+		type=infantry
+		home=298
+	}
+	regiment = {
+		name="8th Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="2nd Namur Infantry"
+		type=infantry
+		home=392
+	}
+	regiment = {
+		name="5th Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="4th Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="9th Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="2nd Antwerp Infantry"
+		type=infantry
+		home=390
+	}
+}
+
+army = {
+	name="41st Army"
+	location=282
+	regiment = {
+		name="4th Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="3rd Llandrindod Artillery"
+		type=artillery
+		home=275
+	}
+	regiment = {
+		name="1st Chester Artillery"
+		type=artillery
+		home=285
+	}
+	regiment = {
+		name="1st Ghent Artillery"
+		type=artillery
+		home=389
+	}
+	regiment = {
+		name="1st Lincoln Artillery"
+		type=artillery
+		home=290
+	}
+	regiment = {
+		name="1st Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="1st Charleroi Artillery"
+		type=artillery
+		home=394
+	}
+}
+
+army = {
+	name="12th Army"
+	location=291
+	regiment = {
+		name="2nd Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="1st Dunkirk Artillery"
+		type=artillery
+		home=400
+	}
+	regiment = {
+		name="2nd Amiens Artillery"
+		type=artillery
+		home=402
+	}
+	regiment = {
+		name="2nd Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="2nd Plymouth Artillery"
+		type=artillery
+		home=299
+	}
+	regiment = {
+		name="4th Bristol Artillery"
+		type=artillery
+		home=296
+	}
+}
+
+navy = {
+	name="Vloot van Clwyd"
+	location=2975
+	ship = {
+		name="1st Cardigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Holyhead Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Cardigan Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="14th Army"
+	location=288
+	regiment = {
+		name="3rd Southampton Artillery"
+		type=artillery
+		home=303
+	}
+	regiment = {
+		name="1st Cambrai Artillery"
+		type=artillery
+		home=404
+	}
+	regiment = {
+		name="3rd Sheffield Artillery"
+		type=artillery
+		home=283
+	}
+	regiment = {
+		name="5th Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="2nd Leicester Artillery"
+		type=artillery
+		home=289
+	}
+	regiment = {
+		name="1st Ipswich Artillery"
+		type=artillery
+		home=292
+	}
+}
+
+army = {
+	name="9th Army"
+	location=281
+	regiment = {
+		name="1st Tournai Artillery"
+		type=artillery
+		home=393
+	}
+	regiment = {
+		name="1st St Albans Artillery"
+		type=artillery
+		home=295
+	}
+	regiment = {
+		name="6th Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="2nd Dunkirk Artillery"
+		type=artillery
+		home=400
+	}
+	regiment = {
+		name="4th Sheffield Artillery"
+		type=artillery
+		home=283
+	}
+	regiment = {
+		name="2nd Chester Artillery"
+		type=artillery
+		home=285
+	}
+}
+
+navy = {
+	name="Vloot van Bengkulu"
+	location=1413
+	ship = {
+		name="1st Ipswich Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cardigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Groningen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bruges Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chester Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Middelburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dutch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Leeuwarden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ipswich Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cardigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Dutch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brighton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Middelburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Cardigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Brighton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Groningen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Brighton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Cardiff Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Dutch Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Leger van Padang"
+	location=1398
+	regiment = {
+		name="2nd Bogor Infantry"
+		type=infantry
+		home=1414
+	}
+	regiment = {
+		name="1st Madura Infantry"
+		type=infantry
+		home=1421
+	}
+	regiment = {
+		name="3rd Madura Infantry"
+		type=infantry
+		home=1421
+	}
+}
+
+army = {
+	name="18th Army"
+	location=383
+	regiment = {
+		name="1st Bruges Artillery"
+		type=artillery
+		home=388
+	}
+	regiment = {
+		name="1st Liège Artillery"
+		type=artillery
+		home=395
+	}
+	regiment = {
+		name="1st Luxembourg Artillery"
+		type=artillery
+		home=397
+	}
+	regiment = {
+		name="1st Groningen Artillery"
+		type=artillery
+		home=383
+	}
+	regiment = {
+		name="3rd Amiens Artillery"
+		type=artillery
+		home=402
+	}
+	regiment = {
+		name="2nd Antwerp Artillery"
+		type=artillery
+		home=390
+	}
+}
+
+army = {
+	name="20th Army"
+	location=284
+	regiment = {
+		name="1st Bristol Artillery"
+		type=artillery
+		home=296
+	}
+	regiment = {
+		name="4th Amiens Artillery"
+		type=artillery
+		home=402
+	}
+	regiment = {
+		name="3rd Chester Artillery"
+		type=artillery
+		home=285
+	}
+	regiment = {
+		name="4th Llandrindod Artillery"
+		type=artillery
+		home=275
+	}
+	regiment = {
+		name="3rd Dunkirk Artillery"
+		type=artillery
+		home=400
+	}
+	regiment = {
+		name="2nd Chelmsford Artillery"
+		type=artillery
+		home=293
+	}
+}
+
+army = {
+	name="21st Army"
+	location=543
+	regiment = {
+		name="1st Middelburg Artillery"
+		type=artillery
+		home=378
+	}
+	regiment = {
+		name="4th Southampton Artillery"
+		type=artillery
+		home=303
+	}
+	regiment = {
+		name="7th Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="1st Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="1st Hasselt Artillery"
+		type=artillery
+		home=391
+	}
+	regiment = {
+		name="1st Namur Artillery"
+		type=artillery
+		home=392
+	}
+}
+
+army = {
+	name="25th Army"
+	location=289
+	regiment = {
+		name="2nd Bristol Artillery"
+		type=artillery
+		home=296
+	}
+	regiment = {
+		name="3rd Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="3rd Plymouth Artillery"
+		type=artillery
+		home=299
+	}
+	regiment = {
+		name="2nd Birmingham Artillery"
+		type=artillery
+		home=284
+	}
+	regiment = {
+		name="2nd London Artillery"
+		type=artillery
+		home=300
+	}
+	regiment = {
+		name="1st Canterbury Artillery"
+		type=artillery
+		home=301
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=543
+	regiment = {
+		name="2nd Ghent Artillery"
+		type=artillery
+		home=389
+	}
+	regiment = {
+		name="1st Zwolle Artillery"
+		type=artillery
+		home=384
+	}
+	regiment = {
+		name="2nd Oxford Artillery"
+		type=artillery
+		home=294
+	}
+	regiment = {
+		name="2nd Bruges Artillery"
+		type=artillery
+		home=388
+	}
+	regiment = {
+		name="2nd Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="2nd Cambrai Artillery"
+		type=artillery
+		home=404
+	}
+}
+
+army = {
+	name="26th Army"
+	location=295
+	regiment = {
+		name="2nd Cardiff Artillery"
+		type=artillery
+		home=273
+	}
+	regiment = {
+		name="2nd Cardigan Artillery"
+		type=artillery
+		home=274
+	}
+	regiment = {
+		name="4th Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="2nd Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="1st Shrewsbury Artillery"
+		type=artillery
+		home=286
+	}
+	regiment = {
+		name="8th Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+}
+
+army = {
+	name="19th Army"
+	location=296
+	regiment = {
+		name="1st Salisbury Artillery"
+		type=artillery
+		home=297
+	}
+	regiment = {
+		name="2nd Shrewsbury Artillery"
+		type=artillery
+		home=286
+	}
+	regiment = {
+		name="9th Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="4th Dunkirk Artillery"
+		type=artillery
+		home=400
+	}
+	regiment = {
+		name="2nd Salisbury Artillery"
+		type=artillery
+		home=297
+	}
+	regiment = {
+		name="2nd St Albans Artillery"
+		type=artillery
+		home=295
+	}
+}
+
+army = {
+	name="Leger van Kedah"
+	location=2575
+	regiment = {
+		name="3rd Hasselt Infantry"
+		type=infantry
+		home=391
+	}
+	regiment = {
+		name="5th Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="4th Arlon Infantry"
+		type=infantry
+		home=398
+	}
+	regiment = {
+		name="1st Amsterdam Infantry"
+		type=infantry
+		home=375
+	}
+	regiment = {
+		name="1st Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="4th Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="3rd Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="4th Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="5th Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="6th Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="5th Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="7th Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="5th Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+	regiment = {
+		name="7th Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+	regiment = {
+		name="6th Arlon Infantry"
+		type=infantry
+		home=398
+	}
+	regiment = {
+		name="10th Hull Artillery"
+		type=artillery
+		home=281
+	}
+}
+
+army = {
+	name="Leger van Sangkulirang"
+	location=1417
+	regiment = {
+		name="2nd Amsterdam Infantry"
+		type=infantry
+		home=375
+	}
+	regiment = {
+		name="6th Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="7th Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="4th Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="2nd Hull Infantry"
+		type=infantry
+		home=281
+	}
+	regiment = {
+		name="5th Ghent Infantry"
+		type=infantry
+		home=389
+	}
+	regiment = {
+		name="6th Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="2nd Hasselt Artillery"
+		type=artillery
+		home=391
+	}
+	regiment = {
+		name="3rd Hasselt Artillery"
+		type=artillery
+		home=391
+	}
+	regiment = {
+		name="3rd Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="3rd Hull Infantry"
+		type=infantry
+		home=281
+	}
+	regiment = {
+		name="3rd Sheffield Infantry"
+		type=infantry
+		home=283
+	}
+	regiment = {
+		name="5th Middelburg Infantry"
+		type=infantry
+		home=378
+	}
+	regiment = {
+		name="5th Southampton Artillery"
+		type=artillery
+		home=303
+	}
+}
+
+army = {
+	name="Leger van Kent"
+	location=273
+	regiment = {
+		name="8th Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="3rd Chester Infantry"
+		type=infantry
+		home=285
+	}
+	regiment = {
+		name="1st Nottingham Infantry"
+		type=infantry
+		home=288
+	}
+	regiment = {
+		name="9th Bruges Infantry"
+		type=infantry
+		home=388
+	}
+	regiment = {
+		name="6th Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="6th Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+	regiment = {
+		name="4th Hull Infantry"
+		type=infantry
+		home=281
+	}
+}
+
+army = {
+	name="Prinselijk Leger"
+	location=303
+	regiment = {
+		name="4th Plymouth Artillery"
+		type=artillery
+		home=299
+	}
+	regiment = {
+		name="1st Holyhead Artillery"
+		type=artillery
+		home=276
+	}
+	regiment = {
+		name="3rd Shrewsbury Artillery"
+		type=artillery
+		home=286
+	}
+	regiment = {
+		name="2nd Lincoln Artillery"
+		type=artillery
+		home=290
+	}
+	regiment = {
+		name="3rd Bruges Artillery"
+		type=artillery
+		home=388
+	}
+	regiment = {
+		name="9th Hull Artillery"
+		type=artillery
+		home=281
+	}
+}
+
+army = {
+	name="24th Army"
+	location=298
+	regiment = {
+		name="3rd Cambrai Artillery"
+		type=artillery
+		home=404
+	}
+	regiment = {
+		name="3rd Bristol Artillery"
+		type=artillery
+		home=296
+	}
+	regiment = {
+		name="7th Hull Artillery"
+		type=artillery
+		home=281
+	}
+	regiment = {
+		name="1st Chelmsford Artillery"
+		type=artillery
+		home=293
+	}
+	regiment = {
+		name="1st Lille Artillery"
+		type=artillery
+		home=399
+	}
+	regiment = {
+		name="3rd St Albans Artillery"
+		type=artillery
+		home=295
+	}
+}
+
+army = {
+	name="27th Army"
+	location=292
+	regiment = {
+		name="5th Amiens Artillery"
+		type=artillery
+		home=402
+	}
+	regiment = {
+		name="10th Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="2nd Holyhead Artillery"
+		type=artillery
+		home=276
+	}
+	regiment = {
+		name="6th Amiens Artillery"
+		type=artillery
+		home=402
+	}
+	regiment = {
+		name="4th Bruges Artillery"
+		type=artillery
+		home=388
+	}
+	regiment = {
+		name="8th Hull Artillery"
+		type=artillery
+		home=281
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2021
+	regiment = {
+		name="1st Masindi Infantry"
+		type=infantry
+		home=2021
+	}
+	regiment = {
+		name="1st Mbarara Infantry"
+		type=infantry
+		home=2020
+	}
+	regiment = {
+		name="2nd Masindi Infantry"
+		type=infantry
+		home=2021
+	}
+}
+
+navy = {
+	name="Vloot van Groningen"
+	location=383
+	ship = {
+		name="Prins Friso"
+		type=manowar
+	}
+	ship = {
+		name="Prins Willem"
+		type=manowar
+	}
+	ship = {
+		name="Rosenkrans"
+		type=manowar
+	}
+	ship = {
+		name="Salamander"
+		type=manowar
+	}
+	ship = {
+		name="Vergulde Maen"
+		type=manowar
+	}
+	ship = {
+		name="Verwachting"
+		type=manowar
+	}
+	ship = {
+		name="Unie"
+		type=manowar
+	}
+	ship = {
+		name="Vrede"
+		type=manowar
+	}
+	ship = {
+		name="Vrijheid"
+		type=manowar
+	}
+	ship = {
+		name="Witte Lam"
+		type=manowar
+	}
+	ship = {
+		name="2nd Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Dutch Man'o'war"
+		type=manowar
+	}
+}
+

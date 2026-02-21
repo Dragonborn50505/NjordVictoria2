@@ -1,0 +1,1303 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = -1
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 137
+	influence_value = 21
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+CLM = {
+	value = -1
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -46
+	level = 2
+}
+GOC = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = -37
+	level = 2
+}
+ITA = {
+	value = -181
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = -5
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+NET = {
+	value = 72
+	influence_value = 5
+	level = 3
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -14
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+VIJ = {
+	value = -11
+	level = 2
+}
+X01 = {
+	value = -173
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -1
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Alphonse de Chambly"
+	date="1723.1.5"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Maximilien de Galard"
+	date="1728.6.9"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Firmin de Crussol"
+	date="1735.2.21"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ignace de La Porte"
+	date="1735.2.26"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Alphonse de Galard"
+	date="1735.3.4"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Alphonse de Rochemaure"
+	date="1735.3.11"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Jacques de Champmartin"
+	date="1740.9.14"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Bernard du Fournay"
+	date="1747.9.17"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Georges de Boissieu"
+	date="1750.1.13"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="Armée de Qus"
+	location=429
+	regiment = {
+		name="1st Valence Infantry"
+		type=infantry
+		home=453
+	}
+	regiment = {
+		name="1st La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+	regiment = {
+		name="1st Limoges Infantry"
+		type=infantry
+		home=445
+	}
+	regiment = {
+		name="1st St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="1st La Roche Infantry"
+		type=infantry
+		home=437
+	}
+	regiment = {
+		name="3rd Tours Infantry"
+		type=infantry
+		home=441
+	}
+}
+
+army = {
+	name="Armée de Benghazi"
+	location=607
+	regiment = {
+		name="1st Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="2nd Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="3rd Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="1st Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Cahors Infantry"
+		type=infantry
+		home=450
+	}
+	regiment = {
+		name="2nd La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+	regiment = {
+		name="2nd Cahors Infantry"
+		type=infantry
+		home=450
+	}
+	regiment = {
+		name="2nd Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="1st Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st Chartres Artillery"
+		type=artillery
+		home=426
+	}
+	regiment = {
+		name="1st Pau Artillery"
+		type=artillery
+		home=460
+	}
+	regiment = {
+		name="1st Nantes Artillery"
+		type=artillery
+		home=423
+	}
+	regiment = {
+		name="1st Marseilles Artillery"
+		type=artillery
+		home=467
+	}
+	regiment = {
+		name="1st Mont de Marsan Infantry"
+		type=infantry
+		home=459
+	}
+	regiment = {
+		name="2nd Angoulême Artillery"
+		type=artillery
+		home=444
+	}
+}
+
+army = {
+	name="Armée de Vannetais"
+	location=403
+	regiment = {
+		name="1st Brest Infantry"
+		type=infantry
+		home=420
+	}
+	regiment = {
+		name="1st Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="1st Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="1st Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="1st Orléans Infantry"
+		type=infantry
+		home=438
+	}
+	regiment = {
+		name="2nd Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="8th Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+}
+
+army = {
+	name="Armée de Auvergne"
+	location=450
+	regiment = {
+		name="2nd Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Châteauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="1st Nantes Infantry"
+		type=infantry
+		home=423
+	}
+	regiment = {
+		name="2nd Nantes Infantry"
+		type=infantry
+		home=423
+	}
+	regiment = {
+		name="1st Clermont-Ferrand Infantry"
+		type=infantry
+		home=448
+	}
+	regiment = {
+		name="1st Tours Infantry"
+		type=infantry
+		home=441
+	}
+}
+
+army = {
+	name="Armée de Chalons"
+	location=421
+	regiment = {
+		name="1st St Étienne Infantry"
+		type=infantry
+		home=452
+	}
+	regiment = {
+		name="2nd Limoges Infantry"
+		type=infantry
+		home=445
+	}
+	regiment = {
+		name="4th Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="2nd Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="3rd Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Foix Infantry"
+		type=infantry
+		home=457
+	}
+}
+
+army = {
+	name="Armée de Anjou"
+	location=425
+	regiment = {
+		name="1st Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
+		name="1st Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="1st Le Mans Infantry"
+		type=infantry
+		home=436
+	}
+	regiment = {
+		name="2nd La Roche Infantry"
+		type=infantry
+		home=437
+	}
+	regiment = {
+		name="4th Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="5th Montauban Infantry"
+		type=infantry
+		home=456
+	}
+}
+
+navy = {
+	name="Escadre Blanche"
+	location=1306
+	ship = {
+		name="Alexandre"
+		type=manowar
+	}
+	ship = {
+		name="Breslaw"
+		type=manowar
+	}
+	ship = {
+		name="Prince Jérôme"
+		type=manowar
+	}
+	ship = {
+		name="Ville de Paris"
+		type=manowar
+	}
+	ship = {
+		name="Ville de Nantes"
+		type=manowar
+	}
+	ship = {
+		name="Duguay-Trouin"
+		type=manowar
+	}
+	ship = {
+		name="Tage"
+		type=manowar
+	}
+	ship = {
+		name="Donawerth"
+		type=manowar
+	}
+	ship = {
+		name="Saint Louis"
+		type=manowar
+	}
+}
+
+army = {
+	name="Armée de Bourbonnais"
+	location=2570
+	regiment = {
+		name="2nd Clermont-Ferrand Infantry"
+		type=infantry
+		home=448
+	}
+	regiment = {
+		name="1st Lyon Infantry"
+		type=infantry
+		home=451
+	}
+	regiment = {
+		name="1st Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="5th Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="2nd Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="1st Chartres Infantry"
+		type=infantry
+		home=426
+	}
+}
+
+army = {
+	name="Armée de Montpellier"
+	location=406
+	regiment = {
+		name="1st Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="1st Annecy Infantry"
+		type=infantry
+		home=465
+	}
+	regiment = {
+		name="2nd Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="1st Avignon Infantry"
+		type=infantry
+		home=468
+	}
+	regiment = {
+		name="6th Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="2nd Montpellier Infantry"
+		type=infantry
+		home=461
+	}
+}
+
+army = {
+	name="Armée d'Italie"
+	location=437
+	regiment = {
+		name="3rd La Roche Infantry"
+		type=infantry
+		home=437
+	}
+	regiment = {
+		name="3rd Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="2nd Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
+		name="1st Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="1st Blois Infantry"
+		type=infantry
+		home=440
+	}
+	regiment = {
+		name="2nd Valence Infantry"
+		type=infantry
+		home=453
+	}
+	regiment = {
+		name="1st Alençon Infantry"
+		type=infantry
+		home=417
+	}
+	regiment = {
+		name="1st Montpellier Infantry"
+		type=infantry
+		home=461
+	}
+	regiment = {
+		name="1st Tours Artillery"
+		type=artillery
+		home=441
+	}
+	regiment = {
+		name="1st Limoges Artillery"
+		type=artillery
+		home=445
+	}
+	regiment = {
+		name="1st Angoulême Artillery"
+		type=artillery
+		home=444
+	}
+	regiment = {
+		name="1st Moulins Artillery"
+		type=artillery
+		home=430
+	}
+	regiment = {
+		name="1st Orléans Artillery"
+		type=artillery
+		home=438
+	}
+	regiment = {
+		name="1st Perpignan Artillery"
+		type=artillery
+		home=464
+	}
+	regiment = {
+		name="2nd Macon Infantry"
+		type=infantry
+		home=431
+	}
+}
+
+army = {
+	name="Armée de Armor"
+	location=418
+	regiment = {
+		name="7th Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="2nd St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Rennes Infantry"
+		type=infantry
+		home=424
+	}
+	regiment = {
+		name="3rd Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="2nd Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="2nd Brest Infantry"
+		type=infantry
+		home=420
+	}
+}
+
+army = {
+	name="Armée de Alençon"
+	location=1261
+	regiment = {
+		name="2nd Tours Infantry"
+		type=infantry
+		home=441
+	}
+	regiment = {
+		name="2nd Châteauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="3rd La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+	regiment = {
+		name="3rd Nantes Infantry"
+		type=infantry
+		home=423
+	}
+	regiment = {
+		name="2nd Alençon Infantry"
+		type=infantry
+		home=417
+	}
+	regiment = {
+		name="1st Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+}
+
+army = {
+	name="Armée de Orleanais"
+	location=446
+	regiment = {
+		name="2nd Chartres Infantry"
+		type=infantry
+		home=426
+	}
+	regiment = {
+		name="2nd Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="1st Charleville Infantry"
+		type=infantry
+		home=405
+	}
+	regiment = {
+		name="4th Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="3rd Alençon Infantry"
+		type=infantry
+		home=417
+	}
+	regiment = {
+		name="2nd St Étienne Infantry"
+		type=infantry
+		home=452
+	}
+}
+
+army = {
+	name="Armée de Bretagne"
+	location=442
+	regiment = {
+		name="3rd Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="3rd Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
+		name="4th Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="1st Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="5th Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="3rd Cahors Infantry"
+		type=infantry
+		home=450
+	}
+}
+
+army = {
+	name="Armée de Lorraine"
+	location=407
+	regiment = {
+		name="1st Dijon Infantry"
+		type=infantry
+		home=428
+	}
+	regiment = {
+		name="2nd Lyon Infantry"
+		type=infantry
+		home=451
+	}
+	regiment = {
+		name="3rd Lyon Infantry"
+		type=infantry
+		home=451
+	}
+	regiment = {
+		name="1st Chambéry Infantry"
+		type=infantry
+		home=466
+	}
+	regiment = {
+		name="1st Verdun Infantry"
+		type=infantry
+		home=413
+	}
+	regiment = {
+		name="1st Frejus Infantry"
+		type=infantry
+		home=471
+	}
+}
+
+army = {
+	name="Armée de Channel Islands"
+	location=1279
+	regiment = {
+		name="3rd St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Toulouse Infantry"
+		type=infantry
+		home=455
+	}
+	regiment = {
+		name="2nd Verdun Infantry"
+		type=infantry
+		home=413
+	}
+	regiment = {
+		name="3rd Chartres Infantry"
+		type=infantry
+		home=426
+	}
+	regiment = {
+		name="3rd Verdun Infantry"
+		type=infantry
+		home=413
+	}
+	regiment = {
+		name="1st Macon Infantry"
+		type=infantry
+		home=431
+	}
+	regiment = {
+		name="2nd Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="3rd Valence Infantry"
+		type=infantry
+		home=453
+	}
+	regiment = {
+		name="1st Charleville Artillery"
+		type=artillery
+		home=405
+	}
+	regiment = {
+		name="1st Cahors Artillery"
+		type=artillery
+		home=450
+	}
+	regiment = {
+		name="1st Verdun Artillery"
+		type=artillery
+		home=413
+	}
+	regiment = {
+		name="2nd Verdun Artillery"
+		type=artillery
+		home=413
+	}
+	regiment = {
+		name="1st Troyes Artillery"
+		type=artillery
+		home=406
+	}
+	regiment = {
+		name="2nd Troyes Artillery"
+		type=artillery
+		home=406
+	}
+	regiment = {
+		name="3rd Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+}
+
+navy = {
+	name="Escadre Bleue"
+	location=1261
+	ship = {
+		name="1st La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Channel Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Brieuc Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd St Brieuc Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nantes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Caen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rouen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rouen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Pau Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armée de Kalahandi"
+	location=1305
+	regiment = {
+		name="4th St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="3rd Limoges Infantry"
+		type=infantry
+		home=445
+	}
+	regiment = {
+		name="5th Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="1st Carcassonne Infantry"
+		type=infantry
+		home=463
+	}
+	regiment = {
+		name="3rd Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="2nd Carcassonne Infantry"
+		type=infantry
+		home=463
+	}
+}
+

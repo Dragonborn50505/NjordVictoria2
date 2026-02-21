@@ -1,0 +1,5 @@
+owner=FLR
+controller=FLR
+add_core=FLR
+trade_goods = tobacco
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=SMO
+controller=JAP
+add_core=SMO
+trade_goods = fish
+life_rating = 10
+terrain = small_island

@@ -1,0 +1,432 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -2
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 23
+	level = 2
+}
+GUJ = {
+	value = 140
+	influence_value = 22
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 48
+	level = 2
+}
+MUL = {
+	value = 81
+	influence_value = 7
+	level = 3
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -3
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = -77
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 48
+	level = 3
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = -13
+	level = 2
+}
+X18 = {
+	value = -76
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Aladdin Alam Shah II Khilji"
+	date="1748.9.3"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Khidr Khan Bhutto"
+	date="1740.10.15"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=1234
+	regiment = {
+		name="1st Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="2nd Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="1st Panipat Cavalry"
+		type=cavalry
+		home=1237
+	}
+	regiment = {
+		name="1st Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="1st Firozpur Artillery"
+		type=artillery
+		home=1234
+	}
+	regiment = {
+		name="2nd Firozpur Artillery"
+		type=artillery
+		home=1234
+	}
+	regiment = {
+		name="1st Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+	regiment = {
+		name="2nd Panipat Cavalry"
+		type=cavalry
+		home=1237
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1237
+	regiment = {
+		name="2nd Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="3rd Firozpur Artillery"
+		type=artillery
+		home=1234
+	}
+}
+

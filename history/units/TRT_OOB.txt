@@ -1,0 +1,801 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -145
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -1
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 84
+	influence_value = 8
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -88
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = -5
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -6
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = -7
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 186
+	influence_value = 34
+	level = 4
+}
+MUG = {
+	value = -1
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -144
+	level = 2
+}
+QUE = {
+	value = -4
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -100
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -2
+	level = 2
+}
+VIJ = {
+	value = -33
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 179
+	influence_value = 32
+	level = 4
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = -1
+	level = 2
+}
+X18 = {
+	value = -108
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = -23
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adityasenagupta VIII Kalachuri"
+	date="1748.4.22"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Narayanapala Roy"
+	date="1728.6.18"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Lalitaditya-Muktapida Borphukan"
+	date="1739.1.25"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Surapala Chandra"
+	date="1742.8.2"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Ramapala Deka"
+	date="1743.7.2"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Rajyapala Kalita"
+	date="1743.7.4"
+	type=sea
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Govindapala Narayan"
+	date="1746.2.11"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Kuvalayapida Roy"
+	date="1749.1.20"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="7th Fleet"
+	location=1261
+	ship = {
+		name="1st Colombo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Colombo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rangoon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Magadhi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jessore Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2798
+	ship = {
+		name="3rd Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Cuttack Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1248
+	regiment = {
+		name="1st Darjeeling Irregulars"
+		type=irregular
+		home=1252
+	}
+	regiment = {
+		name="1st Thimpu Irregulars"
+		type=irregular
+		home=1329
+	}
+	regiment = {
+		name="1st Patna Cavalry"
+		type=cavalry
+		home=1247
+	}
+	regiment = {
+		name="1st Raigarh Artillery"
+		type=artillery
+		home=1282
+	}
+	regiment = {
+		name="1st Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="1st Bhagalpur Artillery"
+		type=artillery
+		home=1250
+	}
+	regiment = {
+		name="1st Tumlong Irregulars"
+		type=irregular
+		home=1328
+	}
+	regiment = {
+		name="2nd Gaya Cavalry"
+		type=cavalry
+		home=1248
+	}
+	regiment = {
+		name="8th Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1247
+	regiment = {
+		name="1st Gaya Irregulars"
+		type=irregular
+		home=1248
+	}
+	regiment = {
+		name="1st Patna Irregulars"
+		type=irregular
+		home=1247
+	}
+	regiment = {
+		name="1st Gaya Cavalry"
+		type=cavalry
+		home=1248
+	}
+	regiment = {
+		name="1st Gauhati Artillery"
+		type=artillery
+		home=1258
+	}
+	regiment = {
+		name="2nd Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="1st Raigarh Irregulars"
+		type=irregular
+		home=1282
+	}
+	regiment = {
+		name="1st Gorakhpur Cavalry"
+		type=cavalry
+		home=1246
+	}
+	regiment = {
+		name="1st Thimpu Artillery"
+		type=artillery
+		home=1329
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2796
+	ship = {
+		name="1st Colombo Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1321
+	regiment = {
+		name="1st Katmandu Irregulars"
+		type=irregular
+		home=1326
+	}
+	regiment = {
+		name="3rd Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="2nd Bhagalpur Artillery"
+		type=artillery
+		home=1250
+	}
+	regiment = {
+		name="1st Gorakhpur Irregulars"
+		type=irregular
+		home=1246
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1321
+	regiment = {
+		name="1st Bhagalpur Irregulars"
+		type=irregular
+		home=1250
+	}
+	regiment = {
+		name="1st Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="2nd Gaya Irregulars"
+		type=irregular
+		home=1248
+	}
+	regiment = {
+		name="2nd Bhagalpur Irregulars"
+		type=irregular
+		home=1250
+	}
+	regiment = {
+		name="1st Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+	regiment = {
+		name="1st Patna Artillery"
+		type=artillery
+		home=1247
+	}
+	regiment = {
+		name="1st Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="3rd Bhagalpur Artillery"
+		type=artillery
+		home=1250
+	}
+	regiment = {
+		name="2nd Patna Artillery"
+		type=artillery
+		home=1247
+	}
+	regiment = {
+		name="3rd Patna Artillery"
+		type=artillery
+		home=1247
+	}
+	regiment = {
+		name="1st Sambalpur Cavalry"
+		type=cavalry
+		home=1263
+	}
+	regiment = {
+		name="2nd Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+	regiment = {
+		name="1st Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1321
+	regiment = {
+		name="1st Keunjahr Irregulars"
+		type=irregular
+		home=1262
+	}
+	regiment = {
+		name="4th Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1247
+	regiment = {
+		name="3rd Gaya Irregulars"
+		type=irregular
+		home=1248
+	}
+	regiment = {
+		name="5th Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="4th Gaya Irregulars"
+		type=irregular
+		home=1248
+	}
+	regiment = {
+		name="7th Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2797
+	ship = {
+		name="1st Sittwe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Cuttack Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1593
+	regiment = {
+		name="6th Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="2nd Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1261
+	ship = {
+		name="5th Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Magadhi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Cuttack Man'o'war"
+		type=manowar
+	}
+}
+

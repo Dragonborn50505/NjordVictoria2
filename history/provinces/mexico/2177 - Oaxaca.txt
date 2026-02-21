@@ -1,0 +1,7 @@
+owner=X26
+controller=X26
+add_core=MIX
+add_core=X26
+add_core=ZAP
+trade_goods = coffee
+life_rating = 35

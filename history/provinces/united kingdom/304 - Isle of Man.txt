@@ -1,0 +1,9 @@
+owner=AUG
+controller=AUG
+add_core=ENG
+add_core=HLR
+add_core=SCO
+trade_goods = fish
+life_rating = 35
+terrain = small_island
+naval_base = 1

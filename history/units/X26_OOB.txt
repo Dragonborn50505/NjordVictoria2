@@ -1,0 +1,729 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 88
+	influence_value = 9
+	level = 3
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 91
+	influence_value = 10
+	level = 3
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -13
+	level = 2
+}
+DES = {
+	value = -12
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 50
+	level = 3
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -12
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = -12
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -110
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 15
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 18
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 50
+	level = 3
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -13
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 7
+	military_access = yes
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = -13
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hilal de Valencia"
+	date="1710.3.2"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jofré Lasso de la Vega"
+	date="1725.5.27"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ölvir de Silva"
+	date="1726.7.31"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Maymun de Alcalá"
+	date="1747.8.19"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="7th Army"
+	location=2173
+	regiment = {
+		name="1st La Mesilla Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="1st Tapachula Infantry"
+		type=infantry
+		home=2182
+	}
+	regiment = {
+		name="1st Puerto Lempira Infantry"
+		type=infantry
+		home=2196
+	}
+	regiment = {
+		name="1st La Ceiba Cavalry"
+		type=cavalry
+		home=2195
+	}
+	regiment = {
+		name="1st La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="1st La Mesilla Artillery"
+		type=artillery
+		home=2187
+	}
+	regiment = {
+		name="1st La Mesilla Cavalry"
+		type=cavalry
+		home=2187
+	}
+	regiment = {
+		name="1st Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+}
+
+army = {
+	name="45th Army"
+	location=2183
+	regiment = {
+		name="1st Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="1st Puebla Cavalry"
+		type=cavalry
+		home=2176
+	}
+	regiment = {
+		name="1st Oaxaca Artillery"
+		type=artillery
+		home=2177
+	}
+	regiment = {
+		name="2nd Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="1st Puebla Artillery"
+		type=artillery
+		home=2176
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2195
+	regiment = {
+		name="1st Comayagua Infantry"
+		type=infantry
+		home=2193
+	}
+	regiment = {
+		name="1st Toluca Infantry"
+		type=infantry
+		home=2174
+	}
+	regiment = {
+		name="1st Morelia Infantry"
+		type=infantry
+		home=2170
+	}
+	regiment = {
+		name="1st Mexico City Cavalry"
+		type=cavalry
+		home=2172
+	}
+	regiment = {
+		name="1st Toluca Artillery"
+		type=artillery
+		home=2174
+	}
+	regiment = {
+		name="3rd La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2163
+	ship = {
+		name="1st San Pedro Sula Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Guatemala City Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2954
+	ship = {
+		name="1st Guatemala City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belize Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Acapulco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Acapulco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Guatemala City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cololo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Minatitlán Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Salvador Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Campeche Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2163
+	ship = {
+		name="1st Oregon City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Oregon City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort Umpqua Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2164
+	regiment = {
+		name="1st Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="2nd Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Puerto Barrios Infantry"
+		type=infantry
+		home=2188
+	}
+	regiment = {
+		name="1st Mérida Cavalry"
+		type=cavalry
+		home=2183
+	}
+	regiment = {
+		name="2nd La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="3rd Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Bacalar Artillery"
+		type=artillery
+		home=2185
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=3158
+	ship = {
+		name="2nd Cololo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Guatemala City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cololo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Guatemala City Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort Vancouver Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Guatemala City Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="18th Fleet"
+	location=3157
+	ship = {
+		name="2nd Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Cololo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Miguel Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Puerto Barrios Frigate"
+		type=frigate
+	}
+}
+

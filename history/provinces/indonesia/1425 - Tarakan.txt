@@ -1,0 +1,9 @@
+owner=MLC
+controller=MLC
+add_core=BRU
+add_core=KTI
+add_core=MLC
+add_core=MLY
+trade_goods = wool
+life_rating = 31
+fort = 1

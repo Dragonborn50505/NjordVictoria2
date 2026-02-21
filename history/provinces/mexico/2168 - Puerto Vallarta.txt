@@ -1,0 +1,6 @@
+owner=X26
+controller=X26
+add_core=CMA
+add_core=X26
+trade_goods = fish
+life_rating = 35

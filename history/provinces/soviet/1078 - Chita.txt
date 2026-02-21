@@ -1,0 +1,6 @@
+owner=YUA
+controller=YUA
+add_core=YAK
+add_core=YUA
+trade_goods = timber
+life_rating = 35

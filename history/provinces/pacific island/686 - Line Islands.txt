@@ -1,0 +1,9 @@
+owner=YUA
+controller=YUA
+add_core=TUR
+add_core=X06
+add_core=YUA
+trade_goods = opium
+life_rating = 15
+terrain = desert
+fort = 1

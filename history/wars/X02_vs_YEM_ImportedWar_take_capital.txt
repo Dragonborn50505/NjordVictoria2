@@ -1,0 +1,14 @@
+name = "3rd Ilkhanid-Yemeni Imperialist War"
+
+1747.10.15 = {
+	add_attacker = X02
+	add_defender = YEM
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = X02
+		receiver = YEM
+		country = YEM
+		state_province_id = 1145
+	}
+}

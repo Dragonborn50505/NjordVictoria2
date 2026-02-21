@@ -1,0 +1,549 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -13
+	level = 2
+}
+DES = {
+	value = -12
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -12
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = -12
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -20
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 30
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -13
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 4
+	level = 2
+}
+X27 = {
+	value = -13
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ölvir de Castilla"
+	date="1730.11.23"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Jofré de la Cerda"
+	date="1739.10.16"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ölvir Manrique de Lara"
+	date="1747.8.19"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Udure de Ávalos"
+	date="1750.7.18"
+	type=land
+	personality="gallant"
+	background="drillmaster"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=2315
+	regiment = {
+		name="1st Ica Infantry"
+		type=infantry
+		home=2297
+	}
+	regiment = {
+		name="1st Pucallpa Infantry"
+		type=infantry
+		home=2300
+	}
+	regiment = {
+		name="1st Arequipa Cavalry"
+		type=cavalry
+		home=2304
+	}
+	regiment = {
+		name="1st Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="1st Chuquisaca Artillery"
+		type=artillery
+		home=2313
+	}
+	regiment = {
+		name="2nd Arequipa Cavalry"
+		type=cavalry
+		home=2304
+	}
+	regiment = {
+		name="3rd Arequipa Cavalry"
+		type=cavalry
+		home=2304
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2295
+	ship = {
+		name="Caupolican"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chalaco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chimbote"
+		type=clipper_transport
+	}
+	ship = {
+		name="Colón"
+		type=clipper_transport
+	}
+	ship = {
+		name="Constitución"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2295
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="2nd La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Ayacucho Artillery"
+		type=artillery
+		home=2299
+	}
+	regiment = {
+		name="1st La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+	regiment = {
+		name="1st Puno Infantry"
+		type=infantry
+		home=2303
+	}
+	regiment = {
+		name="2nd La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2998
+	ship = {
+		name="Amazonas"
+		type=frigate
+	}
+	ship = {
+		name="Apurimac"
+		type=frigate
+	}
+	ship = {
+		name="Callao"
+		type=frigate
+	}
+	ship = {
+		name="Independencia"
+		type=frigate
+	}
+	ship = {
+		name="Mercedes"
+		type=frigate
+	}
+}
+

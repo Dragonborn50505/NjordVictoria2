@@ -1,0 +1,10 @@
+owner=NET
+controller=NET
+add_core=ATJ
+add_core=JAV
+add_core=MLC
+trade_goods = fish
+life_rating = 35
+colonial=2
+naval_base = 2
+fort = 1

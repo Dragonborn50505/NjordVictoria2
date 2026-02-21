@@ -1,0 +1,6 @@
+owner=MRT
+controller=MRT
+add_core=MRT
+trade_goods = timber
+life_rating = 31
+naval_base = 2

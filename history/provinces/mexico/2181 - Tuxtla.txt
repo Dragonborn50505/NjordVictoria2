@@ -1,0 +1,6 @@
+owner=X26
+controller=X26
+add_core=LAC
+add_core=X26
+trade_goods = cotton
+life_rating = 34

@@ -1,0 +1,5 @@
+owner=GUJ
+controller=GUJ
+trade_goods = fish
+life_rating = 30
+terrain = small_island

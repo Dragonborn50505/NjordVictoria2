@@ -1,0 +1,1318 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = -67
+	level = 2
+}
+AVA = {
+	value = 22
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -106
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -108
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 169
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+DES = {
+	value = 157
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = -12
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 157
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+FRA = {
+	value = -2
+	level = 2
+}
+GER = {
+	value = 30
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = -31
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -11
+	level = 2
+}
+JAP = {
+	value = 59
+	influence_value = 2
+	level = 3
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 172
+	military_access = yes
+	influence_value = 80
+	level = 5
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 1
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -11
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -7
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -22
+	level = 2
+}
+SBA = {
+	value = -12
+	level = 2
+}
+SIA = {
+	value = 15
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 22
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 269
+	military_access = yes
+	influence_value = 104
+	level = 5
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = -95
+	level = 2
+}
+X01 = {
+	value = -157
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 14
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -147
+	level = 2
+}
+X27 = {
+	value = 157
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Comhghall O'Brien"
+	date="1735.12.19"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="R0ag0in Butler"
+	date="1741.11.26"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Diarmaid O'Connell"
+	date="1742.1.16"
+	type=sea
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Cathaoir FitzMaurice"
+	date="1743.9.28"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Flann Wentworth"
+	date="1748.9.13"
+	type=sea
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="R0ag0in Wesley"
+	date="1748.12.10"
+	type=sea
+	personality="resolute"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=262
+	ship = {
+		name="Port Láirge"
+		type=manowar
+	}
+	ship = {
+		name="Dún na nGall"
+		type=manowar
+	}
+	ship = {
+		name="Loingsech"
+		type=manowar
+	}
+	ship = {
+		name="Ó’Conghaile"
+		type=manowar
+	}
+	ship = {
+		name="An Cóbh"
+		type=manowar
+	}
+	ship = {
+		name="1st Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belfast Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Irish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dumfries Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dumfries Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cattaro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Melilla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Belfast Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Alicante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ajdir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cattaro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Melilla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Inverness Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trincomalee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cork Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Belfast Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Cattaro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Donegal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cork Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Donegal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dumfries Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Donegal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Armagh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mindoro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Parnell"
+		type=clipper_transport
+	}
+	ship = {
+		name="Oileáin Árann"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Melilla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stirling Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Donegal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Granada Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Waterford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Galway Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cork Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gerona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Carlisle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Dublin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bombay Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3204
+	ship = {
+		name="an Chláir"
+		type=clipper_transport
+	}
+	ship = {
+		name="Mhaigh Eo"
+		type=clipper_transport
+	}
+	ship = {
+		name="Mairead"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zadar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Limerick Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Castellón Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Castellón Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Castellón Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Carlisle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Davao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Carlisle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wexford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Limerick Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sumba Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=1461
+	ship = {
+		name="Fort Rannoch"
+		type=frigate
+	}
+	ship = {
+		name="Cliona"
+		type=frigate
+	}
+	ship = {
+		name="Maev"
+		type=frigate
+	}
+	ship = {
+		name="Macha"
+		type=frigate
+	}
+	ship = {
+		name="1st Waterford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Guatemala City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sumba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mérida Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tombara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Londonderry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mamuju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jaffna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mamuju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cork Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Guatemala City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Glasgow Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Waterford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Sligo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Cork Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Londonderry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Limerick Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Cork Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dublin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Waterford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Wexford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Donegal Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Londonderry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Glasgow Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dublin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Donegal Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Limerick Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Glasgow Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Londonderry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Wexford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Donegal Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Sligo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Donegal Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Wexford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Waterford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Londonderry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Donegal Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=261
+	regiment = {
+		name="1st Stirling Infantry"
+		type=infantry
+		home=270
+	}
+	regiment = {
+		name="2nd Stirling Infantry"
+		type=infantry
+		home=270
+	}
+	regiment = {
+		name="1st Galway Infantry"
+		type=infantry
+		home=258
+	}
+	regiment = {
+		name="1st Belfast Artillery"
+		type=artillery
+		home=254
+	}
+	regiment = {
+		name="1st Sligo Artillery"
+		type=artillery
+		home=259
+	}
+	regiment = {
+		name="3rd Stirling Infantry"
+		type=infantry
+		home=270
+	}
+	regiment = {
+		name="3rd Wexford Infantry"
+		type=infantry
+		home=265
+	}
+	regiment = {
+		name="4th Stirling Infantry"
+		type=infantry
+		home=270
+	}
+	regiment = {
+		name="1st Kildare Artillery"
+		type=artillery
+		home=264
+	}
+	regiment = {
+		name="1st Donegal Artillery"
+		type=artillery
+		home=257
+	}
+	regiment = {
+		name="2nd Sligo Artillery"
+		type=artillery
+		home=259
+	}
+	regiment = {
+		name="2nd Kildare Artillery"
+		type=artillery
+		home=264
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2126
+	ship = {
+		name="an Cóbh"
+		type=frigate
+	}
+	ship = {
+		name="1st Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sumbawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Castellón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Irish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Castellón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Alicante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Castellón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Alicante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Irish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Castellón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Almería Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sumbawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Barcelona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kelang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Padang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sumbawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Banda Aceh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Castellón Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Padang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Sumbawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Valencia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Alicante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Valencia Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1324
+	regiment = {
+		name="1st Wexford Infantry"
+		type=infantry
+		home=265
+	}
+	regiment = {
+		name="1st Kildare Infantry"
+		type=infantry
+		home=264
+	}
+	regiment = {
+		name="2nd Wexford Infantry"
+		type=infantry
+		home=265
+	}
+	regiment = {
+		name="4th Wexford Infantry"
+		type=infantry
+		home=265
+	}
+}
+

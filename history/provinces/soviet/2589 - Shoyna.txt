@@ -1,0 +1,7 @@
+owner=JAP
+controller=REB
+add_core=JAP
+trade_goods = fish
+life_rating = 31
+terrain = small_island
+naval_base = 1

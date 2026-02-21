@@ -1,0 +1,7 @@
+owner=YUA
+controller=YUA
+add_core=UGR
+add_core=YUA
+trade_goods = coal
+life_rating = 15
+terrain = boreal

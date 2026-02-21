@@ -1,0 +1,8 @@
+owner=UKR
+controller=UKR
+add_core=MUS
+add_core=RUS
+add_core=UKR
+trade_goods = timber
+life_rating = 40
+fort = 1

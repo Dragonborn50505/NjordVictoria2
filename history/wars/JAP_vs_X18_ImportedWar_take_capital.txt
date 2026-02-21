@@ -1,0 +1,14 @@
+name = "Japanese-Troian Imperialist War"
+
+1740.8.3 = {
+	add_attacker = JAP
+	add_defender = X18
+	add_defender = AUG
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = JAP
+		receiver = X18
+		country = X18
+	}
+}

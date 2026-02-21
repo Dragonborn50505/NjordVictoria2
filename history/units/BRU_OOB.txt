@@ -1,0 +1,546 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -1
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = -5
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MLC = {
+	value = 180
+	military_access = yes
+	influence_value = 32
+	level = 3
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 10
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -137
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 106
+	influence_value = 14
+	level = 4
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 19
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 106
+	influence_value = 14
+	level = 4
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 290
+	influence_value = 60
+	level = 4
+}
+TEX = {
+	value = -1
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 6
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = -3
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Muhammad T0j ad-D0n Natzar"
+	date="1730.3.4"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Bulkiah Mukhtar"
+	date="1747.10.7"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Al0' ad-D0n Batuta"
+	date="1747.10.9"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1447
+	regiment = {
+		name="1st Brunei Irregulars"
+		type=irregular
+		home=1393
+	}
+	regiment = {
+		name="1st Bintulu Irregulars"
+		type=irregular
+		home=1395
+	}
+	regiment = {
+		name="2nd Bintulu Irregulars"
+		type=irregular
+		home=1395
+	}
+	regiment = {
+		name="1st Pontianak Cavalry"
+		type=cavalry
+		home=1426
+	}
+	regiment = {
+		name="1st Pontianak Artillery"
+		type=artillery
+		home=1426
+	}
+	regiment = {
+		name="1st Brunei Artillery"
+		type=artillery
+		home=1393
+	}
+	regiment = {
+		name="2nd Pontianak Artillery"
+		type=artillery
+		home=1426
+	}
+	regiment = {
+		name="1st Pontianak Irregulars"
+		type=irregular
+		home=1426
+	}
+	regiment = {
+		name="2nd Pontianak Cavalry"
+		type=cavalry
+		home=1426
+	}
+	regiment = {
+		name="1st Kuching Artillery"
+		type=artillery
+		home=1394
+	}
+	regiment = {
+		name="1st Palawan Artillery"
+		type=artillery
+		home=1459
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2811
+	ship = {
+		name="Rajah Brooke"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Belait"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Tutong"
+		type=frigate
+	}
+	ship = {
+		name="Batu Danau"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2816
+	ship = {
+		name="1st Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kuching Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1393
+	ship = {
+		name="Sungai Tembureng"
+		type=manowar
+	}
+	ship = {
+		name="Batang"
+		type=manowar
+	}
+	ship = {
+		name="Trusan"
+		type=manowar
+	}
+	ship = {
+		name="Sungai Pandaruan"
+		type=manowar
+	}
+	ship = {
+		name="Lungai Limbang"
+		type=frigate
+	}
+	ship = {
+		name="Batang Baram"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Bakong"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Tutoh"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Tinjar"
+		type=frigate
+	}
+	ship = {
+		name="1st Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Taliabu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tarakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Kuala Belait"
+		type=manowar
+	}
+	ship = {
+		name="Kuala Medamit"
+		type=frigate
+	}
+}
+

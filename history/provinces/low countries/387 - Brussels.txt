@@ -1,0 +1,15 @@
+owner=NET
+controller=NET
+add_core=BEL
+add_core=FLA
+add_core=NET
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+fort = 1
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

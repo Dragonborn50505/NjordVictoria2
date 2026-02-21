@@ -1,0 +1,7 @@
+owner=X26
+controller=X26
+add_core=TLA
+add_core=X26
+trade_goods = grain
+life_rating = 35
+naval_base = 1

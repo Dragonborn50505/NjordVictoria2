@@ -1,0 +1,703 @@
+#Sphere of Influence
+
+ASH = {
+	value = -2
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 52
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -3
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -1
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -83
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 245
+	influence_value = 48
+	level = 4
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -7
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = -7
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = -58
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+NET = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -82
+	level = 2
+}
+QUE = {
+	value = -5
+	level = 2
+}
+RJP = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -1
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 209
+	influence_value = 39
+	level = 4
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -3
+	level = 2
+}
+VIJ = {
+	value = -80
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 6
+	level = 2
+}
+X05 = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 257
+	influence_value = 51
+	level = 4
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = -259
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = -3
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -1
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Amara Bhonsle"
+	date="1729.8.4"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Mallugi Shinde"
+	date="1732.6.22"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Dridhaprahara Gujar"
+	date="1733.12.9"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Durgasimha Chavan"
+	date="1736.11.21"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Amara Moray"
+	date="1746.2.11"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Amaragangeyya Maruthi"
+	date="1746.2.14"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Mallugi Ramiah"
+	date="1750.6.22"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1274
+	regiment = {
+		name="1st Benares Irregulars"
+		type=irregular
+		home=1245
+	}
+	regiment = {
+		name="1st Hoshangabad Irregulars"
+		type=irregular
+		home=1276
+	}
+	regiment = {
+		name="1st Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="1st Benares Cavalry"
+		type=cavalry
+		home=1245
+	}
+	regiment = {
+		name="1st Sumba Artillery"
+		type=artillery
+		home=1441
+	}
+	regiment = {
+		name="1st Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+	regiment = {
+		name="1st Amarati Irregulars"
+		type=irregular
+		home=1278
+	}
+	regiment = {
+		name="1st Chhatarpur Cavalry"
+		type=cavalry
+		home=1273
+	}
+	regiment = {
+		name="2nd Hoshangabad Artillery"
+		type=artillery
+		home=1276
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1284
+	regiment = {
+		name="2nd Hoshangabad Irregulars"
+		type=irregular
+		home=1276
+	}
+	regiment = {
+		name="3rd Hoshangabad Irregulars"
+		type=irregular
+		home=1276
+	}
+	regiment = {
+		name="4th Hoshangabad Irregulars"
+		type=irregular
+		home=1276
+	}
+	regiment = {
+		name="1st Nagpur Artillery"
+		type=artillery
+		home=1277
+	}
+	regiment = {
+		name="1st Poona Artillery"
+		type=artillery
+		home=1299
+	}
+	regiment = {
+		name="1st Bombay Irregulars"
+		type=irregular
+		home=1297
+	}
+	regiment = {
+		name="1st Hoshangabad Artillery"
+		type=artillery
+		home=1276
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2904
+	ship = {
+		name="1st Port Moresby Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trincomalee Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2790
+	ship = {
+		name="1st Goa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bombay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Belgaum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bombay Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1297
+	ship = {
+		name="1st Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tombara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tombara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belgaum Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Birara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sumba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Moresby Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Colombo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cochin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Goa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Sumba Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,5 @@
+owner=X27
+controller=X27
+add_core=X27
+trade_goods = timber
+life_rating = 20

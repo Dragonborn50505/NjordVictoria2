@@ -1,0 +1,7 @@
+owner=SBA
+controller=SBA
+add_core=SBA
+trade_goods = wool
+life_rating = 15
+terrain = steppe
+naval_base = 1

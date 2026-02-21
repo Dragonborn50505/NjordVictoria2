@@ -1,0 +1,14 @@
+owner=RUS
+controller=RUS
+add_core=NOR
+add_core=RUS
+add_core=SCA
+trade_goods = coal
+life_rating = 40
+naval_base = 1
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

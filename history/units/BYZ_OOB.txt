@@ -1,0 +1,632 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = -337
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -1
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -5
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = -11
+	level = 2
+}
+X01 = {
+	value = -2
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -1
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Manuel Argyros"
+	date="1724.1.5"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Philippos Rhodocanakis"
+	date="1731.8.20"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Hektorios Melisurgos"
+	date="1741.3.9"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Thema Helladikon"
+	location=2604
+	regiment = {
+		name="1st Sydney Infantry"
+		type=infantry
+		home=2468
+	}
+	regiment = {
+		name="1st Eden Infantry"
+		type=infantry
+		home=2472
+	}
+	regiment = {
+		name="1st Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+	regiment = {
+		name="1st Sydney Artillery"
+		type=artillery
+		home=2468
+	}
+	regiment = {
+		name="2nd Sydney Artillery"
+		type=artillery
+		home=2468
+	}
+	regiment = {
+		name="1st Perth Artillery"
+		type=artillery
+		home=2497
+	}
+	regiment = {
+		name="7th Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+}
+
+army = {
+	name="Thema Wulgurukaba"
+	location=2484
+	regiment = {
+		name="2nd Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+	regiment = {
+		name="1st Newcastle Infantry"
+		type=infantry
+		home=2469
+	}
+	regiment = {
+		name="3rd Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+	regiment = {
+		name="2nd Perth Artillery"
+		type=artillery
+		home=2497
+	}
+	regiment = {
+		name="1st Van Diemen's Land Artillery"
+		type=artillery
+		home=2482
+	}
+	regiment = {
+		name="2nd Van Diemen's Land Artillery"
+		type=artillery
+		home=2482
+	}
+}
+
+army = {
+	name="Thema Letopolis"
+	location=2604
+	regiment = {
+		name="1st Adelaide Infantry"
+		type=infantry
+		home=2491
+	}
+	regiment = {
+		name="4th Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+	regiment = {
+		name="1st Melbourne Infantry"
+		type=infantry
+		home=2476
+	}
+	regiment = {
+		name="5th Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+	regiment = {
+		name="6th Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+}
+
+navy = {
+	name="Thema Cypriakon"
+	location=2497
+	ship = {
+		name="Nikolis Apostolis"
+		type=manowar
+	}
+	ship = {
+		name="Tombazis"
+		type=manowar
+	}
+	ship = {
+		name="Poros"
+		type=manowar
+	}
+	ship = {
+		name="Andreas Vokos"
+		type=manowar
+	}
+	ship = {
+		name="Laskarina Bouboulina"
+		type=manowar
+	}
+	ship = {
+		name="Constantine Kanaris"
+		type=manowar
+	}
+	ship = {
+		name="Plixavra"
+		type=manowar
+	}
+	ship = {
+		name="Averof"
+		type=manowar
+	}
+	ship = {
+		name="Hellas"
+		type=frigate
+	}
+	ship = {
+		name="Navarino"
+		type=frigate
+	}
+	ship = {
+		name="Psara"
+		type=frigate
+	}
+	ship = {
+		name="Prinkips Maximilianos"
+		type=frigate
+	}
+	ship = {
+		name="1st Vizagapatnam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kojonup Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Robe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Maxamillianos"
+		type=frigate
+	}
+	ship = {
+		name="3rd Madurai Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Thema Aigaeou Pelagous"
+	location=2604
+	ship = {
+		name="1st Kojonup Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Augusta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Perth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kojonup Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Perth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Normanton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Adelaide Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Esperance Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Perth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melbourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Warrnambool Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Suakin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Lincoln Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Normanton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Perth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Van Diemen's Land Clipper Transport"
+		type=clipper_transport
+	}
+}
+

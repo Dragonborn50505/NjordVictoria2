@@ -1,0 +1,8 @@
+owner=GUJ
+controller=GUJ
+add_core=PGS
+add_core=PHL
+add_core=TDO
+trade_goods = fish
+life_rating = 35
+fort = 1

@@ -1,0 +1,967 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = -107
+	level = 2
+}
+AVA = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 129
+	influence_value = 19
+	level = 3
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = -28
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 144
+	influence_value = 23
+	level = 3
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = -4
+	level = 2
+}
+MUL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -2
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 160
+	influence_value = 27
+	level = 2
+}
+PRU = {
+	value = -54
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = -3
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = -212
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -87
+	level = 2
+}
+YUA = {
+	value = -182
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Arpa Genghisid"
+	date="1726.5.27"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Arpa Jalâl"
+	date="1731.10.25"
+	type=sea
+	personality="soldierly"
+	background="brownnoser"
+}
+
+leader = {
+	name="Musa Khalil"
+	date="1736.5.18"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Baydu Abbâs"
+	date="1736.11.17"
+	type=sea
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="Arghun Akbar"
+	date="1737.10.4"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Jahan Tem0r Genghisid"
+	date="1744.4.20"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Abu Sa'id Mohsin"
+	date="1747.10.18"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Anushirwan Mohsin"
+	date="1749.2.17"
+	type=land
+	personality="chivalrous"
+	background="war_college"
+}
+
+leader = {
+	name="Gazan III Shaybanid"
+	date="1749.9.26"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Gaykhatu Zaman"
+	date="1749.9.25"
+	type=sea
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1179
+	regiment = {
+		name="1st Amritsar Irregulars"
+		type=irregular
+		home=1233
+	}
+	regiment = {
+		name="1st Qatif Artillery"
+		type=artillery
+		home=1163
+	}
+	regiment = {
+		name="1st Kabul Irregulars"
+		type=irregular
+		home=1209
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1178
+	regiment = {
+		name="1st Gorgan Irregulars"
+		type=irregular
+		home=1116
+	}
+	regiment = {
+		name="1st Herat Cavalry"
+		type=cavalry
+		home=1212
+	}
+	regiment = {
+		name="1st Amritsar Artillery"
+		type=artillery
+		home=1233
+	}
+	regiment = {
+		name="2nd Amritsar Artillery"
+		type=artillery
+		home=1233
+	}
+	regiment = {
+		name="1st Doha Irregulars"
+		type=irregular
+		home=1165
+	}
+	regiment = {
+		name="1st Homs Cavalry"
+		type=cavalry
+		home=903
+	}
+	regiment = {
+		name="1st Qarshi Cavalry"
+		type=cavalry
+		home=1200
+	}
+	regiment = {
+		name="1st Rafha Cavalry"
+		type=cavalry
+		home=1158
+	}
+	regiment = {
+		name="1st Damascus Artillery"
+		type=artillery
+		home=902
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1173
+	regiment = {
+		name="2nd Amritsar Irregulars"
+		type=irregular
+		home=1233
+	}
+	regiment = {
+		name="1st Amritsar Cavalry"
+		type=cavalry
+		home=1233
+	}
+	regiment = {
+		name="1st Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="2nd Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="1st Bela Irregulars"
+		type=irregular
+		home=1222
+	}
+	regiment = {
+		name="1st Raqqah Cavalry"
+		type=cavalry
+		home=901
+	}
+	regiment = {
+		name="2nd Homs Cavalry"
+		type=cavalry
+		home=903
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1178
+	regiment = {
+		name="1st Quetta Irregulars"
+		type=irregular
+		home=1219
+	}
+	regiment = {
+		name="1st Zanjan Artillery"
+		type=artillery
+		home=1123
+	}
+	regiment = {
+		name="1st Sialkot Irregulars"
+		type=irregular
+		home=1229
+	}
+	regiment = {
+		name="1st Kandahar Artillery"
+		type=artillery
+		home=1215
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1178
+	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1129
+	}
+	regiment = {
+		name="3rd Amritsar Artillery"
+		type=artillery
+		home=1233
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1155
+	regiment = {
+		name="1st Kalat Irregulars"
+		type=irregular
+		home=1221
+	}
+	regiment = {
+		name="1st Bahrain Cavalry"
+		type=cavalry
+		home=1162
+	}
+	regiment = {
+		name="1st Lengeh Artillery"
+		type=artillery
+		home=1141
+	}
+	regiment = {
+		name="1st Balkh Cavalry"
+		type=cavalry
+		home=1211
+	}
+	regiment = {
+		name="2nd Bahrain Cavalry"
+		type=cavalry
+		home=1162
+	}
+	regiment = {
+		name="1st Riyadh Artillery"
+		type=artillery
+		home=1157
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1179
+	regiment = {
+		name="3rd Amritsar Irregulars"
+		type=irregular
+		home=1233
+	}
+	regiment = {
+		name="4th Amritsar Artillery"
+		type=artillery
+		home=1233
+	}
+}
+
+army = {
+	name="25th Army"
+	location=1173
+	regiment = {
+		name="1st Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+	regiment = {
+		name="1st Rafha Artillery"
+		type=artillery
+		home=1158
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1178
+	regiment = {
+		name="1st Sialkot Artillery"
+		type=artillery
+		home=1229
+	}
+	regiment = {
+		name="1st Kunduz Artillery"
+		type=artillery
+		home=1210
+	}
+}
+
+army = {
+	name="32nd Army"
+	location=1178
+	regiment = {
+		name="5th Amritsar Artillery"
+		type=artillery
+		home=1233
+	}
+	regiment = {
+		name="2nd Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1155
+	regiment = {
+		name="1st Kandahar Irregulars"
+		type=irregular
+		home=1215
+	}
+	regiment = {
+		name="1st Qarshi Artillery"
+		type=artillery
+		home=1200
+	}
+	regiment = {
+		name="3rd Sialkot Artillery"
+		type=artillery
+		home=1229
+	}
+}
+
+army = {
+	name="42nd Army"
+	location=1155
+	regiment = {
+		name="2nd Qarshi Artillery"
+		type=artillery
+		home=1200
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1173
+	regiment = {
+		name="1st Bojnurd Irregulars"
+		type=irregular
+		home=1150
+	}
+	regiment = {
+		name="1st Kashan Cavalry"
+		type=cavalry
+		home=1129
+	}
+	regiment = {
+		name="1st Kabul Artillery"
+		type=artillery
+		home=1209
+	}
+	regiment = {
+		name="1st Sari Artillery"
+		type=artillery
+		home=1115
+	}
+	regiment = {
+		name="2nd Lengeh Artillery"
+		type=artillery
+		home=1141
+	}
+	regiment = {
+		name="1st Qom Cavalry"
+		type=cavalry
+		home=1125
+	}
+	regiment = {
+		name="2nd Qom Cavalry"
+		type=cavalry
+		home=1125
+	}
+	regiment = {
+		name="1st Gizab Artillery"
+		type=artillery
+		home=2133
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1178
+	regiment = {
+		name="1st Zaranj Irregulars"
+		type=irregular
+		home=1214
+	}
+	regiment = {
+		name="1st Kerman Artillery"
+		type=artillery
+		home=1140
+	}
+	regiment = {
+		name="2nd Sialkot Artillery"
+		type=artillery
+		home=1229
+	}
+	regiment = {
+		name="1st Balkh Irregulars"
+		type=irregular
+		home=1211
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=1132
+	ship = {
+		name="1st Kangan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bushire Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1132
+	ship = {
+		name="1st Bandar Abbas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bushire Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bushire Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kangan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kangan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lengeh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kuwait Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Abadan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bushire Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bandar Abbas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hodeida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Massawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Duqm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Basra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Abadan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hufuf Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Abadan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qatif Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kuwait Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bandar Abbas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kangan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Doha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bandar Abbas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Basra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hufuf Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chabahar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bandar Abbas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lengeh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lengeh Clipper Transport"
+		type=clipper_transport
+	}
+}
+

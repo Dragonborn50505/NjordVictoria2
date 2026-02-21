@@ -1,0 +1,698 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 207
+	influence_value = 39
+	level = 4
+}
+BRT = {
+	value = -82
+	level = 2
+}
+BRU = {
+	value = 224
+	military_access = yes
+	influence_value = 63
+	level = 5
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = -18
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -8
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+NET = {
+	value = -356
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 166
+	military_access = yes
+	influence_value = 49
+	level = 5
+}
+NZR = {
+	value = 154
+	military_access = yes
+	influence_value = 46
+	level = 5
+}
+NZT = {
+	value = 175
+	military_access = yes
+	influence_value = 51
+	level = 5
+}
+PAT = {
+	value = 190
+	influence_value = 35
+	level = 4
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 233
+	military_access = yes
+	influence_value = 65
+	level = 5
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -4
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 210
+	military_access = yes
+	influence_value = 60
+	level = 5
+}
+SUL = {
+	value = 193
+	influence_value = 35
+	level = 4
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = -1
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 238
+	influence_value = 47
+	level = 3
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ibr0h0m Sh0h Abdulfatah"
+	date="1738.7.16"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ma'ayat Sh0h Hasanuddin"
+	date="1738.7.18"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sulaym0n Badr Sh0h Ibnu"
+	date="1738.7.19"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sam Agi Amir"
+	date="1743.5.27"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="'Abd al-Jal0l Sh0h Zulkifli"
+	date="1743.7.22"
+	type=land
+	personality="tactful"
+	background="pawn"
+}
+
+leader = {
+	name="Rajah Qasim Hasanuddin"
+	date="1744.3.6"
+	type=sea
+	personality="coolminded"
+	background="brownnoser"
+}
+
+
+#Armies
+navy = {
+	name="8th Fleet"
+	location=2821
+	ship = {
+		name="1st Utrecht Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Ipoh Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2524
+	regiment = {
+		name="1st Bali Irregulars"
+		type=irregular
+		home=1438
+	}
+	regiment = {
+		name="1st Banjarmasin Irregulars"
+		type=irregular
+		home=1423
+	}
+	regiment = {
+		name="1st Kota Waringin Artillery"
+		type=artillery
+		home=1427
+	}
+	regiment = {
+		name="2nd Banjarmasin Artillery"
+		type=artillery
+		home=1423
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1423
+	regiment = {
+		name="2nd Banjarmasin Irregulars"
+		type=irregular
+		home=1423
+	}
+	regiment = {
+		name="1st Gunungsitoli Irregulars"
+		type=irregular
+		home=1411
+	}
+	regiment = {
+		name="1st Samarinda Cavalry"
+		type=cavalry
+		home=1429
+	}
+	regiment = {
+		name="1st Muraleve Artillery"
+		type=artillery
+		home=1422
+	}
+	regiment = {
+		name="1st Banjarmasin Artillery"
+		type=artillery
+		home=1423
+	}
+	regiment = {
+		name="1st Samarinda Artillery"
+		type=artillery
+		home=1429
+	}
+	regiment = {
+		name="1st Tarakan Irregulars"
+		type=irregular
+		home=1425
+	}
+	regiment = {
+		name="1st Bali Cavalry"
+		type=cavalry
+		home=1438
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1424
+	ship = {
+		name="1st Tarakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Malacca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tanjung Puteri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Malacca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Malacca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Siak Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Siak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Georgetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Singapore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jambi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Siak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aru Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Georgetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Van Diemen's Land Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tanjung Puteri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Georgetown Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2813
+	ship = {
+		name="2nd Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanjungpinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malaccan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bulon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3217
+	ship = {
+		name="3rd Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tanjungpinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tarakan Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1423
+	ship = {
+		name="5th Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Malacca Frigate"
+		type=frigate
+	}
+}
+

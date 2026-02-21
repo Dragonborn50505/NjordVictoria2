@@ -1,0 +1,5 @@
+owner=MLC
+controller=MLC
+trade_goods = sulphur
+life_rating = 10
+naval_base = 1

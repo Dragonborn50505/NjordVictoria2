@@ -1,0 +1,7 @@
+owner=X26
+controller=X26
+add_core=TRS
+add_core=X26
+trade_goods = timber
+life_rating = 35
+fort = 1

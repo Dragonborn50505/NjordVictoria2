@@ -1,0 +1,5 @@
+owner=SBA
+controller=SBA
+add_core=SBA
+trade_goods = grain
+life_rating = 35

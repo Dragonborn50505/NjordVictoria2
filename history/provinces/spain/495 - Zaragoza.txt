@@ -1,0 +1,9 @@
+owner=X01
+controller=X01
+add_core=BSQ
+add_core=CAT
+add_core=SPA
+add_core=X01
+trade_goods = grain
+life_rating = 35
+fort = 1

@@ -1,0 +1,6 @@
+owner=X26
+controller=X26
+add_core=KIC
+add_core=X26
+trade_goods = coffee
+life_rating = 39

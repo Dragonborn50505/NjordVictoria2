@@ -1,0 +1,2597 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -2
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 16
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -94
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 6
+	level = 2
+}
+ITA = {
+	value = -160
+	level = 2
+}
+JAP = {
+	value = -16
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -5
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -49
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 75
+	influence_value = 6
+	level = 3
+}
+X26 = {
+	value = 7
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Johann von Hatzfeldt"
+	date="1709.11.29"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Wilhelm Zrinski"
+	date="1710.12.1"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Adolf von Schönburg"
+	date="1727.7.17"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Ferdinand Alvintzky"
+	date="1742.1.5"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+
+#Armies
+army = {
+	name="Kaiserliche Armee"
+	location=774
+	regiment = {
+		name="1st Graz Infantry"
+		type=infantry
+		home=616
+	}
+	regiment = {
+		name="1st Zalaegerszeg Infantry"
+		type=infantry
+		home=639
+	}
+	regiment = {
+		name="1st Niš Infantry"
+		type=infantry
+		home=798
+	}
+	regiment = {
+		name="1st Mostar Infantry"
+		type=infantry
+		home=788
+	}
+	regiment = {
+		name="1st Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="1st Shkoder Infantry"
+		type=infantry
+		home=850
+	}
+	regiment = {
+		name="6th Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=772
+	regiment = {
+		name="1st Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="1st Beszterce Infantry"
+		type=infantry
+		home=661
+	}
+	regiment = {
+		name="1st Oradea Infantry"
+		type=infantry
+		home=647
+	}
+	regiment = {
+		name="1st Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="1st Nagyszeben Infantry"
+		type=infantry
+		home=657
+	}
+	regiment = {
+		name="1st Pest Infantry"
+		type=infantry
+		home=641
+	}
+	regiment = {
+		name="1st Foca Infantry"
+		type=infantry
+		home=787
+	}
+	regiment = {
+		name="1st Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="1st Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Leskovac Infantry"
+		type=infantry
+		home=799
+	}
+	regiment = {
+		name="2nd Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="1st Tirgu Jiu Infantry"
+		type=infantry
+		home=665
+	}
+	regiment = {
+		name="2nd Brasso Infantry"
+		type=infantry
+		home=659
+	}
+	regiment = {
+		name="6th Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="1st Ruse Infantry"
+		type=infantry
+		home=811
+	}
+	regiment = {
+		name="1st Calarasi Infantry"
+		type=infantry
+		home=669
+	}
+}
+
+army = {
+	name="Armee von Branicevo"
+	location=873
+	regiment = {
+		name="3rd Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="1st Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+	regiment = {
+		name="2nd Foca Infantry"
+		type=infantry
+		home=787
+	}
+	regiment = {
+		name="2nd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Osijek Infantry"
+		type=infantry
+		home=779
+	}
+	regiment = {
+		name="3rd Shkoder Infantry"
+		type=infantry
+		home=850
+	}
+	regiment = {
+		name="3rd Sofia Infantry"
+		type=infantry
+		home=809
+	}
+}
+
+army = {
+	name="Armee von Berlin"
+	location=773
+	regiment = {
+		name="1st Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="1st Nitra Infantry"
+		type=infantry
+		home=635
+	}
+	regiment = {
+		name="2nd Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="2nd Beszterce Infantry"
+		type=infantry
+		home=661
+	}
+	regiment = {
+		name="3rd Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="1st Bjelovar Infantry"
+		type=infantry
+		home=776
+	}
+	regiment = {
+		name="1st Xanthe Infantry"
+		type=infantry
+		home=829
+	}
+	regiment = {
+		name="5th Bor Infantry"
+		type=infantry
+		home=795
+	}
+	regiment = {
+		name="3rd Nitra Infantry"
+		type=infantry
+		home=635
+	}
+}
+
+army = {
+	name="Armee von Schlesien"
+	location=1755
+	regiment = {
+		name="2nd Oradea Infantry"
+		type=infantry
+		home=647
+	}
+	regiment = {
+		name="1st Targu Mures Infantry"
+		type=infantry
+		home=2533
+	}
+	regiment = {
+		name="3rd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Zagreb Infantry"
+		type=infantry
+		home=771
+	}
+	regiment = {
+		name="2nd Užice Infantry"
+		type=infantry
+		home=797
+	}
+	regiment = {
+		name="3rd Brasso Infantry"
+		type=infantry
+		home=659
+	}
+	regiment = {
+		name="3rd Nagyszeben Infantry"
+		type=infantry
+		home=657
+	}
+}
+
+army = {
+	name="Armee von Ungarn"
+	location=1762
+	regiment = {
+		name="1st Sofia Infantry"
+		type=infantry
+		home=809
+	}
+	regiment = {
+		name="2nd Požega Infantry"
+		type=infantry
+		home=777
+	}
+	regiment = {
+		name="3rd Foca Infantry"
+		type=infantry
+		home=787
+	}
+	regiment = {
+		name="1st Temesvar Infantry"
+		type=infantry
+		home=652
+	}
+	regiment = {
+		name="2nd Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Bratislava Infantry"
+		type=infantry
+		home=633
+	}
+	regiment = {
+		name="5th Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+}
+
+army = {
+	name="Armee von Torontál"
+	location=873
+	regiment = {
+		name="4th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="2nd Targu Mures Infantry"
+		type=infantry
+		home=2533
+	}
+	regiment = {
+		name="2nd Nagyszeben Infantry"
+		type=infantry
+		home=657
+	}
+	regiment = {
+		name="5th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="9th Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="8th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="7th Targu Mures Infantry"
+		type=infantry
+		home=2533
+	}
+}
+
+army = {
+	name="Armee von Böhmen"
+	location=777
+	regiment = {
+		name="1st Debrecen Artillery"
+		type=artillery
+		home=648
+	}
+	regiment = {
+		name="1st Belgrade Artillery"
+		type=artillery
+		home=794
+	}
+	regiment = {
+		name="1st Brasso Artillery"
+		type=artillery
+		home=659
+	}
+	regiment = {
+		name="1st Kragujevac Artillery"
+		type=artillery
+		home=796
+	}
+	regiment = {
+		name="1st Székesfehérvár Artillery"
+		type=artillery
+		home=643
+	}
+	regiment = {
+		name="2nd Pancevo Artillery"
+		type=artillery
+		home=792
+	}
+	regiment = {
+		name="1st Szatmár Artillery"
+		type=artillery
+		home=651
+	}
+}
+
+army = {
+	name="Armee von Pest"
+	location=873
+	regiment = {
+		name="1st Udvarhely Infantry"
+		type=infantry
+		home=660
+	}
+	regiment = {
+		name="2nd Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="3rd Požega Infantry"
+		type=infantry
+		home=777
+	}
+	regiment = {
+		name="4th Požega Infantry"
+		type=infantry
+		home=777
+	}
+	regiment = {
+		name="10th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="7th Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="5th Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+}
+
+army = {
+	name="6th Army"
+	location=872
+	regiment = {
+		name="1st Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="4th Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="3rd Békéscsaba Infantry"
+		type=infantry
+		home=650
+	}
+	regiment = {
+		name="6th Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+}
+
+army = {
+	name="Armee von Krain"
+	location=1762
+	regiment = {
+		name="1st Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="1st Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="2nd Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="1st Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="4th Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="6th Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="6th Bor Infantry"
+		type=infantry
+		home=795
+	}
+}
+
+army = {
+	name="8th Army"
+	location=785
+	regiment = {
+		name="1st Novi Sad Artillery"
+		type=artillery
+		home=2538
+	}
+	regiment = {
+		name="1st Tirgoviste Artillery"
+		type=artillery
+		home=667
+	}
+	regiment = {
+		name="1st Craiova Artillery"
+		type=artillery
+		home=666
+	}
+	regiment = {
+		name="1st Foca Artillery"
+		type=artillery
+		home=787
+	}
+	regiment = {
+		name="1st Zalaegerszeg Artillery"
+		type=artillery
+		home=639
+	}
+	regiment = {
+		name="1st Miskolc Artillery"
+		type=artillery
+		home=646
+	}
+	regiment = {
+		name="3rd Banja Luka Artillery"
+		type=artillery
+		home=785
+	}
+}
+
+army = {
+	name="Armee von Ragusa"
+	location=304
+	regiment = {
+		name="1st Gyulafehervar Infantry"
+		type=infantry
+		home=655
+	}
+	regiment = {
+		name="3rd Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="2nd Gyulafehervar Infantry"
+		type=infantry
+		home=655
+	}
+	regiment = {
+		name="2nd Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="1st Sofia Artillery"
+		type=artillery
+		home=809
+	}
+	regiment = {
+		name="1st Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="1st Senj Artillery"
+		type=artillery
+		home=774
+	}
+	regiment = {
+		name="2nd Belgrade Artillery"
+		type=artillery
+		home=794
+	}
+	regiment = {
+		name="1st Dubrovnik Artillery"
+		type=artillery
+		home=782
+	}
+	regiment = {
+		name="1st Kaposvár Artillery"
+		type=artillery
+		home=644
+	}
+	regiment = {
+		name="3rd Cluj Infantry"
+		type=infantry
+		home=654
+	}
+	regiment = {
+		name="4th Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="4th Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="2nd Bor Artillery"
+		type=artillery
+		home=795
+	}
+}
+
+army = {
+	name="5th Army"
+	location=775
+	regiment = {
+		name="2nd Sofia Artillery"
+		type=artillery
+		home=809
+	}
+	regiment = {
+		name="1st Pécs Artillery"
+		type=artillery
+		home=640
+	}
+	regiment = {
+		name="1st Mostar Artillery"
+		type=artillery
+		home=788
+	}
+	regiment = {
+		name="2nd Foca Artillery"
+		type=artillery
+		home=787
+	}
+	regiment = {
+		name="1st Cluj Artillery"
+		type=artillery
+		home=654
+	}
+	regiment = {
+		name="1st Ungvár Artillery"
+		type=artillery
+		home=950
+	}
+	regiment = {
+		name="3rd Skopje Artillery"
+		type=artillery
+		home=806
+	}
+}
+
+army = {
+	name="Armee von Szabolcs"
+	location=863
+	regiment = {
+		name="1st Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="2nd Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="1st Tuzla Infantry"
+		type=infantry
+		home=786
+	}
+	regiment = {
+		name="3rd Oradea Infantry"
+		type=infantry
+		home=647
+	}
+	regiment = {
+		name="3rd Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="3rd Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="3rd Užice Infantry"
+		type=infantry
+		home=797
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=869
+	regiment = {
+		name="1st Deva Infantry"
+		type=infantry
+		home=656
+	}
+	regiment = {
+		name="2nd Tuzla Infantry"
+		type=infantry
+		home=786
+	}
+	regiment = {
+		name="1st Užice Infantry"
+		type=infantry
+		home=797
+	}
+	regiment = {
+		name="1st Székesfehérvár Infantry"
+		type=infantry
+		home=643
+	}
+	regiment = {
+		name="1st Banja Luka Infantry"
+		type=infantry
+		home=785
+	}
+}
+
+army = {
+	name="Armee von Beszterce"
+	location=865
+	regiment = {
+		name="1st Banská Bystrica Infantry"
+		type=infantry
+		home=636
+	}
+	regiment = {
+		name="3rd Beszterce Infantry"
+		type=infantry
+		home=661
+	}
+	regiment = {
+		name="1st Bucharest Infantry"
+		type=infantry
+		home=664
+	}
+	regiment = {
+		name="2nd Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="1st Ungvár Infantry"
+		type=infantry
+		home=950
+	}
+	regiment = {
+		name="2nd Ungvár Infantry"
+		type=infantry
+		home=950
+	}
+	regiment = {
+		name="4th Bucharest Infantry"
+		type=infantry
+		home=664
+	}
+}
+
+army = {
+	name="7th Army"
+	location=639
+	regiment = {
+		name="1st Temesvar Artillery"
+		type=artillery
+		home=652
+	}
+	regiment = {
+		name="1st Bor Artillery"
+		type=artillery
+		home=795
+	}
+	regiment = {
+		name="1st Gyor Artillery"
+		type=artillery
+		home=642
+	}
+	regiment = {
+		name="1st Osijek Artillery"
+		type=artillery
+		home=779
+	}
+	regiment = {
+		name="1st Bucharest Artillery"
+		type=artillery
+		home=664
+	}
+	regiment = {
+		name="3rd Novi Sad Artillery"
+		type=artillery
+		home=2538
+	}
+	regiment = {
+		name="1st Beszterce Artillery"
+		type=artillery
+		home=661
+	}
+}
+
+army = {
+	name="Armee von Rijeka"
+	location=768
+	regiment = {
+		name="1st Ljubljana Artillery"
+		type=artillery
+		home=768
+	}
+	regiment = {
+		name="1st Vukovar Artillery"
+		type=artillery
+		home=793
+	}
+	regiment = {
+		name="1st Nagyszeben Artillery"
+		type=artillery
+		home=657
+	}
+	regiment = {
+		name="1st Novi Pazar Artillery"
+		type=artillery
+		home=804
+	}
+	regiment = {
+		name="2nd Cluj Artillery"
+		type=artillery
+		home=654
+	}
+	regiment = {
+		name="2nd Tuzla Artillery"
+		type=artillery
+		home=786
+	}
+	regiment = {
+		name="1st Resicabánya Artillery"
+		type=artillery
+		home=653
+	}
+}
+
+army = {
+	name="Armee von Zagreb"
+	location=767
+	regiment = {
+		name="3rd Cluj Artillery"
+		type=artillery
+		home=654
+	}
+	regiment = {
+		name="1st Niš Artillery"
+		type=artillery
+		home=798
+	}
+	regiment = {
+		name="1st Nitra Artillery"
+		type=artillery
+		home=635
+	}
+	regiment = {
+		name="1st Udvarhely Artillery"
+		type=artillery
+		home=660
+	}
+	regiment = {
+		name="2nd Osijek Artillery"
+		type=artillery
+		home=779
+	}
+	regiment = {
+		name="4th Niš Artillery"
+		type=artillery
+		home=798
+	}
+}
+
+army = {
+	name="Armee von Silistria"
+	location=633
+	regiment = {
+		name="1st Volos Infantry"
+		type=infantry
+		home=832
+	}
+	regiment = {
+		name="1st Pleven Infantry"
+		type=infantry
+		home=812
+	}
+	regiment = {
+		name="1st Dubrovnik Infantry"
+		type=infantry
+		home=782
+	}
+	regiment = {
+		name="3rd Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="2nd Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="1st Durres Infantry"
+		type=infantry
+		home=851
+	}
+	regiment = {
+		name="1st Tirgu Jiu Artillery"
+		type=artillery
+		home=665
+	}
+	regiment = {
+		name="2nd Brasso Artillery"
+		type=artillery
+		home=659
+	}
+	regiment = {
+		name="1st Edirne Artillery"
+		type=artillery
+		home=828
+	}
+	regiment = {
+		name="1st Shkoder Artillery"
+		type=artillery
+		home=850
+	}
+	regiment = {
+		name="1st Volos Artillery"
+		type=artillery
+		home=832
+	}
+	regiment = {
+		name="9th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="3rd Sofia Artillery"
+		type=artillery
+		home=809
+	}
+}
+
+army = {
+	name="Armee von Lika"
+	location=2559
+	regiment = {
+		name="4th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="1st Krems Infantry"
+		type=infantry
+		home=621
+	}
+	regiment = {
+		name="2nd Graz Infantry"
+		type=infantry
+		home=616
+	}
+	regiment = {
+		name="2nd Niš Infantry"
+		type=infantry
+		home=798
+	}
+	regiment = {
+		name="2nd Leskovac Infantry"
+		type=infantry
+		home=799
+	}
+	regiment = {
+		name="3rd Graz Infantry"
+		type=infantry
+		home=616
+	}
+	regiment = {
+		name="2nd Deva Infantry"
+		type=infantry
+		home=656
+	}
+}
+
+army = {
+	name="Armee von Szatmár"
+	location=863
+	regiment = {
+		name="1st Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="5th Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="4th Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="3rd Niš Infantry"
+		type=infantry
+		home=798
+	}
+	regiment = {
+		name="5th Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Cluj Infantry"
+		type=infantry
+		home=654
+	}
+	regiment = {
+		name="10th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+}
+
+navy = {
+	name="Adriatik Flotte"
+	location=1666
+	ship = {
+		name="1st Cattaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Khalkis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Senj Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fiume Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Split Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Volos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kalamata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Missolonghi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tulcea Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gjirokaster Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gjirokaster Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Gjirokaster Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Volos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Polygyros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Durres Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dubrovnik Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Polygyros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Polygyros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amfissa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Edessa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Arta Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armee von Tîrgoviste"
+	location=883
+	regiment = {
+		name="1st Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="1st Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="5th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="3rd Targu Mures Infantry"
+		type=infantry
+		home=2533
+	}
+	regiment = {
+		name="2nd Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="4th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="1st Vidin Artillery"
+		type=artillery
+		home=810
+	}
+	regiment = {
+		name="1st Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="2nd Novi Sad Artillery"
+		type=artillery
+		home=2538
+	}
+	regiment = {
+		name="2nd Bucharest Artillery"
+		type=artillery
+		home=664
+	}
+	regiment = {
+		name="1st Mitrovica Artillery"
+		type=artillery
+		home=791
+	}
+	regiment = {
+		name="1st Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="2nd Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+}
+
+army = {
+	name="16th Army"
+	location=895
+	regiment = {
+		name="1st Banja Luka Artillery"
+		type=artillery
+		home=785
+	}
+	regiment = {
+		name="1st Bihac Artillery"
+		type=artillery
+		home=784
+	}
+	regiment = {
+		name="1st Split Artillery"
+		type=artillery
+		home=780
+	}
+	regiment = {
+		name="1st Petrich Artillery"
+		type=artillery
+		home=808
+	}
+	regiment = {
+		name="1st Durres Artillery"
+		type=artillery
+		home=851
+	}
+	regiment = {
+		name="3rd Tuzla Artillery"
+		type=artillery
+		home=786
+	}
+}
+
+army = {
+	name="13th Army"
+	location=872
+	regiment = {
+		name="2nd Udvarhely Infantry"
+		type=infantry
+		home=660
+	}
+	regiment = {
+		name="5th Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="3rd Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="1st Shumen Infantry"
+		type=infantry
+		home=813
+	}
+	regiment = {
+		name="2nd Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="5th Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="5th Vienna Infantry"
+		type=infantry
+		home=619
+	}
+}
+
+army = {
+	name="15th Army"
+	location=861
+	regiment = {
+		name="6th Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="1st Bitola Infantry"
+		type=infantry
+		home=807
+	}
+	regiment = {
+		name="1st Cattaro Infantry"
+		type=infantry
+		home=2582
+	}
+	regiment = {
+		name="3rd Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="6th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="5th Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="1st Corfu Infantry"
+		type=infantry
+		home=826
+	}
+}
+
+army = {
+	name="17th Army"
+	location=834
+	regiment = {
+		name="4th Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="2nd Cattaro Infantry"
+		type=infantry
+		home=2582
+	}
+	regiment = {
+		name="5th Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="1st Cetinje Infantry"
+		type=infantry
+		home=2583
+	}
+	regiment = {
+		name="2nd Livno Infantry"
+		type=infantry
+		home=789
+	}
+	regiment = {
+		name="3rd Vienna Infantry"
+		type=infantry
+		home=619
+	}
+	regiment = {
+		name="4th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1667
+	regiment = {
+		name="6th Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="2nd Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="2nd Pécs Infantry"
+		type=infantry
+		home=640
+	}
+	regiment = {
+		name="4th Niš Infantry"
+		type=infantry
+		home=798
+	}
+	regiment = {
+		name="2nd Temesvar Infantry"
+		type=infantry
+		home=652
+	}
+	regiment = {
+		name="7th Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="4th Vienna Infantry"
+		type=infantry
+		home=619
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1751
+	regiment = {
+		name="1st Tulcea Infantry"
+		type=infantry
+		home=675
+	}
+	regiment = {
+		name="2nd Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="6th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="2nd Pleven Infantry"
+		type=infantry
+		home=812
+	}
+	regiment = {
+		name="1st Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="7th Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="5th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+}
+
+army = {
+	name="Armee von Kastoria"
+	location=870
+	regiment = {
+		name="7th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="2nd Sofia Infantry"
+		type=infantry
+		home=809
+	}
+	regiment = {
+		name="8th Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="1st Tirana Infantry"
+		type=infantry
+		home=849
+	}
+	regiment = {
+		name="11th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=826
+	ship = {
+		name="1st Senj Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zadar Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1757
+	regiment = {
+		name="1st Varaždin Infantry"
+		type=infantry
+		home=775
+	}
+	regiment = {
+		name="1st Senj Cavalry"
+		type=cavalry
+		home=774
+	}
+	regiment = {
+		name="1st Zadar Artillery"
+		type=artillery
+		home=781
+	}
+	regiment = {
+		name="2nd Zagreb Infantry"
+		type=infantry
+		home=771
+	}
+	regiment = {
+		name="2nd Senj Cavalry"
+		type=cavalry
+		home=774
+	}
+	regiment = {
+		name="1st Zadar Cavalry"
+		type=cavalry
+		home=781
+	}
+	regiment = {
+		name="1st Sisak Artillery"
+		type=artillery
+		home=772
+	}
+}
+
+army = {
+	name="Armee von Kircaali"
+	location=1748
+	regiment = {
+		name="3rd Temesvar Infantry"
+		type=infantry
+		home=652
+	}
+	regiment = {
+		name="2nd Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+	regiment = {
+		name="4th Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="1st Edessa Infantry"
+		type=infantry
+		home=821
+	}
+	regiment = {
+		name="1st Braila Infantry"
+		type=infantry
+		home=668
+	}
+	regiment = {
+		name="3rd Bucharest Infantry"
+		type=infantry
+		home=664
+	}
+	regiment = {
+		name="1st Gallipoli Infantry"
+		type=infantry
+		home=859
+	}
+}
+
+army = {
+	name="Armee von Wienerwald"
+	location=624
+	regiment = {
+		name="2nd Zalaegerszeg Infantry"
+		type=infantry
+		home=639
+	}
+	regiment = {
+		name="1st Vukovar Infantry"
+		type=infantry
+		home=793
+	}
+	regiment = {
+		name="1st Udine Infantry"
+		type=infantry
+		home=733
+	}
+	regiment = {
+		name="1st Ljubljana Infantry"
+		type=infantry
+		home=768
+	}
+	regiment = {
+		name="1st Olomouc Infantry"
+		type=infantry
+		home=632
+	}
+	regiment = {
+		name="1st Postojna Infantry"
+		type=infantry
+		home=769
+	}
+	regiment = {
+		name="2nd Szeged Infantry"
+		type=infantry
+		home=649
+	}
+}
+
+navy = {
+	name="Habsburgische Flotte"
+	location=837
+	ship = {
+		name="1st Zadar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Senj Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zadar Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Hunyadi Matyas"
+	location=842
+	ship = {
+		name="1st Shkoder Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Arta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Shkoder Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trieste Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Arta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kalamata Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Udine Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Amfissa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Athens Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Corinth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Edessa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cattaro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Udine Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Trieste Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fiume Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gallipoli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Missolonghi Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Armee von Smederevo"
+	location=1746
+	regiment = {
+		name="2nd Cluj Infantry"
+		type=infantry
+		home=654
+	}
+	regiment = {
+		name="5th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="3rd Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="1st Pristina Infantry"
+		type=infantry
+		home=802
+	}
+	regiment = {
+		name="8th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="2nd Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="11th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+}
+
+army = {
+	name="Armee von Macedonia"
+	location=870
+	regiment = {
+		name="2nd Dubrovnik Infantry"
+		type=infantry
+		home=782
+	}
+	regiment = {
+		name="1st Athens Infantry"
+		type=infantry
+		home=834
+	}
+	regiment = {
+		name="1st Larissa Infantry"
+		type=infantry
+		home=831
+	}
+}
+
+army = {
+	name="20th Army"
+	location=900
+	regiment = {
+		name="7th Craiova Infantry"
+		type=infantry
+		home=666
+	}
+	regiment = {
+		name="2nd Bitola Infantry"
+		type=infantry
+		home=807
+	}
+	regiment = {
+		name="2nd Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="6th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="1st Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+	regiment = {
+		name="7th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="3rd Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+}
+
+army = {
+	name="25th Army"
+	location=869
+	regiment = {
+		name="2nd Tirgu Jiu Infantry"
+		type=infantry
+		home=665
+	}
+	regiment = {
+		name="3rd Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+	regiment = {
+		name="8th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="3rd Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="3rd Tuzla Infantry"
+		type=infantry
+		home=786
+	}
+}
+
+army = {
+	name="Armee von Split"
+	location=783
+	regiment = {
+		name="3rd Cattaro Infantry"
+		type=infantry
+		home=2582
+	}
+	regiment = {
+		name="2nd Edessa Infantry"
+		type=infantry
+		home=821
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1755
+	regiment = {
+		name="2nd Braila Infantry"
+		type=infantry
+		home=668
+	}
+	regiment = {
+		name="3rd Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="4th Targu Mures Infantry"
+		type=infantry
+		home=2533
+	}
+	regiment = {
+		name="2nd Shkoder Infantry"
+		type=infantry
+		home=850
+	}
+	regiment = {
+		name="8th Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="2nd Pristina Infantry"
+		type=infantry
+		home=802
+	}
+	regiment = {
+		name="1st Dedeagatch Infantry"
+		type=infantry
+		home=830
+	}
+}
+
+army = {
+	name="27th Army"
+	location=894
+	regiment = {
+		name="1st Prizren Infantry"
+		type=infantry
+		home=803
+	}
+	regiment = {
+		name="5th Targu Mures Infantry"
+		type=infantry
+		home=2533
+	}
+	regiment = {
+		name="2nd Bor Infantry"
+		type=infantry
+		home=795
+	}
+	regiment = {
+		name="1st Varna Infantry"
+		type=infantry
+		home=814
+	}
+	regiment = {
+		name="4th Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="3rd Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="2nd Burgas Infantry"
+		type=infantry
+		home=817
+	}
+}
+
+navy = {
+	name="Arpad"
+	location=835
+	ship = {
+		name="2nd Missolonghi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zante Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="21st Army"
+	location=905
+	regiment = {
+		name="5th Niš Infantry"
+		type=infantry
+		home=798
+	}
+	regiment = {
+		name="9th Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="9th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="3rd Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="4th Oradea Infantry"
+		type=infantry
+		home=647
+	}
+	regiment = {
+		name="1st Stara Zagora Infantry"
+		type=infantry
+		home=816
+	}
+	regiment = {
+		name="3rd Burgas Infantry"
+		type=infantry
+		home=817
+	}
+}
+
+army = {
+	name="Armee von Olomouc"
+	location=621
+	regiment = {
+		name="1st Szeged Infantry"
+		type=infantry
+		home=649
+	}
+	regiment = {
+		name="4th Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="2nd Krems Infantry"
+		type=infantry
+		home=621
+	}
+	regiment = {
+		name="3rd Zalaegerszeg Infantry"
+		type=infantry
+		home=639
+	}
+	regiment = {
+		name="3rd Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="1st Bielsko Infantry"
+		type=infantry
+		home=2584
+	}
+	regiment = {
+		name="2nd Bratislava Infantry"
+		type=infantry
+		home=633
+	}
+}
+
+army = {
+	name="29th Army"
+	location=905
+	regiment = {
+		name="1st Resicabánya Infantry"
+		type=infantry
+		home=653
+	}
+	regiment = {
+		name="5th Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="9th Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="2nd Pest Infantry"
+		type=infantry
+		home=641
+	}
+	regiment = {
+		name="2nd Nitra Infantry"
+		type=infantry
+		home=635
+	}
+	regiment = {
+		name="7th Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="6th Targu Mures Infantry"
+		type=infantry
+		home=2533
+	}
+}
+
+army = {
+	name="9th Army"
+	location=875
+	regiment = {
+		name="3rd Belgrade Artillery"
+		type=artillery
+		home=794
+	}
+	regiment = {
+		name="2nd Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="1st Pancevo Artillery"
+		type=artillery
+		home=792
+	}
+	regiment = {
+		name="1st Tulcea Artillery"
+		type=artillery
+		home=675
+	}
+	regiment = {
+		name="3rd Brasso Artillery"
+		type=artillery
+		home=659
+	}
+	regiment = {
+		name="1st Békéscsaba Artillery"
+		type=artillery
+		home=650
+	}
+}
+
+army = {
+	name="32nd Army"
+	location=786
+	regiment = {
+		name="1st Tuzla Artillery"
+		type=artillery
+		home=786
+	}
+	regiment = {
+		name="2nd Niš Artillery"
+		type=artillery
+		home=798
+	}
+	regiment = {
+		name="1st Livno Artillery"
+		type=artillery
+		home=789
+	}
+	regiment = {
+		name="3rd Niš Artillery"
+		type=artillery
+		home=798
+	}
+	regiment = {
+		name="1st Vienna Artillery"
+		type=artillery
+		home=619
+	}
+	regiment = {
+		name="2nd Banja Luka Artillery"
+		type=artillery
+		home=785
+	}
+}
+
+army = {
+	name="Armee von Jaffa"
+	location=875
+	regiment = {
+		name="4th Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="1st Brasso Infantry"
+		type=infantry
+		home=659
+	}
+	regiment = {
+		name="2nd Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+	regiment = {
+		name="10th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="1st Vienna Infantry"
+		type=infantry
+		home=619
+	}
+	regiment = {
+		name="4th Beszterce Infantry"
+		type=infantry
+		home=661
+	}
+	regiment = {
+		name="5th Edirne Infantry"
+		type=infantry
+		home=828
+	}
+}
+
+army = {
+	name="Armee von Iyo"
+	location=1665
+	regiment = {
+		name="2nd Mostar Infantry"
+		type=infantry
+		home=788
+	}
+	regiment = {
+		name="10th Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="2nd Athens Infantry"
+		type=infantry
+		home=834
+	}
+	regiment = {
+		name="2nd Vienna Infantry"
+		type=infantry
+		home=619
+	}
+	regiment = {
+		name="4th Sarajevo Infantry"
+		type=infantry
+		home=783
+	}
+	regiment = {
+		name="3rd Ungvár Infantry"
+		type=infantry
+		home=950
+	}
+	regiment = {
+		name="4th Temesvar Infantry"
+		type=infantry
+		home=652
+	}
+}
+

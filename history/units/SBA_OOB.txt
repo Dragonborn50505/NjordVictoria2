@@ -1,0 +1,777 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 69
+	influence_value = 4
+	level = 3
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 73
+	influence_value = 5
+	level = 3
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -13
+	level = 2
+}
+DES = {
+	value = -12
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -12
+	level = 2
+}
+FRA = {
+	value = 1
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = -12
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -20
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 34
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 9
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 12
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -13
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 50
+	level = 3
+}
+X27 = {
+	value = -13
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Barisone de Haro"
+	date="1726.1.20"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="T'ar'iq de Niebla"
+	date="1743.6.23"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ubertu de Mendoza"
+	date="1747.8.20"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ölvir de Alcalá"
+	date="1747.8.22"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Muhammad Téllez-Girón"
+	date="1747.8.24"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ubertu de Trastámara"
+	date="1750.8.31"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2307
+	regiment = {
+		name="1st Puerto Aisén Infantry"
+		type=infantry
+		home=2333
+	}
+	regiment = {
+		name="1st Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Laboulaye Artillery"
+		type=artillery
+		home=2382
+	}
+	regiment = {
+		name="4th Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2363
+	regiment = {
+		name="1st Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="1st Trenque Lauquen Infantry"
+		type=infantry
+		home=2353
+	}
+	regiment = {
+		name="1st Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+	regiment = {
+		name="2nd Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+	regiment = {
+		name="2nd Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Santiago del Estero Artillery"
+		type=artillery
+		home=2376
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2338
+	regiment = {
+		name="1st Santa Rita Infantry"
+		type=infantry
+		home=2386
+	}
+	regiment = {
+		name="2nd Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+	regiment = {
+		name="1st Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="1st Curacó Infantry"
+		type=infantry
+		home=2395
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2335
+	regiment = {
+		name="2nd Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="1st Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Buenos Aires Cavalry"
+		type=cavalry
+		home=2348
+	}
+	regiment = {
+		name="3rd Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+	regiment = {
+		name="3rd Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="2nd Buenos Aires Cavalry"
+		type=cavalry
+		home=2348
+	}
+	regiment = {
+		name="3rd Buenos Aires Cavalry"
+		type=cavalry
+		home=2348
+	}
+	regiment = {
+		name="4th Buenos Aires Cavalry"
+		type=cavalry
+		home=2348
+	}
+	regiment = {
+		name="5th Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2921
+	ship = {
+		name="ARA Azopardo"
+		type=frigate
+	}
+	ship = {
+		name="ARA Cervantes"
+		type=frigate
+	}
+	ship = {
+		name="ARA Robinson"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2989
+	ship = {
+		name="ARA Espora"
+		type=frigate
+	}
+	ship = {
+		name="ARA Garay"
+		type=frigate
+	}
+	ship = {
+		name="ARA Presidente Sarmiento"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3048
+	ship = {
+		name="ARA Hércules"
+		type=frigate
+	}
+	ship = {
+		name="ARA Heroína"
+		type=frigate
+	}
+	ship = {
+		name="ARA La Argentina"
+		type=frigate
+	}
+	ship = {
+		name="ARA La Libertad"
+		type=frigate
+	}
+	ship = {
+		name="ARA Murillo"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2332
+	ship = {
+		name="ARA América"
+		type=manowar
+	}
+	ship = {
+		name="ARA Aquíles"
+		type=manowar
+	}
+	ship = {
+		name="ARA Argentina"
+		type=manowar
+	}
+	ship = {
+		name="ARA Argonauta"
+		type=manowar
+	}
+	ship = {
+		name="ARA Furor"
+		type=manowar
+	}
+	ship = {
+		name="ARA Héroe"
+		type=manowar
+	}
+	ship = {
+		name="ARA Libertador"
+		type=manowar
+	}
+	ship = {
+		name="ARA Parker"
+		type=frigate
+	}
+	ship = {
+		name="ARA Piedra Buena"
+		type=frigate
+	}
+	ship = {
+		name="ARA Águila"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Apolo"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Atlántida"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Audaz"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Ceres"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Cóndor"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Cruel"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Delfín"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Eolo"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Esperanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Fénix"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Fidela"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Flora"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Hera"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Iris"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Lanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Minerva"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Minotauro"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Movimiento"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Navegante"
+		type=manowar
+	}
+	ship = {
+		name="ARA República"
+		type=frigate
+	}
+	ship = {
+		name="ARA Odisea"
+		type=clipper_transport
+	}
+}
+

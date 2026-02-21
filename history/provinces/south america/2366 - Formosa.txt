@@ -1,0 +1,6 @@
+owner=SBA
+controller=SBA
+add_core=SBA
+trade_goods = cotton
+life_rating = 15
+terrain = savanna

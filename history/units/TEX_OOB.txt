@@ -1,0 +1,519 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -12
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -14
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = -12
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+ITA = {
+	value = -11
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -83
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MUL = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -11
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 8
+	level = 2
+}
+QUE = {
+	value = -82
+	level = 2
+}
+RJP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = -12
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -59
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = -12
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -13
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Iarfhlaith Blayney"
+	date="1747.8.18"
+	type=land
+	personality="resolute"
+	background="generals_aide"
+}
+
+leader = {
+	name="Aerdghal O'Connell"
+	date="1747.8.21"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="R0ag0in Hervey"
+	date="1747.8.23"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=116
+	regiment = {
+		name="1st Chicago Artillery"
+		type=artillery
+		home=163
+	}
+	regiment = {
+		name="1st Evansville Artillery"
+		type=artillery
+		home=170
+	}
+}
+
+army = {
+	name="1st Army"
+	location=144
+	regiment = {
+		name="1st New Orleans Infantry"
+		type=infantry
+		home=139
+	}
+	regiment = {
+		name="1st Indianapolis Artillery"
+		type=artillery
+		home=169
+	}
+	regiment = {
+		name="1st Peoria Artillery"
+		type=artillery
+		home=166
+	}
+	regiment = {
+		name="1st Fayetteville Artillery"
+		type=artillery
+		home=145
+	}
+	regiment = {
+		name="1st Kansas City Infantry"
+		type=infantry
+		home=150
+	}
+	regiment = {
+		name="1st Champaign Artillery"
+		type=artillery
+		home=165
+	}
+}
+
+army = {
+	name="6th Army"
+	location=120
+	regiment = {
+		name="1st Indianapolis Infantry"
+		type=infantry
+		home=169
+	}
+	regiment = {
+		name="2nd Chicago Artillery"
+		type=artillery
+		home=163
+	}
+	regiment = {
+		name="3rd Chicago Artillery"
+		type=artillery
+		home=163
+	}
+	regiment = {
+		name="1st Jefferson City Artillery"
+		type=artillery
+		home=149
+	}
+}
+
+army = {
+	name="Republican Guard"
+	location=116
+	regiment = {
+		name="1st Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="2nd Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="3rd Chicago Infantry"
+		type=infantry
+		home=163
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2795
+	ship = {
+		name="Texas"
+		type=frigate
+	}
+	ship = {
+		name="The Alamo"
+		type=frigate
+	}
+	ship = {
+		name="San Jacinto"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=MLC
+controller=MLC
+trade_goods = fish
+life_rating = 10
+terrain = small_island
+naval_base = 1

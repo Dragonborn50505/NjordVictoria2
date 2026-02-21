@@ -1,0 +1,13 @@
+owner=X01
+controller=X01
+add_core=SPA
+add_core=X01
+trade_goods = silk
+life_rating = 35
+naval_base = 2
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

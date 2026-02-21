@@ -1,0 +1,1638 @@
+#Sphere of Influence
+
+ASH = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 25
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 43
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -3
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GOC = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = -124
+	level = 2
+}
+HSE = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 25
+	level = 2
+}
+JAP = {
+	value = 50
+	level = 3
+}
+JER = {
+	value = 86
+	influence_value = 9
+	level = 2
+}
+KWN = {
+	value = 52
+	level = 2
+}
+LNA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+MEW = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+MRT = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MUG = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+MUL = {
+	value = 48
+	level = 2
+}
+MYS = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+NET = {
+	value = -73
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PNJ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PRU = {
+	value = -34
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RJP = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+RUS = {
+	value = 1
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOR = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 125
+	influence_value = 18
+	level = 3
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X01 = {
+	value = -36
+	level = 2
+}
+X02 = {
+	value = -6
+	level = 2
+}
+X05 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X18 = {
+	value = -126
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Shams-i-Jahan Bayardai"
+	date="1718.3.2"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="32nd Army"
+	location=1191
+	regiment = {
+		name="1st Kokshetau Irregulars"
+		type=irregular
+		home=1184
+	}
+	regiment = {
+		name="1st Chimkent Cavalry"
+		type=cavalry
+		home=1197
+	}
+	regiment = {
+		name="1st Amul Artillery"
+		type=artillery
+		home=1206
+	}
+}
+
+army = {
+	name="19th Army"
+	location=686
+	regiment = {
+		name="1st Tomsk Irregulars"
+		type=irregular
+		home=1063
+	}
+	regiment = {
+		name="1st Uriankhai Irregulars"
+		type=irregular
+		home=1469
+	}
+	regiment = {
+		name="1st Bulgan Cavalry"
+		type=cavalry
+		home=2678
+	}
+	regiment = {
+		name="1st Urumqi Cavalry"
+		type=cavalry
+		home=1600
+	}
+	regiment = {
+		name="1st Saghalian Oula Artillery"
+		type=artillery
+		home=2617
+	}
+	regiment = {
+		name="1st Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Tongzhou Artillery"
+		type=artillery
+		home=1541
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2674
+	regiment = {
+		name="1st Laizhou Irregulars"
+		type=irregular
+		home=1565
+	}
+	regiment = {
+		name="1st Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Zhongding Artillery"
+		type=artillery
+		home=1618
+	}
+	regiment = {
+		name="1st Tianjin Artillery"
+		type=artillery
+		home=1617
+	}
+	regiment = {
+		name="1st Quanzhou Irregulars"
+		type=irregular
+		home=1484
+	}
+	regiment = {
+		name="1st Zhongding Cavalry"
+		type=cavalry
+		home=1618
+	}
+	regiment = {
+		name="1st Ningxia Artillery"
+		type=artillery
+		home=1491
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1491
+	regiment = {
+		name="1st Yizhou Irregulars"
+		type=irregular
+		home=1571
+	}
+	regiment = {
+		name="1st Tianjin Irregulars"
+		type=irregular
+		home=1617
+	}
+	regiment = {
+		name="1st Anqing Cavalry"
+		type=cavalry
+		home=1470
+	}
+	regiment = {
+		name="2nd Zhongding Artillery"
+		type=artillery
+		home=1618
+	}
+	regiment = {
+		name="1st Anqing Artillery"
+		type=artillery
+		home=1470
+	}
+	regiment = {
+		name="1st Suzhou Artillery"
+		type=artillery
+		home=1539
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1613
+	ship = {
+		name="Yingchang"
+		type=manowar
+	}
+	ship = {
+		name="Karakorum"
+		type=manowar
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1184
+	regiment = {
+		name="1st Boli Irregulars"
+		type=irregular
+		home=1083
+	}
+	regiment = {
+		name="1st Xuzhou Cavalry"
+		type=cavalry
+		home=1542
+	}
+	regiment = {
+		name="1st Guihua Tumed Artillery"
+		type=artillery
+		home=1532
+	}
+	regiment = {
+		name="1st Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="1st Tongzhou Irregulars"
+		type=irregular
+		home=1541
+	}
+	regiment = {
+		name="1st Laizhou Cavalry"
+		type=cavalry
+		home=1565
+	}
+	regiment = {
+		name="5th Xian Artillery"
+		type=artillery
+		home=1559
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1084
+	regiment = {
+		name="1st Kumul Irregulars"
+		type=irregular
+		home=1599
+	}
+	regiment = {
+		name="1st Gongchang Cavalry"
+		type=cavalry
+		home=1489
+	}
+	regiment = {
+		name="1st Gongchang Artillery"
+		type=artillery
+		home=1489
+	}
+	regiment = {
+		name="2nd Gongchang Artillery"
+		type=artillery
+		home=1489
+	}
+	regiment = {
+		name="2nd Kumul Irregulars"
+		type=irregular
+		home=1599
+	}
+	regiment = {
+		name="1st Xining Artillery"
+		type=artillery
+		home=1557
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1191
+	regiment = {
+		name="1st Qaratal Irregulars"
+		type=irregular
+		home=1188
+	}
+	regiment = {
+		name="1st Bishkek Cavalry"
+		type=cavalry
+		home=1189
+	}
+	regiment = {
+		name="1st Samarkand Artillery"
+		type=artillery
+		home=1199
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1193
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="2nd Chimkent Cavalry"
+		type=cavalry
+		home=1197
+	}
+	regiment = {
+		name="1st Khovd Artillery"
+		type=artillery
+		home=2679
+	}
+}
+
+army = {
+	name="9th Army"
+	location=29
+	regiment = {
+		name="2nd Kokshetau Irregulars"
+		type=irregular
+		home=1184
+	}
+	regiment = {
+		name="1st Khiva Cavalry"
+		type=cavalry
+		home=1191
+	}
+	regiment = {
+		name="2nd Khovd Artillery"
+		type=artillery
+		home=2679
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1064
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Khotan Cavalry"
+		type=cavalry
+		home=1598
+	}
+	regiment = {
+		name="1st Mukden Artillery"
+		type=artillery
+		home=1479
+	}
+	regiment = {
+		name="2nd Mukden Artillery"
+		type=artillery
+		home=1479
+	}
+	regiment = {
+		name="1st Naryn Irregulars"
+		type=irregular
+		home=1190
+	}
+	regiment = {
+		name="1st Yenan Cavalry"
+		type=cavalry
+		home=1561
+	}
+	regiment = {
+		name="1st Yenan Artillery"
+		type=artillery
+		home=1561
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1067
+	regiment = {
+		name="2nd Laizhou Irregulars"
+		type=irregular
+		home=1565
+	}
+	regiment = {
+		name="1st Luan Cavalry"
+		type=cavalry
+		home=1574
+	}
+	regiment = {
+		name="2nd Tianjin Artillery"
+		type=artillery
+		home=1617
+	}
+	regiment = {
+		name="2nd Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="2nd Tianjin Irregulars"
+		type=irregular
+		home=1617
+	}
+	regiment = {
+		name="1st Hanzhong Cavalry"
+		type=cavalry
+		home=1562
+	}
+	regiment = {
+		name="6th Xian Artillery"
+		type=artillery
+		home=1559
+	}
+}
+
+army = {
+	name="31st Army"
+	location=1205
+	regiment = {
+		name="1st Kyzylkum Irregulars"
+		type=irregular
+		home=29
+	}
+	regiment = {
+		name="1st Kashgar Cavalry"
+		type=cavalry
+		home=1594
+	}
+	regiment = {
+		name="2nd Kashgar Cavalry"
+		type=cavalry
+		home=1594
+	}
+	regiment = {
+		name="1st Khotan Artillery"
+		type=artillery
+		home=1598
+	}
+	regiment = {
+		name="1st Urumqi Artillery"
+		type=artillery
+		home=1600
+	}
+	regiment = {
+		name="1st Tashkent Irregulars"
+		type=irregular
+		home=1195
+	}
+	regiment = {
+		name="2nd Aksu Cavalry"
+		type=cavalry
+		home=1597
+	}
+	regiment = {
+		name="1st Uriankhai Artillery"
+		type=artillery
+		home=1469
+	}
+}
+
+army = {
+	name="25th Army"
+	location=1186
+	regiment = {
+		name="1st Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="2nd Bishkek Cavalry"
+		type=cavalry
+		home=1189
+	}
+	regiment = {
+		name="2nd Khiva Cavalry"
+		type=cavalry
+		home=1191
+	}
+	regiment = {
+		name="1st Srinagar Artillery"
+		type=artillery
+		home=1224
+	}
+	regiment = {
+		name="1st Leh Artillery"
+		type=artillery
+		home=1226
+	}
+	regiment = {
+		name="1st Mashhad Irregulars"
+		type=irregular
+		home=1147
+	}
+	regiment = {
+		name="1st Zhetysu Cavalry"
+		type=cavalry
+		home=1186
+	}
+	regiment = {
+		name="6th Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+}
+
+army = {
+	name="21st Army"
+	location=686
+	regiment = {
+		name="2nd Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="3rd Bishkek Cavalry"
+		type=cavalry
+		home=1189
+	}
+	regiment = {
+		name="1st Changzhou Cavalry"
+		type=cavalry
+		home=1537
+	}
+	regiment = {
+		name="1st Sabzevar Artillery"
+		type=artillery
+		home=1149
+	}
+	regiment = {
+		name="1st Semnan Artillery"
+		type=artillery
+		home=1126
+	}
+	regiment = {
+		name="1st Nantong Irregulars"
+		type=irregular
+		home=1540
+	}
+	regiment = {
+		name="2nd Zhetysu Cavalry"
+		type=cavalry
+		home=1186
+	}
+	regiment = {
+		name="2nd Kainsk Artillery"
+		type=artillery
+		home=2686
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1186
+	regiment = {
+		name="1st Nukus Irregulars"
+		type=irregular
+		home=1192
+	}
+	regiment = {
+		name="1st Aksu Cavalry"
+		type=cavalry
+		home=1597
+	}
+	regiment = {
+		name="1st Ili Cavalry"
+		type=cavalry
+		home=1595
+	}
+	regiment = {
+		name="1st Surgut Artillery"
+		type=artillery
+		home=2646
+	}
+	regiment = {
+		name="1st Tulta Artillery"
+		type=artillery
+		home=1596
+	}
+	regiment = {
+		name="1st Kyzyl-Su Irregulars"
+		type=irregular
+		home=1205
+	}
+	regiment = {
+		name="1st Turgay Cavalry"
+		type=cavalry
+		home=2611
+	}
+	regiment = {
+		name="1st Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1206
+	regiment = {
+		name="1st Ili Irregulars"
+		type=irregular
+		home=1595
+	}
+	regiment = {
+		name="1st Khovd Irregulars"
+		type=irregular
+		home=2679
+	}
+	regiment = {
+		name="1st Tianjin Cavalry"
+		type=cavalry
+		home=1617
+	}
+	regiment = {
+		name="2nd Tianjin Cavalry"
+		type=cavalry
+		home=1617
+	}
+	regiment = {
+		name="1st Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+	regiment = {
+		name="1st Chaozhou Artillery"
+		type=artillery
+		home=1494
+	}
+	regiment = {
+		name="1st Shaozhou Artillery"
+		type=artillery
+		home=1500
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1492
+	regiment = {
+		name="1st Anqing Irregulars"
+		type=irregular
+		home=1470
+	}
+	regiment = {
+		name="1st Huaian Irregulars"
+		type=irregular
+		home=1536
+	}
+	regiment = {
+		name="1st Suzhou Cavalry"
+		type=cavalry
+		home=1539
+	}
+	regiment = {
+		name="3rd Tianjin Artillery"
+		type=artillery
+		home=1617
+	}
+	regiment = {
+		name="1st Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+	regiment = {
+		name="1st Quanzhou Artillery"
+		type=artillery
+		home=1484
+	}
+}
+
+army = {
+	name="30th Army"
+	location=1197
+	regiment = {
+		name="1st Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="1st Zhetysu Irregulars"
+		type=irregular
+		home=1186
+	}
+	regiment = {
+		name="1st Novopetrovskoye Cavalry"
+		type=cavalry
+		home=1194
+	}
+	regiment = {
+		name="2nd Novopetrovskoye Cavalry"
+		type=cavalry
+		home=1194
+	}
+	regiment = {
+		name="1st Qaratal Cavalry"
+		type=cavalry
+		home=1188
+	}
+	regiment = {
+		name="2nd Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Gurgench Cavalry"
+		type=cavalry
+		home=1196
+	}
+	regiment = {
+		name="1st Kainsk Artillery"
+		type=artillery
+		home=2686
+	}
+	regiment = {
+		name="2nd Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+	regiment = {
+		name="1st Khatgal Artillery"
+		type=artillery
+		home=2608
+	}
+	regiment = {
+		name="1st Shadrinsk Artillery"
+		type=artillery
+		home=2614
+	}
+	regiment = {
+		name="2nd Tulta Artillery"
+		type=artillery
+		home=1596
+	}
+	regiment = {
+		name="2nd Zhetysu Irregulars"
+		type=irregular
+		home=1186
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1585
+	regiment = {
+		name="1st Nanning Irregulars"
+		type=irregular
+		home=1502
+	}
+	regiment = {
+		name="1st Dali Irregulars"
+		type=irregular
+		home=1602
+	}
+	regiment = {
+		name="1st Kegudo Cavalry"
+		type=cavalry
+		home=1558
+	}
+	regiment = {
+		name="1st Longan Cavalry"
+		type=cavalry
+		home=1582
+	}
+	regiment = {
+		name="1st Son La Cavalry"
+		type=cavalry
+		home=1372
+	}
+	regiment = {
+		name="1st Makhai Cavalry"
+		type=cavalry
+		home=1556
+	}
+	regiment = {
+		name="1st Xiangyang Cavalry"
+		type=cavalry
+		home=1523
+	}
+	regiment = {
+		name="1st Xian Cavalry"
+		type=cavalry
+		home=1559
+	}
+	regiment = {
+		name="1st Yingzhou Artillery"
+		type=artillery
+		home=1478
+	}
+	regiment = {
+		name="1st Jiayuguan Artillery"
+		type=artillery
+		home=1488
+	}
+	regiment = {
+		name="2nd Yingzhou Artillery"
+		type=artillery
+		home=1478
+	}
+	regiment = {
+		name="3rd Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="1st Hue Artillery"
+		type=artillery
+		home=1375
+	}
+	regiment = {
+		name="1st Vinh Artillery"
+		type=artillery
+		home=1376
+	}
+	regiment = {
+		name="1st Puer Irregulars"
+		type=irregular
+		home=1603
+	}
+}
+
+army = {
+	name="26th Army"
+	location=1616
+	regiment = {
+		name="1st Bayan Tumen Irregulars"
+		type=irregular
+		home=1467
+	}
+	regiment = {
+		name="1st Taiyuan Cavalry"
+		type=cavalry
+		home=1572
+	}
+	regiment = {
+		name="1st Fenzhou Cavalry"
+		type=cavalry
+		home=1573
+	}
+	regiment = {
+		name="1st Dalandzadgad Cavalry"
+		type=cavalry
+		home=1466
+	}
+	regiment = {
+		name="1st Lanzhou Artillery"
+		type=artillery
+		home=1490
+	}
+	regiment = {
+		name="3rd Gongchang Artillery"
+		type=artillery
+		home=1489
+	}
+	regiment = {
+		name="1st Baotung Artillery"
+		type=artillery
+		home=1579
+	}
+	regiment = {
+		name="1st Yeke Juu Chuulghan Irregulars"
+		type=irregular
+		home=1535
+	}
+}
+
+army = {
+	name="59th Army"
+	location=1185
+	regiment = {
+		name="1st Chimkent Irregulars"
+		type=irregular
+		home=1197
+	}
+	regiment = {
+		name="2nd Kyzylkum Irregulars"
+		type=irregular
+		home=29
+	}
+	regiment = {
+		name="1st Kokand Cavalry"
+		type=cavalry
+		home=1202
+	}
+	regiment = {
+		name="1st Jinan Cavalry"
+		type=cavalry
+		home=1563
+	}
+	regiment = {
+		name="1st Khujand Cavalry"
+		type=cavalry
+		home=1201
+	}
+	regiment = {
+		name="2nd Jinan Cavalry"
+		type=cavalry
+		home=1563
+	}
+	regiment = {
+		name="2nd Khotan Cavalry"
+		type=cavalry
+		home=1598
+	}
+	regiment = {
+		name="3rd Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Tyumen Artillery"
+		type=artillery
+		home=1061
+	}
+	regiment = {
+		name="1st Tomsk Artillery"
+		type=artillery
+		home=1063
+	}
+	regiment = {
+		name="3rd Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+	regiment = {
+		name="1st Lop Nur Artillery"
+		type=artillery
+		home=2607
+	}
+	regiment = {
+		name="1st Makhai Artillery"
+		type=artillery
+		home=1556
+	}
+	regiment = {
+		name="3rd Khovd Artillery"
+		type=artillery
+		home=2679
+	}
+	regiment = {
+		name="1st Turkistan Irregulars"
+		type=irregular
+		home=1185
+	}
+}
+
+army = {
+	name="91st Army"
+	location=1567
+	regiment = {
+		name="1st Hailanpao Irregulars"
+		type=irregular
+		home=1085
+	}
+	regiment = {
+		name="3rd Jinan Cavalry"
+		type=cavalry
+		home=1563
+	}
+	regiment = {
+		name="4th Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Ulaan Chab Chuulghan Cavalry"
+		type=cavalry
+		home=1534
+	}
+	regiment = {
+		name="2nd Guihua Tumed Artillery"
+		type=artillery
+		home=1532
+	}
+	regiment = {
+		name="1st Urga Artillery"
+		type=artillery
+		home=1465
+	}
+	regiment = {
+		name="4th Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+}
+
+army = {
+	name="70th Army"
+	location=1613
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="2nd Dalandzadgad Cavalry"
+		type=cavalry
+		home=1466
+	}
+	regiment = {
+		name="1st Jirim Chuulgan Cavalry"
+		type=cavalry
+		home=1533
+	}
+	regiment = {
+		name="1st Sainshand Cavalry"
+		type=cavalry
+		home=2207
+	}
+	regiment = {
+		name="1st Aigun Artillery"
+		type=artillery
+		home=1553
+	}
+	regiment = {
+		name="1st Manzhouli Artillery"
+		type=artillery
+		home=1002
+	}
+	regiment = {
+		name="2nd Jiayuguan Artillery"
+		type=artillery
+		home=1488
+	}
+}
+
+army = {
+	name="103rd Army"
+	location=2207
+	regiment = {
+		name="1st Bulgan Irregulars"
+		type=irregular
+		home=2678
+	}
+	regiment = {
+		name="1st Krasnoyarsk Cavalry"
+		type=cavalry
+		home=1077
+	}
+	regiment = {
+		name="2nd Krasnoyarsk Cavalry"
+		type=cavalry
+		home=1077
+	}
+	regiment = {
+		name="1st Khovd Cavalry"
+		type=cavalry
+		home=2679
+	}
+	regiment = {
+		name="3rd Tulta Artillery"
+		type=artillery
+		home=1596
+	}
+	regiment = {
+		name="2nd Urumqi Artillery"
+		type=artillery
+		home=1600
+	}
+	regiment = {
+		name="4th Tulta Artillery"
+		type=artillery
+		home=1596
+	}
+}
+
+army = {
+	name="161st Army"
+	location=1181
+	regiment = {
+		name="1st Turgay Irregulars"
+		type=irregular
+		home=2611
+	}
+	regiment = {
+		name="1st Akmolinsk Irregulars"
+		type=irregular
+		home=1181
+	}
+	regiment = {
+		name="1st Samarkand Cavalry"
+		type=cavalry
+		home=1199
+	}
+	regiment = {
+		name="2nd Urumqi Cavalry"
+		type=cavalry
+		home=1600
+	}
+	regiment = {
+		name="1st Omsk Cavalry"
+		type=cavalry
+		home=1064
+	}
+	regiment = {
+		name="1st Alty-Kuduk Cavalry"
+		type=cavalry
+		home=2702
+	}
+	regiment = {
+		name="1st Ak-Mechet Cavalry"
+		type=cavalry
+		home=1193
+	}
+	regiment = {
+		name="1st Narym Cavalry"
+		type=cavalry
+		home=2683
+	}
+	regiment = {
+		name="2nd Urga Artillery"
+		type=artillery
+		home=1465
+	}
+	regiment = {
+		name="1st Bulgan Artillery"
+		type=artillery
+		home=2678
+	}
+	regiment = {
+		name="2nd Lop Nur Artillery"
+		type=artillery
+		home=2607
+	}
+	regiment = {
+		name="2nd Amul Artillery"
+		type=artillery
+		home=1206
+	}
+	regiment = {
+		name="1st Jinan Artillery"
+		type=artillery
+		home=1563
+	}
+	regiment = {
+		name="3rd Urga Artillery"
+		type=artillery
+		home=1465
+	}
+	regiment = {
+		name="1st Balkhash Irregulars"
+		type=irregular
+		home=2606
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=1552
+	regiment = {
+		name="1st Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+	regiment = {
+		name="1st Utchan Cavalry"
+		type=cavalry
+		home=1084
+	}
+	regiment = {
+		name="1st Ninguta Cavalry"
+		type=cavalry
+		home=1554
+	}
+	regiment = {
+		name="1st Jilin Cavalry"
+		type=cavalry
+		home=1555
+	}
+	regiment = {
+		name="1st Nantong Artillery"
+		type=artillery
+		home=1540
+	}
+	regiment = {
+		name="3rd Guihua Tumed Artillery"
+		type=artillery
+		home=1532
+	}
+	regiment = {
+		name="5th Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1534
+	regiment = {
+		name="1st Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1534
+	}
+	regiment = {
+		name="2nd Jirim Chuulgan Cavalry"
+		type=cavalry
+		home=1533
+	}
+	regiment = {
+		name="4th Jinan Cavalry"
+		type=cavalry
+		home=1563
+	}
+	regiment = {
+		name="1st Urga Cavalry"
+		type=cavalry
+		home=1465
+	}
+	regiment = {
+		name="1st Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="1st Kumul Artillery"
+		type=artillery
+		home=1599
+	}
+	regiment = {
+		name="1st Uliastai Artillery"
+		type=artillery
+		home=1468
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1613
+	regiment = {
+		name="2nd Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1534
+	}
+	regiment = {
+		name="1st Qingzhou Cavalry"
+		type=cavalry
+		home=1567
+	}
+	regiment = {
+		name="2nd Ninguta Cavalry"
+		type=cavalry
+		home=1554
+	}
+	regiment = {
+		name="1st Datong Cavalry"
+		type=cavalry
+		home=1576
+	}
+	regiment = {
+		name="1st Boli Artillery"
+		type=artillery
+		home=1083
+	}
+	regiment = {
+		name="1st Haishenwai Artillery"
+		type=artillery
+		home=1082
+	}
+	regiment = {
+		name="1st Hailanpao Artillery"
+		type=artillery
+		home=1085
+	}
+	regiment = {
+		name="3rd Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1534
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1467
+	regiment = {
+		name="2nd Bayan Tumen Irregulars"
+		type=irregular
+		home=1467
+	}
+	regiment = {
+		name="1st Yakesa Cavalry"
+		type=cavalry
+		home=1081
+	}
+	regiment = {
+		name="1st Jingkiri Cavalry"
+		type=cavalry
+		home=2697
+	}
+	regiment = {
+		name="1st Aigun Cavalry"
+		type=cavalry
+		home=1553
+	}
+	regiment = {
+		name="2nd Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="2nd Hailanpao Artillery"
+		type=artillery
+		home=1085
+	}
+	regiment = {
+		name="4th Xian Artillery"
+		type=artillery
+		home=1559
+	}
+}
+
