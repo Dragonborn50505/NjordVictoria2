@@ -1,12 +1,13 @@
 capital = 345
 primary_culture = russian
-culture = ugrian
+culture = finnish
+culture = swedish
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.264979
+literacy = 0.265116
 
 civilized = yes
 
@@ -43,7 +44,7 @@ upper_house =
 
 # Starting Consciousness
 consciousness = 1.33333
-nonstate_consciousness= 0.36764
+nonstate_consciousness= 0.37852
 
 # Technologies
 ad_hoc_money_bill_printing = 1
@@ -65,7 +66,7 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 private_banks = 1
 stock_exchange = 1
-prestige=1.2227
+prestige=1.22201
 oob = "RUS_OOB.txt"
 set_country_flag = religi
 decision = RUS_setup_1836
