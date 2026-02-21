@@ -1,0 +1,8 @@
+owner=X18
+controller=X18
+add_core=X18
+trade_goods = fruit
+life_rating = 35
+terrain = semidesert
+naval_base = 1
+fort = 1

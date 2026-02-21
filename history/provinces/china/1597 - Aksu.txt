@@ -1,0 +1,7 @@
+owner=YUA
+controller=YUA
+add_core=XIN
+add_core=YRK
+add_core=YUA
+trade_goods = sulphur
+life_rating = 32

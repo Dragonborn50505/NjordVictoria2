@@ -1,0 +1,7 @@
+owner=PRU
+controller=PRU
+add_core=X15
+add_core=X21
+trade_goods = wool
+life_rating = 35
+colonial=2

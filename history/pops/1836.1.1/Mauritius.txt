@@ -1,0 +1,88 @@
+2125 = {
+	soldiers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 243
+	}
+
+	farmers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 23073
+	}
+
+	artisans=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 982
+	}
+
+	aristocrats=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 206
+	}
+
+	clergymen=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 31
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 164
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 2
+	}
+
+}

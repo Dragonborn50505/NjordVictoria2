@@ -1,0 +1,6 @@
+owner=X12
+controller=X12
+add_core=HND
+add_core=X12
+trade_goods = dye
+life_rating = 32

@@ -1,0 +1,6 @@
+owner=X18
+controller=X18
+trade_goods = fish
+life_rating = 30
+colonial=2
+naval_base = 1

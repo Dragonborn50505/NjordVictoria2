@@ -1,0 +1,6 @@
+owner=MUL
+controller=DLH
+add_core=HND
+add_core=MUL
+trade_goods = wool
+life_rating = 32

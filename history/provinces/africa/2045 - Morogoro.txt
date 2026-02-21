@@ -1,0 +1,6 @@
+owner=PRU
+controller=PRU
+trade_goods = fruit
+life_rating = 10
+terrain = dryhills
+colonial=2

@@ -1,0 +1,7 @@
+owner=X18
+controller=JAP
+add_core=MAD
+trade_goods = fruit
+life_rating = 35
+terrain = jungle
+colonial=2

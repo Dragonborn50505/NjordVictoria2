@@ -1,0 +1,546 @@
+1531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 728
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1040
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 49
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 23741
+	}
+
+}
+2528 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 531
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2124
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 346
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 144
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 49440
+	}
+
+}
+2529 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 807
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1877
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 39
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 25741
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 733
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 15
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 68
+	}
+
+}
+2530 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1848
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9240
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 495
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 554
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 53672
+	}
+
+}
+2531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 681
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1363
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 109
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 65425
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1641
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 131
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 345
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 4464
+	}
+
+}
+2537 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1008
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1440
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 68
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 32872
+	}
+
+}
+2539 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 143
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6915
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 5
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 1157
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = shinto
+		size= 390
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = shinto
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 19
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = shinto
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = shinto
+		size= 4814
+	}
+
+}

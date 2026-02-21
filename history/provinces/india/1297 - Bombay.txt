@@ -1,0 +1,7 @@
+owner=MRT
+controller=MRT
+add_core=MRT
+trade_goods = tobacco
+life_rating = 32
+naval_base = 2
+fort = 1

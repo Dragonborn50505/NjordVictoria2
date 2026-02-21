@@ -1,0 +1,12 @@
+owner=NET
+controller=NET
+trade_goods = wool
+life_rating = 35
+terrain = mining_district
+colonial=2
+state_building=
+{
+	level=1
+	building = regular_clothes_factory
+	upgrade = yes
+}

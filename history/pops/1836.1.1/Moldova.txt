@@ -1,0 +1,284 @@
+676 = {
+	soldiers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 5527
+	}
+
+	artisans=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 3153
+	}
+
+	clergymen=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 368
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 67
+	}
+
+	officers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 875
+	}
+
+	farmers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 44603
+	}
+
+	soldiers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 529
+	}
+
+	clergymen=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 147
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 2159
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 6550
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 763
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 141
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1818
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 9821
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 5322
+	}
+
+	artisans=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 2958
+	}
+
+	clergymen=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 65
+	}
+
+	officers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 843
+	}
+
+	farmers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = orthodox
+		size= 42119
+	}
+
+	soldiers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 496
+	}
+
+	clergymen=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-romanian-culture-num1
+		religion = animist
+		size= 141
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 2079
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 6144
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 734
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 135
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 151
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1751
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 9275
+	}
+
+}

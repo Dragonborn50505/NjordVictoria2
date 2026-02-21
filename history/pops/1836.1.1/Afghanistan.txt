@@ -1,0 +1,951 @@
+1209 = {
+	slaves=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 60000
+	}
+
+	soldiers=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 7120
+	}
+
+	artisans=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 32040
+	}
+
+	clergymen=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 2314
+	}
+
+	bureaucrats=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 819
+	}
+
+	officers=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 285
+	}
+
+	aristocrats=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 3987
+	}
+
+	farmers=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 249435
+	}
+
+}
+1210 = {
+	slaves=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 1804
+	}
+
+	soldiers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 1458
+	}
+
+	artisans=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 2155
+	}
+
+	clergymen=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 20165
+	}
+
+	slaves=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 116
+	}
+
+	soldiers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 339
+	}
+
+	clergymen=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 1054
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = mahayana
+		size= 1762
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 1424
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = mahayana
+		size= 1145
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = mahayana
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 29
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 20864
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 2318
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 1873
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 4155
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 106
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 388
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 24231
+	}
+
+}
+1211 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 14901
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 6397
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 9133
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 660
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 233
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 1705
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 81047
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 99
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size= 1217
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size= 31
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size= 227
+	}
+
+}
+1212 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 6500
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 4641
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 7459
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 539
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 224
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 812
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 62567
+	}
+
+}
+1213 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = mahayana
+		size= 8500
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 3249
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = mahayana
+		size= 3420
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = mahayana
+		size= 556
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 197
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 718
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 68758
+	}
+
+}
+1214 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = mahayana
+		size= 19077
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 2003
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = mahayana
+		size= 4007
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = mahayana
+		size= 651
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 231
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 1683
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 72421
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 4923
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 517
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 1034
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 59
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 434
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 18690
+	}
+
+}
+1215 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = mahayana
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = mahayana
+		size= 8388
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = mahayana
+		size= 606
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 215
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 1566
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 75180
+	}
+
+}
+1216 = {
+	slaves=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 2510
+	}
+
+	soldiers=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 1830
+	}
+
+	artisans=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 742
+	}
+
+	clergymen=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 43
+	}
+
+	officers=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 42592
+	}
+
+	slaves=
+	{
+		culture = panjabi
+		religion = shiite
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = panjabi
+		religion = shiite
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = panjabi
+		religion = shiite
+		size= 227
+	}
+
+	clergymen=
+	{
+		culture = panjabi
+		religion = shiite
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = panjabi
+		religion = shiite
+		size= 13
+	}
+
+	officers=
+	{
+		culture = panjabi
+		religion = shiite
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = panjabi
+		religion = shiite
+		size= 96
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 1174
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size= 856
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size= 1871
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size= 304
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 108
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size= 786
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size= 17376
+	}
+
+}
+1217 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = mahayana
+		size= 3300
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 3203
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = mahayana
+		size= 7587
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = mahayana
+		size= 548
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 194
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 1416
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 67951
+	}
+
+}
+2133 = {
+	soldiers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 1634
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = mahayana
+		size= 3870
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = mahayana
+		size= 280
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 99
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = mahayana
+		size= 361
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = mahayana
+		size= 36705
+	}
+
+}

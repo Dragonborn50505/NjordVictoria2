@@ -1,0 +1,8 @@
+owner=YEM
+controller=X02
+add_core=BLC
+add_core=YEM
+trade_goods = fruit
+life_rating = 35
+terrain = dryhills
+naval_base = 1

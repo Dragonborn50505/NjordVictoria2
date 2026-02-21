@@ -1,0 +1,8 @@
+owner=X18
+controller=JAP
+add_core=MAD
+add_core=MIR
+trade_goods = tropical_wood
+life_rating = 35
+terrain = montane_forest
+colonial=2

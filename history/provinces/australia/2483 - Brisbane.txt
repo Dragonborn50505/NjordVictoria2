@@ -1,0 +1,13 @@
+owner=BYZ
+controller=BYZ
+add_core=AST
+add_core=BYZ
+trade_goods = cattle
+life_rating = 34
+naval_base = 1
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}

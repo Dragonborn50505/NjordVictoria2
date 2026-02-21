@@ -1,0 +1,349 @@
+767 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2639
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1265
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 24288
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = orthodox
+		size= 2389
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = orthodox
+		size= 3555
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = orthodox
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = orthodox
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = orthodox
+		size= 677
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = orthodox
+		size= 18753
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 2792
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 3490
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 374
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 489
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 42611
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 1133
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 6324
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 678
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 99
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 885
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 11023
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 2420
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 921
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 22443
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 528
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1323
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3571
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = orthodox
+		size= 1201
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = orthodox
+		size= 4070
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = orthodox
+		size= 436
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = orthodox
+		size= 52
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = orthodox
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = orthodox
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = orthodox
+		size= 6859
+	}
+
+}

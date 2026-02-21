@@ -1,0 +1,10 @@
+owner=X18
+controller=X18
+add_core=HLR
+add_core=IRQ
+add_core=JER
+add_core=SYR
+trade_goods = iron
+life_rating = 35
+terrain = hills
+colonial=2

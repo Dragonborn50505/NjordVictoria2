@@ -1,0 +1,149 @@
+854 = {
+	soldiers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 1240
+	}
+
+	artisans=
+	{
+		culture = maltese
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = maltese
+		religion = catholic
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = maltese
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = maltese
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 12010
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 534
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 4842
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = orthodox
+		size= 756
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = orthodox
+		size= 714
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = orthodox
+		size= 268
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = orthodox
+		size= 32
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = orthodox
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = orthodox
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = orthodox
+		size= 6246
+	}
+
+}

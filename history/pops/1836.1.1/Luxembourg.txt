@@ -1,0 +1,100 @@
+397 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2408
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1848
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 22020
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1592
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 4290
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 398
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 87
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 10798
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=X01
+controller=X01
+trade_goods = wool
+life_rating = 31
+terrain = semidesert
+colonial=2
+fort = 1

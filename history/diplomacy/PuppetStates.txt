@@ -1,0 +1,144 @@
+vassal=
+{
+	first="X01"
+	second="CLM"
+	start_date="1513.1.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X01"
+	second="DOM"
+	start_date="1516.9.16"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X01"
+	second="BRZ"
+	start_date="1525.6.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X01"
+	second="SBA"
+	start_date="1532.7.5"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X01"
+	second="X26"
+	start_date="1553.7.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X01"
+	second="PEU"
+	start_date="1611.6.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IRE"
+	second="CUB"
+	start_date="1514.10.16"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IRE"
+	second="MEX"
+	start_date="1526.10.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IRE"
+	second="FLR"
+	start_date="1534.5.16"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IRE"
+	second="DES"
+	start_date="1601.4.26"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IRE"
+	second="TEX"
+	start_date="1602.6.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IRE"
+	second="X27"
+	start_date="1621.6.11"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="MUG"
+	second="X16"
+	start_date="1444.12.31"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="ICL"
+	start_date="1521.6.27"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="QUE"
+	start_date="1540.6.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="USA"
+	start_date="1579.10.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="LOU"
+	start_date="1670.4.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="ASH"
+	start_date="1679.11.24"
+	end_date="1936.1.1"
+}
+

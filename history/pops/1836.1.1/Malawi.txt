@@ -1,0 +1,431 @@
+2066 = {
+	slaves=
+	{
+		culture = sena
+		religion = shamanism
+		size= 1529
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 2437
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 927
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 19
+	}
+
+	officers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 21392
+	}
+
+	slaves=
+	{
+		culture = sena
+		religion = protestant
+		size= 802
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 1278
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 1900
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 9503
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 669
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 1066
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 4450
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 477
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 89
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 4438
+	}
+
+}
+2067 = {
+	slaves=
+	{
+		culture = sena
+		religion = shamanism
+		size= 2020
+	}
+
+	soldiers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 910
+	}
+
+	artisans=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 346
+	}
+
+	clergymen=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = tonga
+		religion = shamanism
+		size= 7571
+	}
+
+	slaves=
+	{
+		culture = sena
+		religion = protestant
+		size= 1662
+	}
+
+	soldiers=
+	{
+		culture = tonga
+		religion = protestant
+		size= 757
+	}
+
+	artisans=
+	{
+		culture = tonga
+		religion = protestant
+		size= 922
+	}
+
+	clergymen=
+	{
+		culture = tonga
+		religion = protestant
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = tonga
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tonga
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = tonga
+		religion = protestant
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = tonga
+		religion = protestant
+		size= 5531
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 318
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 291
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 3008
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 323
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 51
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 181
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 357
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = shamanism
+		size= 4623
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 764
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 939
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = protestant
+		size= 5575
+	}
+
+}

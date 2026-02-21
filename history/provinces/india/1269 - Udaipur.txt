@@ -1,0 +1,11 @@
+owner=X12
+controller=X12
+add_core=GUJ
+add_core=HND
+add_core=MAW
+add_core=MEW
+add_core=RJP
+add_core=X12
+trade_goods = opium
+life_rating = 32
+fort = 1

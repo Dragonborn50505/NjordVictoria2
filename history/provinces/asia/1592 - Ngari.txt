@@ -1,0 +1,7 @@
+owner=YUA
+controller=YUA
+add_core=TIB
+add_core=YUA
+trade_goods = cattle
+life_rating = 30
+fort = 1

@@ -1,0 +1,10 @@
+owner=HSE
+controller=AVA
+add_core=BUR
+add_core=HSE
+add_core=IDO
+add_core=MPA
+add_core=SHA
+trade_goods = tropical_wood
+life_rating = 33
+fort = 1

@@ -1,0 +1,7 @@
+owner=RJP
+controller=RJP
+add_core=GUJ
+add_core=HND
+add_core=RJP
+trade_goods = cotton
+life_rating = 32

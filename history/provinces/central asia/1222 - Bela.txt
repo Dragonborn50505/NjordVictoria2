@@ -1,0 +1,5 @@
+owner=X02
+controller=X02
+trade_goods = fish
+life_rating = 35
+naval_base = 2

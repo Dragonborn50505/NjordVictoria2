@@ -1,0 +1,93 @@
+203 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1231
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 729
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = animist
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 35
+	}
+
+}

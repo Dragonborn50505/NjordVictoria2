@@ -1,0 +1,9 @@
+owner=GER
+controller=GER
+add_core=BEL
+add_core=FLA
+add_core=GER
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+fort = 1

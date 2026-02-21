@@ -1,0 +1,8 @@
+owner=AUG
+controller=AUG
+add_core=AUG
+add_core=CRO
+add_core=HLR
+add_core=YUG
+trade_goods = wool
+life_rating = 35

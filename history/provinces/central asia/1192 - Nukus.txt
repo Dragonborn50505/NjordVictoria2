@@ -1,0 +1,7 @@
+owner=YUA
+controller=YUA
+add_core=TKS
+add_core=X19
+add_core=YUA
+trade_goods = opium
+life_rating = 30

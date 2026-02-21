@@ -1,0 +1,14 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=GER
+add_core=HLR
+trade_goods = dye
+life_rating = 31
+fort = 1
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

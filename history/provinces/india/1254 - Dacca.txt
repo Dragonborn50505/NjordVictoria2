@@ -1,0 +1,6 @@
+owner=TRT
+controller=PRU
+add_core=HND
+add_core=KCX
+trade_goods = dye
+life_rating = 32

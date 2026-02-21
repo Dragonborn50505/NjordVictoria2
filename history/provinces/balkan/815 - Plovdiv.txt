@@ -1,0 +1,7 @@
+owner=AUG
+controller=AUG
+add_core=AUG
+add_core=GRE
+add_core=X20
+trade_goods = tobacco
+life_rating = 35

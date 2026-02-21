@@ -1,0 +1,6 @@
+owner=AUG
+controller=AUG
+add_core=AUG
+add_core=GRE
+trade_goods = wool
+life_rating = 35

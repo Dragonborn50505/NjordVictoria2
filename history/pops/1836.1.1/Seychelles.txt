@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = mavro
+		religion = orthodox
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = mavro
+		religion = orthodox
+		size= 1218
+	}
+
+	artisans=
+	{
+		culture = mavro
+		religion = orthodox
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = mavro
+		religion = orthodox
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = mavro
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = mavro
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mavro
+		religion = orthodox
+		size= 2
+	}
+
+}

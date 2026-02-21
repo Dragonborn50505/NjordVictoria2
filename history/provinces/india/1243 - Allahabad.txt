@@ -1,0 +1,8 @@
+owner=MRT
+controller=MRT
+add_core=HND
+add_core=MRT
+add_core=MUG
+trade_goods = tobacco
+life_rating = 32
+fort = 1

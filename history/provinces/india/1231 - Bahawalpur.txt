@@ -1,0 +1,6 @@
+owner=MUL
+controller=MUL
+add_core=MUL
+add_core=TKS
+trade_goods = cattle
+life_rating = 32

@@ -1,0 +1,7 @@
+owner=PRU
+controller=X01
+add_core=MOR
+add_core=X13
+trade_goods = cattle
+life_rating = 5
+colonial=2

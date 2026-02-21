@@ -1,0 +1,14 @@
+owner=X18
+controller=X18
+add_core=X18
+trade_goods = fish
+life_rating = 30
+terrain = small_island
+naval_base = 1
+fort = 1
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

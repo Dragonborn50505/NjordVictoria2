@@ -1,0 +1,542 @@
+1887 = {
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1071
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 441
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 20533
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 1172
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 20965
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 481
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 1620
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size= 199
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 1907
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 1498
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 663
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 273
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 5438
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 505
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 109
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 489
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 6127
+	}
+
+}
+1888 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 299
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 13139
+	}
+
+	farmers=
+	{
+		culture = celtic_african
+		religion = animist
+		size= 199
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = celtic_african
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = celtic_african
+		religion = animist
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = celtic_african
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = celtic_african
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_african
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = celtic_african
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 820
+	}
+
+	artisans=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 2005
+	}
+
+	clergymen=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 326
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 100
+	}
+
+	officers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 421
+	}
+
+	soldiers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 372
+	}
+
+	farmers=
+	{
+		culture = celtic_african
+		religion = catholic
+		size= 33310
+	}
+
+}
+1889 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1250
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 32775
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 35475
+	}
+
+}
+1890 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 550
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 15025
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 65025
+	}
+
+}
+1891 = {
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = afro_american
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = afro_american
+		religion = animist
+		size= 1150
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 5975
+	}
+
+	aristocrats=
+	{
+		culture = afro_american
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = afro_american
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = afro_american
+		religion = animist
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = afro_american
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 32300
+	}
+
+}

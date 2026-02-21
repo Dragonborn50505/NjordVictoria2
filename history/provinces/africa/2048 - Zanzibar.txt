@@ -1,0 +1,7 @@
+owner=X18
+controller=X18
+add_core=SWA
+trade_goods = precious_goods
+life_rating = 40
+colonial=2
+naval_base = 1

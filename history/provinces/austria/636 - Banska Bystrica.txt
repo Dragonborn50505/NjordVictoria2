@@ -1,0 +1,6 @@
+owner=AUG
+controller=AUG
+add_core=AUG
+add_core=HUN
+trade_goods = iron
+life_rating = 35

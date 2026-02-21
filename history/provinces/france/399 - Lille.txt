@@ -1,0 +1,14 @@
+owner=NET
+controller=NET
+add_core=BEL
+add_core=FLA
+add_core=NET
+trade_goods = iron
+life_rating = 31
+fort = 1
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

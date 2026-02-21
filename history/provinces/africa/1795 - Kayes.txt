@@ -1,0 +1,5 @@
+owner=PRU
+controller=PRU
+trade_goods = precious_metal
+life_rating = 32
+colonial=2

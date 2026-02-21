@@ -1,0 +1,6 @@
+owner=YUA
+controller=YUA
+add_core=CHI
+add_core=X00
+trade_goods = cotton
+life_rating = 32

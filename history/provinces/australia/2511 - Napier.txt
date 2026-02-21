@@ -1,0 +1,6 @@
+owner=NZM
+controller=NZM
+add_core=AOT
+add_core=NZM
+trade_goods = cattle
+life_rating = 30

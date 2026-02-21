@@ -1,0 +1,118 @@
+2129 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 497
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 268
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 2
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 1
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 1
+	}
+
+}

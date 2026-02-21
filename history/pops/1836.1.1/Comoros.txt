@@ -1,0 +1,312 @@
+2123 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 222
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 422
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 10310
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = orthodox
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 1455
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 304
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 657
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 198
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 439
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = orthodox
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = orthodox
+		size= 60
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 20
+	}
+
+}

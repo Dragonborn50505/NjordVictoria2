@@ -1,0 +1,938 @@
+2068 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8899
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = protestant
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = protestant
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = protestant
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = protestant
+		size= 2196
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 384
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 424
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 3057
+	}
+
+}
+2069 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1289
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 12130
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = protestant
+		size= 448
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = protestant
+		size= 832
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = protestant
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = protestant
+		size= 3420
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 471
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 2038
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 2183
+	}
+
+}
+2070 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 12678
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = protestant
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = protestant
+		size= 278
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = protestant
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = protestant
+		size= 6048
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 542
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 43
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 1999
+	}
+
+}
+2071 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 2423
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 263
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 18
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 23456
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = protestant
+		size= 1342
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = protestant
+		size= 555
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = protestant
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = protestant
+		size= 12281
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 1020
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 1262
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 473
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 88
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 7886
+	}
+
+}
+2072 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1344
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 3360
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 360
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 77
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 538
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 18270
+	}
+
+}
+2073 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 839
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 91
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8119
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = protestant
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = protestant
+		size= 192
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = protestant
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = protestant
+		size= 4253
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 353
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 437
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 31
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 2728
+	}
+
+}
+2635 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 4734
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = protestant
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = protestant
+		size= 397
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = protestant
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = protestant
+		size= 2403
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 679
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 41
+	}
+
+}

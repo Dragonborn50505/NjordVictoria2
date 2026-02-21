@@ -1,0 +1,6 @@
+owner=MUG
+controller=MUG
+add_core=MUG
+trade_goods = wool
+life_rating = 32
+fort = 1

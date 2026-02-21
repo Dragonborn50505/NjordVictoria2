@@ -1,0 +1,214 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 532
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 83
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 3060
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = protestant
+		size= 556
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = protestant
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 34
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 3
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = protestant
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 497
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = protestant
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 6
+	}
+
+}

@@ -1,0 +1,1249 @@
+375 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = animist
+		size= 5096
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = animist
+		size= 3221
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = animist
+		size= 403
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 57
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = animist
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 334
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = animist
+		size= 45233
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 4788
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 9275
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 1158
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 164
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 164
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 961
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 33293
+	}
+
+}
+376 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = animist
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = animist
+		size= 4284
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = animist
+		size= 489
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 96
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = animist
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 336
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = animist
+		size= 54789
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 5913
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 12384
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 1412
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 277
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 287
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 971
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 41482
+	}
+
+}
+377 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = animist
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = animist
+		size= 1284
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = animist
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = animist
+		size= 6460
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 3730
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 400
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 75
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 5729
+	}
+
+}
+378 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = animist
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = animist
+		size= 1410
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = animist
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = animist
+		size= 4917
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 4098
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 439
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 82
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 492
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 9873
+	}
+
+}
+379 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = animist
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = animist
+		size= 2058
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = animist
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 42
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = animist
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = animist
+		size= 10881
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 2660
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 6079
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 594
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 125
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 19126
+	}
+
+}
+380 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = animist
+		size= 1356
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = animist
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = animist
+		size= 13608
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 1746
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 4013
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 430
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 80
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 12381
+	}
+
+}
+381 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = animist
+		size= 3065
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = animist
+		size= 1166
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = animist
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = animist
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = animist
+		size= 28837
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = catholic
+		size= 1642
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = catholic
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 4188
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 3633
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 8336
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 893
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 167
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 25790
+	}
+
+}
+382 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = animist
+		size= 3044
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = animist
+		size= 1921
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = animist
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 39
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = animist
+		size= 49623
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 3192
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 13817
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1402
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 278
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 209
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1668
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 37067
+	}
+
+}
+383 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = animist
+		size= 1623
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = animist
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = animist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = animist
+		size= 17309
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 2050
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 4768
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 519
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 111
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 14811
+	}
+
+}
+384 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = animist
+		size= 1671
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = animist
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = animist
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = animist
+		size= 17716
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 2111
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 4883
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 523
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 98
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 14936
+	}
+
+}
+385 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = animist
+		size= 2278
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = animist
+		size= 1746
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = animist
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = animist
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = animist
+		size= 20777
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 2210
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 5134
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 484
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 104
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 15957
+	}
+
+}
+386 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = animist
+		size= 895
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = animist
+		size= 681
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = animist
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = animist
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = animist
+		size= 8011
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 860
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1990
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 213
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 40
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 6090
+	}
+
+}

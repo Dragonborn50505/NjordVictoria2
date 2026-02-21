@@ -1,0 +1,9 @@
+owner=TRT
+controller=TRT
+add_core=BNG
+add_core=HND
+add_core=KCX
+add_core=TRT
+trade_goods = wool
+life_rating = 32
+fort = 1

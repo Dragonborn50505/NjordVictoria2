@@ -1,0 +1,10 @@
+owner=TRT
+controller=AVA
+add_core=BUR
+add_core=IDO
+add_core=MYA
+add_core=SHA
+add_core=TRT
+trade_goods = fruit
+life_rating = 35
+fort = 1

@@ -1,0 +1,911 @@
+1919 = {
+	slaves=
+	{
+		culture = fon
+		religion = sunni
+		size= 12884
+	}
+
+	soldiers=
+	{
+		culture = ewe
+		religion = sunni
+		size= 1031
+	}
+
+	artisans=
+	{
+		culture = ewe
+		religion = sunni
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = ewe
+		religion = sunni
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = ewe
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ewe
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ewe
+		religion = sunni
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = ewe
+		religion = sunni
+		size= 37522
+	}
+
+	slaves=
+	{
+		culture = fon
+		religion = catholic
+		size= 168
+	}
+
+	soldiers=
+	{
+		culture = ewe
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = ewe
+		religion = catholic
+		size= 116
+	}
+
+	clergymen=
+	{
+		culture = ewe
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = ewe
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ewe
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ewe
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = ewe
+		religion = catholic
+		size= 353
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 10951
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 877
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 2601
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 28855
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size= 1562
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 4334
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 403
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 87
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 390
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 8434
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 675
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 11890
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 1104
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 238
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 1070
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 10241
+	}
+
+}
+1920 = {
+	slaves=
+	{
+		culture = fon
+		religion = catholic
+		size= 3895
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = catholic
+		size= 780
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = catholic
+		size= 341
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = catholic
+		size= 33895
+	}
+
+	slaves=
+	{
+		culture = fon
+		religion = sunni
+		size= 5238
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = sunni
+		size= 1048
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = sunni
+		size= 2858
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = sunni
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 57
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = sunni
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = sunni
+		size= 42665
+	}
+
+	slaves=
+	{
+		culture = fon
+		religion = protestant
+		size= 1802
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = protestant
+		size= 361
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = protestant
+		size= 4461
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = protestant
+		size= 414
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = protestant
+		size= 89
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = protestant
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = protestant
+		size= 402
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = protestant
+		size= 10464
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 1066
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 9154
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 850
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 183
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 824
+	}
+
+}
+1921 = {
+	slaves=
+	{
+		culture = mande
+		religion = catholic
+		size= 202
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = catholic
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = catholic
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = catholic
+		size= 1939
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = protestant
+		size= 283
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = protestant
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = protestant
+		size= 336
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = protestant
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = protestant
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = protestant
+		size= 2342
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 74
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 910
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 164
+	}
+
+	slaves=
+	{
+		culture = bambara
+		religion = catholic
+		size= 413
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = catholic
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 3855
+	}
+
+	slaves=
+	{
+		culture = bambara
+		religion = protestant
+		size= 130
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = protestant
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = protestant
+		size= 260
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = protestant
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = protestant
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = protestant
+		size= 937
+	}
+
+}
+1922 = {
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size= 2965
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = protestant
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = protestant
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = protestant
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = protestant
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = protestant
+		size= 2843
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 571
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 128
+	}
+
+}

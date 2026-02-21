@@ -1,0 +1,11 @@
+owner=AUG
+controller=AUG
+add_core=AUG
+trade_goods = coal
+life_rating = 35
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

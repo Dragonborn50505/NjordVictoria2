@@ -1,0 +1,8 @@
+owner=MEW
+controller=MEW
+add_core=GUJ
+add_core=HND
+add_core=MEW
+trade_goods = fruit
+life_rating = 32
+fort = 1

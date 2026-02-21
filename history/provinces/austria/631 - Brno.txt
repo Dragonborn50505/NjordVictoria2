@@ -1,0 +1,5 @@
+owner=GER
+controller=AUG
+add_core=GER
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=YUA
+controller=YUA
+add_core=CHI
+add_core=CXI
+trade_goods = tea
+life_rating = 32

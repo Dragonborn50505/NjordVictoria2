@@ -1,0 +1,5 @@
+owner=YEM
+controller=YEM
+trade_goods = cattle
+life_rating = 10
+terrain = semidesert

@@ -1,0 +1,8 @@
+owner=YUA
+controller=YUA
+add_core=CHI
+add_core=X00
+add_core=YAN
+add_core=YUA
+trade_goods = grain
+life_rating = 32

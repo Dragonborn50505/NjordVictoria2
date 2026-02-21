@@ -1,0 +1,16 @@
+guarantee=
+{
+	first="UKR"
+	second="X02"
+	start_date="1727.3.17"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="UKR"
+	second="X18"
+	start_date="1749.10.10"
+	end_date="1936.1.1"
+}
+

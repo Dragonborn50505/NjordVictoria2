@@ -1,0 +1,7 @@
+owner=LXA
+controller=LXA
+add_core=CAM
+add_core=IDO
+add_core=LXA
+trade_goods = wool
+life_rating = 32

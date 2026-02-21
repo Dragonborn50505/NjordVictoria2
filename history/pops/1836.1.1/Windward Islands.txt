@@ -1,0 +1,458 @@
+2229 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4159
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 606
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 17840
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 804
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 998
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1047
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 439
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 31
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 829
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 31
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 3427
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 65
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 851
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 30
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 3651
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 665
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 76
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 6
+	}
+
+}
+2233 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1371
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 69
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 5633
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 996
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 120
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 9
+	}
+
+}
+2409 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 979
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 28
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 4022
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 697
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 84
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 6
+	}
+
+}

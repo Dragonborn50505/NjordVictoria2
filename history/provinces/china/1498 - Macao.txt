@@ -1,0 +1,6 @@
+owner=PRU
+controller=PRU
+trade_goods = precious_goods
+life_rating = 35
+terrain = urban
+colonial=2

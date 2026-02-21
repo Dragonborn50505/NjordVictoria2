@@ -1,0 +1,44 @@
+2131 = {
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 52
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+}

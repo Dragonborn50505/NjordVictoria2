@@ -1,0 +1,7 @@
+owner=DOM
+controller=DOM
+add_core=DOM
+trade_goods = cotton
+life_rating = 35
+terrain = new_world_jungle
+naval_base = 1

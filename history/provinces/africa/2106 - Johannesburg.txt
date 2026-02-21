@@ -1,0 +1,6 @@
+owner=NET
+controller=NET
+trade_goods = wool
+life_rating = 20
+terrain = mining_district
+colonial=2

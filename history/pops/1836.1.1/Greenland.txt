@@ -1,0 +1,382 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 260
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 142
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 140
+	}
+
+	soldiers=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 568
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 90
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = orthodox
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 71
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 195
+	}
+
+}

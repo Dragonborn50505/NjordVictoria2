@@ -1,0 +1,7 @@
+owner=TRT
+controller=TRT
+add_core=HND
+add_core=TRT
+trade_goods = cattle
+life_rating = 32
+fort = 1

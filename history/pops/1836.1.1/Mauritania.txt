@@ -1,0 +1,770 @@
+1775 = {
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = maures
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = maures
+		religion = sunni
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size= 925
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size= 18125
+	}
+
+	slaves=
+	{
+		culture = berber
+		religion = sunni
+		size= 3000
+	}
+
+}
+1776 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 1372
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 3469
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1315
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 2920
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 336
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 968
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = protestant
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = protestant
+		size= 585
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = protestant
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = protestant
+		size= 1979
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 1343
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 1598
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 32
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 1409
+	}
+
+}
+1777 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 4157
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 291
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 509
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 9469
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size= 1136
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 787
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 1783
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 708
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 1643
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 33
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 197
+	}
+
+}
+1778 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 2156
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 176
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 2554
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size= 536
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 264
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = protestant
+		size= 362
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 308
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 540
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 65
+	}
+
+}
+1779 = {
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = maures
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maures
+		religion = sunni
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size= 2700
+	}
+
+}
+1781 = {
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size= 5400
+	}
+
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size= 3675
+	}
+
+}
+1782 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 900
+	}
+
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size= 2700
+	}
+
+}

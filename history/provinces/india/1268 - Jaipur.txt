@@ -1,0 +1,9 @@
+owner=GUJ
+controller=GUJ
+add_core=GUJ
+add_core=HND
+add_core=MEW
+add_core=RJP
+trade_goods = timber
+life_rating = 32
+fort = 1

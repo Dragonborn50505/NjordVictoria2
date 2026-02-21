@@ -1,0 +1,9 @@
+owner=YEM
+controller=YEM
+add_core=ARA
+add_core=MHR
+add_core=YEM
+trade_goods = fish
+life_rating = 20
+terrain = desert
+naval_base = 2

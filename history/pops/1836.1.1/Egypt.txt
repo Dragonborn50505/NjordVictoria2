@@ -1,0 +1,3292 @@
+1745 = {
+	slaves=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 6519
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 13673
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 12536
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1193
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 203
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 231
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1164
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 148847
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 3506
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 7354
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 26021
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2477
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 422
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 479
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2416
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 55861
+	}
+
+}
+1746 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 6293
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 4508
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 721
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 73155
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2112
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 8294
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 385
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 130
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1327
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 16144
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1604
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 6132
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 96
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 981
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 12462
+	}
+
+}
+1747 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 2136
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1967
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 51842
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2189
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 28
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 567
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1183
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 8514
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 395
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 109
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 511
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 20318
+	}
+
+}
+1748 = {
+	soldiers=
+	{
+		culture = misri
+		religion = catholic
+		size= 1961
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = catholic
+		size= 904
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = catholic
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = catholic
+		size= 23374
+	}
+
+	soldiers=
+	{
+		culture = misri
+		religion = coptic
+		size= 1577
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = coptic
+		size= 2356
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = coptic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = coptic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 435
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = coptic
+		size= 16683
+	}
+
+	soldiers=
+	{
+		culture = misri
+		religion = orthodox
+		size= 1357
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = orthodox
+		size= 5758
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = orthodox
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = orthodox
+		size= 93
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = orthodox
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = orthodox
+		size= 1065
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = orthodox
+		size= 9528
+	}
+
+}
+1749 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 2943
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 2783
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 44
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 33435
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1583
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5778
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 536
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 91
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 520
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 12775
+	}
+
+}
+1750 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 2031
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1871
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 49304
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 114
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2081
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 540
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1125
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 8098
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 104
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 486
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 19322
+	}
+
+}
+1751 = {
+	slaves=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 4269
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 8636
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 7818
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 146
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 735
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 94292
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1731
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 3501
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 14157
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 681
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 148
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 264
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1331
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 24860
+	}
+
+}
+1752 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 402
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 10036
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 572
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 145
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 381
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 3132
+	}
+
+}
+1753 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 132
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 3302
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 189
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1031
+	}
+
+}
+1754 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 2640
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 151
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 825
+	}
+
+}
+1755 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 474
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 436
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 11477
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 618
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1751
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1606
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 2308
+	}
+
+}
+1756 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 1372
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 516
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1663
+	}
+
+}
+1757 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 428
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 405
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 4894
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 603
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 627
+	}
+
+}
+1758 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1800
+	}
+
+}
+1759 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 244
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1402
+	}
+
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size= 457
+	}
+
+	soldiers=
+	{
+		culture = misri
+		religion = coptic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = coptic
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = coptic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = coptic
+		size= 556
+	}
+
+}
+1760 = {
+	soldiers=
+	{
+		culture = misri
+		religion = coptic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = coptic
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = coptic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = coptic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = coptic
+		size= 4023
+	}
+
+}
+1761 = {
+	soldiers=
+	{
+		culture = misri
+		religion = coptic
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = coptic
+		size= 560
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = coptic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = coptic
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = coptic
+		size= 3219
+	}
+
+}
+1762 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 3730
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 3529
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 565
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 42304
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1013
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5445
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 253
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 86
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 871
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5925
+	}
+
+}
+1763 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1543
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1174
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 13778
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 481
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1906
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 35
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2390
+	}
+
+}
+1764 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1778
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1353
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 15887
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 664
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2364
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 253
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 30
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 213
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 3647
+	}
+
+}
+1765 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 1778
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 676
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = catholic
+		size= 16714
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1564
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1867
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 13132
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1083
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 4191
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 449
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 78
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 377
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5502
+	}
+
+}
+1766 = {
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 1680
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 9861
+	}
+
+}
+1767 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 476
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1530
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 14534
+	}
+
+}
+1768 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 359
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1255
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 15996
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1405
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 169
+	}
+
+}
+1769 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 378
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 697
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 8744
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 116
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1123
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 18
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1588
+	}
+
+}
+1770 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1528
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1030
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 129
+	}
+
+}
+1771 = {
+	soldiers=
+	{
+		culture = beja
+		religion = coptic
+		size= 113
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = coptic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = coptic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = coptic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = coptic
+		size= 2829
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = orthodox
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = orthodox
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = orthodox
+		size= 219
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 1474
+	}
+
+}
+1772 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 2127
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 80
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = orthodox
+		size= 504
+	}
+
+}
+2559 = {
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1377
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 1302
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = coptic
+		size= 15590
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 399
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2058
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 32
+	}
+
+	officers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+		religion = orthodox
+		size= 2402
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=MRT
+controller=MRT
+add_core=MRT
+trade_goods = opium
+life_rating = 32

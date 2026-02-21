@@ -1,0 +1,382 @@
+1877 = {
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 585
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 6584
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 420
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 4232
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 444
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 8
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 511
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = protestant
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = protestant
+		size= 885
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = protestant
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = protestant
+		size= 4684
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 481
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 2173
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 43
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 196
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 2788
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 585
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 5860
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 420
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 3769
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 8
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 511
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = protestant
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = protestant
+		size= 796
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = protestant
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = protestant
+		size= 4161
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 481
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 1954
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = protestant
+		size= 2458
+	}
+
+}

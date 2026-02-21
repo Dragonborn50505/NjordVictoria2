@@ -1,0 +1,8 @@
+owner=YUA
+controller=YUA
+add_core=GUG
+add_core=PER
+add_core=X02
+trade_goods = grain
+life_rating = 35
+terrain = dryhills

@@ -1,0 +1,100 @@
+517 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size= 618
+	}
+
+	soldiers=
+	{
+		culture = maghrebi
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = protestant
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = protestant
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = protestant
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = protestant
+		size= 532
+	}
+
+}

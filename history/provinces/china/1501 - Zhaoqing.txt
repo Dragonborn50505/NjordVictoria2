@@ -1,0 +1,5 @@
+owner=YUA
+controller=YUA
+add_core=YUA
+trade_goods = fish
+life_rating = 32

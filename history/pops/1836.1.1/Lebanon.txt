@@ -1,0 +1,400 @@
+912 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1116
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 679
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 13111
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 353
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 1108
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 3010
+	}
+
+}
+913 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1824
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 923
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 21428
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 576
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 1507
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 44
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 4922
+	}
+
+}
+914 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 685
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 416
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8042
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 679
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 17
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 1847
+	}
+
+}
+915 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1029
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 402
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 12080
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 656
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 25
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 2774
+	}
+
+}

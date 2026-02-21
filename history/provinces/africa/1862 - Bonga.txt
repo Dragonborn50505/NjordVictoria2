@@ -1,0 +1,4 @@
+owner=YEM
+controller=YEM
+trade_goods = coffee
+life_rating = 35

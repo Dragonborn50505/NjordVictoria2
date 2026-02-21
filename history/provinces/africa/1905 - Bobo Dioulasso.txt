@@ -1,0 +1,5 @@
+owner=X15
+controller=X15
+add_core=X15
+trade_goods = precious_metal
+life_rating = 35

@@ -1,0 +1,605 @@
+1723 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 426
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 201
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 1573
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 349
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 192
+	}
+
+}
+2204 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 872
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1860
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 3233
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 3554
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 169
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 113
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 354
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 2466
+	}
+
+}
+2205 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 217
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1244
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 2383
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 90
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 37
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 781
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 1701
+	}
+
+}
+2206 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1177
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 750
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 210
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 3318
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 683
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1164
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 903
+	}
+
+}

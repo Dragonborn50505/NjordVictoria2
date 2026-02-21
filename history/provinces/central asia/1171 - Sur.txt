@@ -1,0 +1,8 @@
+owner=PRU
+controller=PRU
+add_core=ARA
+add_core=MHR
+add_core=YEM
+trade_goods = fruit
+life_rating = 35
+colonial=2

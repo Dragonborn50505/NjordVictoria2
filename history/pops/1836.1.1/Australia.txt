@@ -1,0 +1,5769 @@
+2468 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5649
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 509
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1741
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 25
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2658
+	}
+
+}
+2469 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1708
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 136
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 466
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 785
+	}
+
+}
+2470 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1358
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 550
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 137
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 362
+	}
+
+}
+2471 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 791
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 777
+	}
+
+}
+2472 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 522
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 505
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 174
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 391
+	}
+
+}
+2473 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1246
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 312
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1069
+	}
+
+}
+2474 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 859
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 195
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 552
+	}
+
+}
+2475 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1754
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 141
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 279
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 616
+	}
+
+}
+2476 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 345
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 339
+	}
+
+}
+2477 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 830
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 830
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 272
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+}
+2478 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1000
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 512
+	}
+
+}
+2479 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1134
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 376
+	}
+
+}
+2480 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 361
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 369
+	}
+
+}
+2481 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 514
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 263
+	}
+
+}
+2482 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3035
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1763
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 315
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 6
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 559
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 11
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 813
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 541
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 210
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 190
+	}
+
+}
+2483 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2493
+	}
+
+	craftsmen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2865
+	}
+
+	clerks=
+	{
+		culture = phianam
+		religion = hindu
+		size= 161
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 16
+	}
+
+	capitalists=
+	{
+		culture = phianam
+		religion = hindu
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 9
+	}
+
+	craftsmen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2812
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 5
+	}
+
+	clerks=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 331
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 7
+	}
+
+}
+2484 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 548
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 922
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 165
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 166
+	}
+
+}
+2485 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 348
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 357
+	}
+
+}
+2486 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 954
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 315
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 103
+	}
+
+}
+2487 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 609
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 462
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 635
+	}
+
+}
+2488 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1636
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 354
+	}
+
+	clergymen=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = dakshin
+		religion = hindu
+		size= 1215
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 81
+	}
+
+}
+2489 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 333
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 246
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 342
+	}
+
+}
+2490 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 348
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 357
+	}
+
+}
+2491 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 316
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 178
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 493
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 503
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 178
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+}
+2492 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 299
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 153
+	}
+
+}
+2493 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 409
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 404
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 132
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+}
+2494 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 299
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 153
+	}
+
+}
+2495 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 414
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 289
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 148
+	}
+
+}
+2496 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 414
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 289
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 148
+	}
+
+}
+2497 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1180
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 613
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1401
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = hindu
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = hindu
+		size= 166
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = hindu
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = hindu
+		size= 2
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = hindu
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = hindu
+		size= 156
+	}
+
+}
+2498 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1309
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 701
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 253
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 412
+	}
+
+}
+2499 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1491
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 306
+	}
+
+}
+2500 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 616
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 115
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+}
+2501 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 887
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 211
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 113
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 329
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+}
+2502 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 365
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 75
+	}
+
+}
+2503 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 418
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 81
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+}
+2504 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 47
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 230
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 134
+	}
+
+}
+2505 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 80
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2992
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 27
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = animist
+		size= 20
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	craftsmen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 495
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 44
+	}
+
+	clerks=
+	{
+		culture = phianam
+		religion = hindu
+		size= 32
+	}
+
+	capitalists=
+	{
+		culture = phianam
+		religion = hindu
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 14
+	}
+
+	craftsmen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 436
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 4
+	}
+
+	clerks=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 10
+	}
+
+	craftsmen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 4248
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 511
+	}
+
+	clerks=
+	{
+		culture = notios
+		religion = orthodox
+		size= 375
+	}
+
+	capitalists=
+	{
+		culture = notios
+		religion = orthodox
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 139
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+}
+2506 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 89
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 703
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 196
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+}
+2507 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 211
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 71
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 251
+	}
+
+}
+2508 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 229
+	}
+
+}
+2601 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 54
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+}
+2602 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 55
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+}
+2603 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 84
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+}
+2604 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 589
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 274
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-marathi-culture-num1
+		religion = orthodox
+		size= 164
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = hindu
+		size= 62
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 137
+	}
+
+}
+2605 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 586
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 119
+	}
+
+}

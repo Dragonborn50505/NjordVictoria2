@@ -1,0 +1,7 @@
+owner=PRU
+controller=PRU
+add_core=SOM
+trade_goods = cattle
+life_rating = 35
+terrain = savanna
+colonial=2

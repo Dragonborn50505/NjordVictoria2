@@ -1,0 +1,8 @@
+owner=X18
+controller=JAP
+add_core=MAD
+add_core=MIR
+trade_goods = cattle
+life_rating = 35
+terrain = savanna
+colonial=2

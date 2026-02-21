@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=ZIM
+trade_goods = grain
+life_rating = 10
+terrain = savanna
+colonial=2
+fort = 1

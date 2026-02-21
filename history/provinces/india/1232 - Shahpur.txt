@@ -1,0 +1,5 @@
+owner=MUL
+controller=X02
+add_core=MUL
+trade_goods = wool
+life_rating = 32

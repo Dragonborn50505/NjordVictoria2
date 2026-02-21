@@ -1,0 +1,200 @@
+2191 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 304
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1064
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 13628
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 997
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 8043
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 373
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 126
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 965
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 39304
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 206
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 719
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 9219
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 674
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 5441
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 253
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 85
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 653
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 26585
+	}
+
+}

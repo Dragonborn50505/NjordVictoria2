@@ -1,0 +1,7 @@
+owner=PRU
+controller=PRU
+add_core=X15
+trade_goods = cattle
+life_rating = 35
+terrain = semidesert
+colonial=2

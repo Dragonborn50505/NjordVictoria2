@@ -1,0 +1,114 @@
+1329 = {
+	slaves=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 2865
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 897
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 11
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 11797
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4135
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1245
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 41
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 261
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 13065
+	}
+
+}

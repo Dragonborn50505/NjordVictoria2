@@ -1,0 +1,14 @@
+owner=PRU
+controller=PRU
+add_core=CHA
+add_core=IDO
+trade_goods = silk
+life_rating = 34
+colonial=2
+naval_base = 2
+state_building=
+{
+	level=1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

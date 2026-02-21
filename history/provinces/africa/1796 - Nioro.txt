@@ -1,0 +1,8 @@
+owner=X15
+controller=X15
+add_core=WOL
+add_core=X15
+trade_goods = cattle
+life_rating = 20
+terrain = semidesert
+fort = 1

@@ -1,0 +1,9 @@
+owner=FRA
+controller=FRA
+add_core=CAT
+add_core=FRA
+add_core=HLR
+add_core=SPA
+trade_goods = grain
+life_rating = 32
+fort = 1

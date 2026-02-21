@@ -1,0 +1,8 @@
+owner=ITA
+controller=ITA
+add_core=NUP
+add_core=X10
+trade_goods = timber
+life_rating = 10
+colonial=2
+fort = 1
