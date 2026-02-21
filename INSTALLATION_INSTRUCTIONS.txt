@@ -2,7 +2,7 @@
 
 * Step 1
 * Put the NjordVictoria2 folder in the Victoria 2 mod folder where the game is installed (not in documents).
-	* For me, that is: E:\SteamLibrary\steamapps\common\Victoria 2\mod
+	* For me, that is: SteamLibrary\steamapps\common\Victoria 2\mod
 
 * Step 2
 * Move the NjordVictoria2 MOD-file out from the NjordVictoria2 folder to the parent folder Victoria 2\mod
