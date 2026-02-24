@@ -1,0 +1,27 @@
+﻿  vic2provid.cpp
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(2,7): error C2065: 'System': undeclared identifier
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(2,7): error C2187: syntax error: 'System' was unexpected here
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(3,7): error C2065: 'System': undeclared identifier
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(3,7): error C2187: syntax error: 'System' was unexpected here
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(3,13): error C2059: syntax error: '.'
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(4,7): error C2065: 'System': undeclared identifier
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(4,7): error C2187: syntax error: 'System' was unexpected here
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(4,13): error C2059: syntax error: '.'
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(5,7): error C2065: 'System': undeclared identifier
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(5,7): error C2187: syntax error: 'System' was unexpected here
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(5,13): error C2059: syntax error: '.'
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,31): error C2018: unknown character '0x40'
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 's': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 'c': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 'V': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 'h': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(11,32): warning C4129: 'p': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(12,31): error C2018: unknown character '0x40'
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(12,32): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(12,32): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(12,32): warning C4129: 'm': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(12,32): warning C4129: 'p': unrecognized character escape sequence
+C:\Users\isake\source\repos\vic2provid\vic2provid\vic2provid.cpp(118,1): error C1004: unexpected end-of-file found

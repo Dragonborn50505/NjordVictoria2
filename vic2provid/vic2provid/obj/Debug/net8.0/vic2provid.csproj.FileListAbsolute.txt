@@ -1,0 +1,14 @@
+C:\Users\isake\source\repos\vic2provid\vic2provid\bin\Debug\net8.0\vic2provid.exe
+C:\Users\isake\source\repos\vic2provid\vic2provid\bin\Debug\net8.0\vic2provid.deps.json
+C:\Users\isake\source\repos\vic2provid\vic2provid\bin\Debug\net8.0\vic2provid.runtimeconfig.json
+C:\Users\isake\source\repos\vic2provid\vic2provid\bin\Debug\net8.0\vic2provid.dll
+C:\Users\isake\source\repos\vic2provid\vic2provid\bin\Debug\net8.0\vic2provid.pdb
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\vic2provid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\vic2provid.AssemblyInfoInputs.cache
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\vic2provid.AssemblyInfo.cs
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\vic2provid.csproj.CoreCompileInputs.cache
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\vic2provid.dll
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\refint\vic2provid.dll
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\vic2provid.pdb
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\vic2provid.genruntimeconfig.cache
+C:\Users\isake\source\repos\vic2provid\vic2provid\obj\Debug\net8.0\ref\vic2provid.dll
