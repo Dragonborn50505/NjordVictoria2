@@ -1,4 +1,140 @@
-# Mysterious Whale Sinks Ship!
+# rus events
+
+
+country_event = {
+
+	id = 10000001 
+	news = yes
+	news_desc_long = "EVTDESC33403_NEWS_LONG"
+	news_desc_medium = "EVTDESC33403_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC33403_NEWS_SHORT"
+	picture = "young_turks_meeting"
+
+	trigger = {
+			
+			NOT = { has_country_flag = arctic_population_boom }
+			has_country_flag = arctic_canada_taken
+		}
+	option = {
+        	name = "EVT10000001OPTA"
+		
+		2595 = {secede_province = RUS}
+		2596 = {secede_province = RUS}
+		11 = {secede_province = RUS}
+            	2595 = { change_owner = THIS }
+            	2596 = { change_owner = THIS }
+            	11 = { change_owner = THIS }
+        }
+}
+
+
+
+country_event = {
+
+	id = 10000002 
+	news = yes
+	news_desc_long = "EVTDESC33403_NEWS_LONG"
+	news_desc_medium = "EVTDESC33403_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC33403_NEWS_SHORT"
+	picture = "young_turks_meeting"
+
+	trigger = {
+			
+			NOT = { has_country_flag = arctic_population_boom }
+			has_country_flag = arctic_canada_taken
+		}
+	option = {
+        	name = "EVT10000001OPTA"
+		
+		2598 = {secede_province = RUS}
+		7 = {secede_province = RUS}
+		6 = {secede_province = RUS}
+        }
+}
+
+country_event = {
+
+	id = 10000004 
+	news = yes
+	news_desc_long = "EVTDESC33403_NEWS_LONG"
+	news_desc_medium = "EVTDESC33403_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC33403_NEWS_SHORT"
+	picture = "young_turks_meeting"
+
+	trigger = {
+			
+			NOT = { has_country_flag = arctic_population_boom }
+			has_country_flag = arctic_canada_taken
+		}
+	option = {
+        	name = "EVT10000001OPTA"
+		1662 = {secede_province = CSA}
+		
+        }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 country_event = {
     id = 23300
     title = "EVTNAME23300"

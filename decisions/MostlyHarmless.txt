@@ -1,131 +1,405 @@
 political_decisions = {
-    miskatonic_university = {
+
+    arctic_manifest_destiny = {
+		picture = frostpunk1
+
         potential = {
-            tag = NEN
-            owns = 245
-            NOT = {
-                has_country_flag = miskatonic_u_class_of_1836
-            }
+            owns = 251    # one Greenland province ID
+			NOT = { has_country_flag = arctic_population_boom }
         }
 
         allow = {
-            invention = romanticist_literature
+            owns = 251
+			owns = 2636
+			industrial_score = 30
         }
 
         effect = {
-            245 = {
-                change_province_name = "Arkham"
+            # Godthab
+            251 = {
+			
+    every_pop = {
+        limit = {
+            culture = russian
+        }
+        reduce_pop = 5.0
+    }
                 add_province_modifier = {
-                    name = miskatonic_campus
+                    name = province_small_immigration_boom
+                    duration = -1
+					}
+			
+                add_province_modifier = {
+                    name = gateway_to_harbor
+                    duration = -1
+				}
+				add_province_modifier = {
+                    name = gateway_to_america
+                    duration = -1
+				} 
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 200
+				}
+			}
+            2636 = {
+			every_pop = {
+        limit = {
+		culture = russian 
+        }
+        reduce_pop = 5.0
+    }
+                add_province_modifier = {
+                    name = province_small_immigration_boom
                     duration = -1
                 }
+				add_province_modifier = {
+                    name = gateway_to_harbor
+                    duration = -1
+				}
+				add_province_modifier = {
+                    name = gateway_to_america
+                    duration = -1
+				}
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 100
+				}
             }
-            set_country_flag = miskatonic_u_class_of_1836
+			345 = {
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 100
+				}
+			}
+			322 = {
+				add_province_modifier = {
+                    name = great_generator
+                    duration = 100
+				}
+			}
+
+            set_country_flag = arctic_population_boom
         }
 
-        ai_will_do = {
-            factor = 1
-        }
+        ai_will_do = { factor = 0 }
     }
+	
+	arctic_expansion_into_canada = {
+	picture = frostpunk4
 
-    form_byzantine_empire = {
         potential = {
-            tag = GRE
-            OR = {
-                government = absolute_monarchy
-                government = prussian_constitutionalism
-                government = hms_government
-            }
-            is_greater_power = yes
-            has_global_flag = fantasy_countries_enabled
+		TAG = RUS
+		NOT = { has_country_flag = arctic_canada_taken}
         }
 
         allow = {
-            owns = 825
-            owns = 828
-            owns = 829
-            owns = 830
-            owns = 831
-            owns = 832
-            owns = 833
-            owns = 834
-            owns = 835
-            owns = 836
-            owns = 837
-            owns = 838
-            owns = 839
-            owns = 840
-            owns = 841
-            owns = 842
-            owns = 843
-            owns = 844
-            owns = 845
-            owns = 846
-            owns = 847
-            owns = 848
-            owns = 858
-            owns = 859
-            owns = 860    # Constantinople
-            owns = 861
-            owns = 862
-            owns = 863
-            owns = 864
-            owns = 865
-            owns = 866
-            owns = 867
-            owns = 868
-            owns = 869
-            owns = 870
-            owns = 871
-            owns = 872
-            owns = 873
-            owns = 874
-            owns = 875
+            military_score = 50
+			has_country_flag = arctic_population_boom
+			industrial_score = 40
         }
 
         effect = {
-            change_tag = BYZ
-            capital = 860
-            860 = {
-                change_province_name = "Constantinople"
-            }
-            any_owned = {
-                limit = {
-                    is_colonial = no
-                    OR = {
-                        culture = greek
-                        culture = turkish
-                    }
-                }
-                add_core = BYZ
-            }
-            prestige = 40
-        }
+			create_colony = {
+        province = 2595
+        colonizer = THIS
     }
+            # Example province IDs — replace these!
+            #2595 = { change_owner = THIS }
+            #2596 = { change_owner = THIS }
+            #11 = { change_owner = THIS }
+		country_event = {id = 10000001}
+            set_country_flag = arctic_canada_taken
+        }
 
-    build_the_tower_of_babylon = {
+        ai_will_do = { factor = 0 }
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	greenland_united = {
+	picture = frostpunk6
+
         potential = {
-            tag = IRQ
-            is_greater_power = yes
-            has_global_flag = fantasy_countries_enabled
+		TAG = RUS
         }
 
         allow = {
-            advanced_metallurgy = 1
-            the_historical_theory = 1
+			has_country_flag = arctic_canada_taken
+			industrial_score = 60
         }
 
         effect = {
-            IRQ = {
-                all_core = {
-                    add_core = BAB
-                }
+
+		country_event = {id = 10000002}
+		#do stuff
+		#X27 is the alaskan colony
+		IRE = {
+                # This breaks the vassal status
+                release_vassal = X27
             }
-            926 = {
-                change_province_name = Babylon
-            }
-            change_tag = BAB
-            prestige = 20
+		casus_belli = {
+				target = X27
+				type = conquest
+				months = 120
+			}
+			X27={
+			any_owned = {
+				limit = { is_core = X27  }
+				add_core = RUS
+			}}
+			
         }
+
+        ai_will_do = { factor = 0 }
     }
+
+	mental_refreshment = {
+	picture = outwor1
+
+        potential = {
+		TAG = JAP
+        }
+
+        allow = {
+			#what
+			civilized = yes
+        }
+
+        effect = {
+			any_pop = {
+				limit = {
+					NOT = {
+						has_pop_culture = russian
+					}
+				}
+				militancy = 1
+				
+				consciousness = -5
+			}
+		}
+
+        ai_will_do = { factor = 0 }
+    }
+
+an_elephant_for_america = {
+		potential = {
+			tag = JAP
+			exists = IRE
+			NOT = {
+				has_country_flag = sent_an_elephant_to_america
+			}
+		}
+		allow = {
+			relation = {
+				who = IRE
+				value = 100
+			}
+		}
+		effect = {
+			IRE = {
+				country_event = { id=13350 days=0 }
+			}
+			set_country_flag = sent_an_elephant_to_america
+		}
+	}
+	
+	
+	
+	
+	
+	#teleport 1662 to 1453
+	
+	teleport_away = {
+	picture = outwor2
+
+        potential = {
+		TAG = JAP
+        }
+
+        allow = {
+			owns = 1662
+			owns = 1453
+			1662 = {units_in_province = 3}
+        }
+
+        effect = {
+			#if army on province then teleport
+			1662 = { any_unit = {disband_unit = THIS}}
+			# Spawns rebels to kill all teleported units
+			country_event = { id=10000004 days=0 }
+			1453 = {sub_unit = {type = irregular value = current}} #spawns 100 at target location
+			
+		}
+
+        ai_will_do = { factor = 0 }
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	miskatonic_university = {
+		potential = {
+			tag = NEN
+			owns = 245
+			NOT = {
+				has_country_flag = miskatonic_u_class_of_1836
+			}
+		}
+		
+		allow = {
+			invention = romanticist_literature
+		}
+		
+		effect = {
+			245 = {
+				change_province_name = "Arkham"
+				add_province_modifier = {
+					name = miskatonic_campus
+					duration = -1
+				}
+			}
+			set_country_flag = miskatonic_u_class_of_1836
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}		
+	}
+	
+	form_byzantine_empire = {
+		potential = {
+			tag = GRE
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+				government = hms_government
+			}
+			is_greater_power = yes
+			has_global_flag = fantasy_countries_enabled
+		}
+		
+		allow = {
+			owns = 825
+			owns = 828
+			owns = 829
+			owns = 830
+			owns = 831
+			owns = 832
+			owns = 833
+			owns = 834
+			owns = 835
+			owns = 836
+			owns = 837
+			owns = 838
+			owns = 839
+			owns = 840
+			owns = 841
+			owns = 842
+			owns = 843
+			owns = 844
+			owns = 845
+			owns = 846
+			owns = 847
+			owns = 848
+			owns = 858
+			owns = 859
+			owns = 860	# Constantinople
+			owns = 861
+			owns = 862
+			owns = 863
+			owns = 864
+			owns = 865
+			owns = 866
+			owns = 867
+			owns = 868
+			owns = 869
+			owns = 870
+			owns = 871
+			owns = 872
+			owns = 873
+			owns = 874
+			owns = 875			
+		}
+		
+		effect = {
+			change_tag = BYZ
+			capital = 860
+			860 = {
+				change_province_name = "Constantinople"
+			}
+			any_owned = {
+				limit = {
+					is_colonial = no
+					OR = {
+						culture = greek
+						culture = turkish
+					}
+				}
+				add_core = BYZ
+			}
+			prestige = 40
+		}
+	}
+	
+	build_the_tower_of_babylon = {
+		potential = {
+			tag = IRQ
+			is_greater_power = yes
+			has_global_flag = fantasy_countries_enabled
+		}
+		
+		allow = {
+			advanced_metallurgy = 1
+			the_historical_theory = 1
+		}
+		
+		effect = {
+			IRQ = {
+				all_core = {
+					add_core = BAB
+				}
+			}
+			926 = {
+				change_province_name = Babylon
+			}
+			change_tag = BAB
+			prestige = 20
+		}
+	}
 }
