@@ -82,7 +82,7 @@ political_decisions = {
             set_country_flag = arctic_population_boom
         }
 
-        ai_will_do = { factor = 0 }
+        ai_will_do = { factor = 1 }
     }
 	
 	arctic_expansion_into_canada = {
@@ -112,7 +112,7 @@ political_decisions = {
             set_country_flag = arctic_canada_taken
         }
 
-        ai_will_do = { factor = 0 }
+        ai_will_do = { factor = 1 }
     }
 	
 	
@@ -157,7 +157,7 @@ political_decisions = {
 			
         }
 
-        ai_will_do = { factor = 0 }
+        ai_will_do = { factor = 1 }
     }
 
 	mental_refreshment = {
@@ -186,6 +186,109 @@ political_decisions = {
 		}
 
         ai_will_do = { factor = 0 }
+    }
+
+<<<<<<< Updated upstream
+=======
+
+londoner_estonia = {
+	picture = frostpunk5
+
+        potential = {
+		TAG = RUS
+        }
+
+        allow = {
+		#???
+		total_pops = 8000000
+        }
+
+        effect = {
+		#do stuff
+		casus_belli = {
+				target = EST
+				type = conquest
+				months = 120
+			}
+			350 = {
+				add_core = RUS
+			}
+			349 = {
+				add_core = RUS
+			}
+			351 = {
+				add_core = RUS
+			}
+			352 = {
+				add_core = RUS
+			}
+			353 = {
+				add_core = RUS
+			}
+			
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+
+londoner_estonia2 = {
+	picture = frostpunk5
+
+        potential = {
+		TAG = RUS
+        }
+
+        allow = {
+		#???
+		total_pops = 10000000
+		owns = 350
+		owns = 349
+		owns = 351
+		owns = 352
+		owns = 353
+        }
+
+        effect = {
+		#do stuff
+		
+			add_accepted_culture = estonian
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+>>>>>>> Stashed changes
+	mental_refreshment = {
+	picture = outwor1
+
+        potential = {
+		TAG = JAP
+        }
+
+        allow = {
+			#what
+			civilized = yes
+        }
+
+        effect = {
+			any_pop = {
+				limit = {
+					NOT = {
+						has_pop_culture = russian
+					}
+				}
+				militancy = 1
+				
+				consciousness = -5
+			}
+		}
+
+<<<<<<< Updated upstream
+        ai_will_do = { factor = 0 }
+=======
+        ai_will_do = { factor = 1 }
+>>>>>>> Stashed changes
     }
 
 an_elephant_for_america = {
