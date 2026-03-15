@@ -1,5 +1,6 @@
-owner=NET
-controller=NET
+owner=ATJ
+controller=ATJ
+add_core=ATJ
 add_core=MLC
 add_core=MLY
 trade_goods = wool

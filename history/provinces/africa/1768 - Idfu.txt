@@ -1,5 +1,6 @@
-owner=ITA
-controller=ITA
+owner=X18
+controller=X18
+add_core=X18
 add_core=X23
 trade_goods = cotton
 life_rating = 35

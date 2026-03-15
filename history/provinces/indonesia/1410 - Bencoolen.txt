@@ -1,5 +1,6 @@
-owner=NET
-controller=NET
+owner=ATJ
+controller=ATJ
+add_core=ATJ
 add_core=PLB
 trade_goods = fish
 life_rating = 35

@@ -1,4 +1,4 @@
-owner=PAT
+owner=NET
 controller=NET
 add_core=MLC
 add_core=MLY

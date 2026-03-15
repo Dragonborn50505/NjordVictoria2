@@ -2,9 +2,7 @@ political_decisions = {
 	the_post_colonialism = { #This decision adds cores to those post-colonial countries
 		potential = {
 			ai = no #Better let the player decide if they are willing to, as it may be not related to their campaign
-			NOT = {
-				has_global_flag = der_postcolonialism #To avoid having it spammed
-			}
+			has_global_flag = der_postcolonialism #To avoid having it spammed
 			NOT = { year = 1862 } #To avoid having that decision check forever
 		}
 		allow = {

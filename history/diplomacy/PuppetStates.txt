@@ -24,6 +24,22 @@ vassal=
 
 vassal=
 {
+	first="NET"
+	second="ATJ"
+	start_date="1525.6.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="JAV"
+	start_date="1525.6.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
 	first="X01"
 	second="SBA"
 	start_date="1532.7.5"

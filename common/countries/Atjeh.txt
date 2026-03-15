@@ -1,5 +1,5 @@
 graphical_culture = AsianGC
-color = { 88 137 172 }
+color = { 220 138 60 }
 
 party = {
 	name = "ATJ_reactionary"

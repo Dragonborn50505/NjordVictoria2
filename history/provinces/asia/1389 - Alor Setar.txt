@@ -1,5 +1,5 @@
-owner=NET
-controller=NET
+owner=SIA
+controller=SIA
 add_core=MLY
 add_core=PAT
 trade_goods = timber

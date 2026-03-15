@@ -1,5 +1,6 @@
-owner=YEM
-controller=YEM
+owner=X18
+controller=X18
+add_core=X18
 add_core=NUB
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,9 @@
-capital = 864
+capital = 865
 primary_culture = dynamic-greek-culture-num3
 culture = dynamic-al_misr_arabic-nubian_RICE-culture-num1
+culture = turkish
+culture = greek
+culture = dynamic-greek-culture-num1
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

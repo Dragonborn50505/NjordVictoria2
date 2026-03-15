@@ -1,6 +1,8 @@
 capital = 265
 primary_culture = irish
 culture = dynamic-normand-culture-num1
+culture = scottish
+culture = dynamic-scottish-culture-num1
 culture = english
 culture = zzz_religion_catholic
 religion = catholic
