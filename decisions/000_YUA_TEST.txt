@@ -1,0 +1,14 @@
+political_decisions = {
+	YUA_TEST = {
+		potential = {
+			tag = YUA
+		}
+
+		effect = {
+			inherit = X00
+			inherit = CHI
+			country_event = 676768
+			
+		}
+	}
+}

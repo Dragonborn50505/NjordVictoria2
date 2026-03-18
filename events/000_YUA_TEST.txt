@@ -1,0 +1,40 @@
+country_event = {
+	id = 676767
+	title = "Yuan"
+	desc = "..."
+	is_triggered_only = yes
+
+	option = {
+		name = "k."
+		all_core = {
+			limit = {
+				is_core = CHI
+			}
+			remove_core = THIS
+		}
+	}
+}
+
+country_event = {
+	id = 676768
+	title = "Yuan"
+	desc = ""
+	is_triggered_only = yes
+	option = {
+		name = "k"
+		any_country = {
+				limit = {
+					any_core = {
+						is_core = CHI
+					}
+					NOT = {tag = CHI}
+				}
+				country_event = 676767
+		}
+		CHI = {
+			country_event = {
+				id = 676767
+			}
+		}
+	}
+}
