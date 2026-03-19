@@ -392,7 +392,7 @@ an_elephant_for_america = {
         ai_will_do = { factor = 1 }
     }
 	the_partition_of_the_commune = {
-	picture = frostpunk5
+	picture = chi
 
         potential = {
 		TAG = RUS
@@ -413,7 +413,7 @@ an_elephant_for_america = {
         ai_will_do = { factor = 1 }
     }
 	the_partition_of_the_commune2 = {
-	picture = frostpunk5
+	picture = chi
 
         potential = {
 		TAG = JAP
