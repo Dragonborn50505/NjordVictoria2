@@ -1,5 +1,5 @@
-owner=UKR
-controller=UKR
-add_core=UKR
+owner=CPL
+controller=CPL
+add_core=CPL
 trade_goods = cattle
 life_rating = 15

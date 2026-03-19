@@ -1,8 +1,8 @@
-owner=UKR
-controller=UKR
+owner=CPL
+controller=CPL
 add_core=KHA
 add_core=MGL
-add_core=UKR
+add_core=CPL
 trade_goods = grain
 life_rating = 35
 fort = 1
