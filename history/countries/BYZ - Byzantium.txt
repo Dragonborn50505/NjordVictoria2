@@ -1,6 +1,7 @@
 capital = 2476
 primary_culture = notios
 culture = aborigine
+culture = phianam
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

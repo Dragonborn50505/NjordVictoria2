@@ -1,5 +1,6 @@
-owner=YUA
-controller=YUA
+owner=X02
+controller=X02
+add_core=X02
 add_core=TUR
 add_core=X06
 trade_goods = coal

@@ -1,0 +1,157 @@
+country_event = {
+	id = 70070
+	title = "State Sizing"
+
+	is_triggered_only = yes
+
+	option = { 
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 10
+						NOT = { total_pops = 75000 }
+					}
+				}
+				add_core = TIN 
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 75000 
+						NOT = { total_pops = 350000 }
+					}
+				}
+				add_core = SMA 
+				remove_core = TIN 
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 350000 
+						NOT = { total_pops = 800000 }
+					} 
+				} 
+				add_core = MED 
+				remove_core = TIN 
+				remove_core = SMA 
+				remove_core = LRG 
+				remove_core = HUG 
+			} 
+		}		
+		any_country = { 
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 800000 
+						NOT = { total_pops = 2000000 }
+					} 
+				} 
+			add_core = LRG 
+			remove_core = TIN 
+			remove_core = SMA 
+			remove_core = MED 
+			remove_core = HUG 
+			} 
+		}
+		any_country = {
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 2000000
+					}
+				}
+				add_core = HUG 
+				remove_core = TIN 
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+			} 
+		}
+		THIS = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 10
+						NOT = { total_pops = 75000 }
+					}
+				}
+				add_core = TIN 
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		THIS = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 75000 
+						NOT = { total_pops = 350000 }
+					}
+				}
+				add_core = SMA 
+				remove_core = TIN 
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		THIS = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 350000 
+						NOT = { total_pops = 800000 }
+					} 
+				} 
+				add_core = MED 
+				remove_core = TIN 
+				remove_core = SMA 
+				remove_core = LRG 
+				remove_core = HUG 
+			} 
+		}		
+		THIS = { 
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 800000 
+						NOT = { total_pops = 2000000 }
+					} 
+				} 
+			add_core = LRG 
+			remove_core = TIN 
+			remove_core = SMA 
+			remove_core = MED 
+			remove_core = HUG 
+			} 
+		}
+		THIS = {
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 2000000
+					}
+				}
+				add_core = HUG 
+				remove_core = TIN 
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+			} 
+		}
+	}
+}

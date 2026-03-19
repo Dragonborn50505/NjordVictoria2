@@ -1,8 +1,8 @@
-owner=YUA
-controller=YUA
+owner=X02
+controller=X02
 add_core=TUR
 add_core=X06
-add_core=YUA
+add_core=X02
 trade_goods = opium
 life_rating = 15
 terrain = desert

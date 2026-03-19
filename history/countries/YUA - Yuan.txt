@@ -1,5 +1,5 @@
 capital = 1612
-primary_culture = kyrgyz
+primary_culture = kirgiz
 culture = mongol
 culture = zzz_religion_sunni
 religion = sunni
@@ -55,7 +55,7 @@ industrial_construction=no_industrial_construction
 foreign_training=no_foreign_training
 foreign_weapons=no_foreign_weapons
 military_constructions=no_military_constructions
-foreign_officers=no_foreign_officers
+foreign_officers=yes_foreign_officers
 army_schools=no_army_schools
 foreign_naval_officers=no_foreign_naval_officers
 naval_schools=no_naval_schools

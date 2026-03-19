@@ -1,0 +1,135 @@
+political_decisions = {
+
+	resize_states_njord = {
+		potential = {
+			tag = FRA
+			ai = no
+		}
+
+		effect = {
+			country_event = 70070
+		}
+	}
+
+	fix_everything_decision = {
+		potential = {
+			NOT = { has_global_flag = fix_everything }
+			tag = FRA
+		}
+
+		effect = {
+			set_global_flag = fix_everything
+			FRA = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.2
+				}
+				any_pop = { literacy = 0.09 }
+			}
+			NET = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.19
+				}
+				any_pop = { literacy = -0.08 }
+			}
+			AUG = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.16
+				}
+				any_pop = { literacy = 0.2 }
+			}
+			BYZ = {
+				set_country_flag = player_country
+				any_pop = 2
+				any_pop = { literacy = 0.15 }
+			}
+			YUA = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.25
+				}
+				change_tag = MGL
+			}
+			PRU = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.3
+				}
+				any_pop = { literacy = 0.15 }
+			}
+			GER = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.26
+				}
+				any_pop = { literacy = 0.045 }
+			}
+			IRE = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 1.1
+				}
+			}
+			ITA = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.29
+				}
+				any_pop = { literacy = 0.02 }
+			}
+			UKR = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.2
+				}
+				change_tag = POL
+				any_pop = { literacy = 0.15 }
+			}
+			X18 = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.38
+				}
+				any_pop = { literacy = 0.05 }
+			}
+			X01 = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.25
+				}
+			}
+			JAP = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.22
+				}
+			}
+			RUS = {
+				set_country_flag = player_country
+				soldiers = {
+					reduce_pop = 0.35
+				}
+				any_pop = { literacy = -0.05 }
+			}
+			any_country = {
+				limit = {
+					NOT = { has_country_flag = player_country}
+				}
+				soldiers = {
+					reduce_pop = 0.5
+				}
+			}
+			any_country = {
+				limit = { has_country_flag = player_country }
+
+				define_general = {
+					name = Caesar
+					personality = 3.1
+					background = 3.1
+				}
+			}
+		}
+	}
+}

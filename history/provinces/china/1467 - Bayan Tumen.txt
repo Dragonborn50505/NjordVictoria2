@@ -1,7 +1,7 @@
-owner=YUA
-controller=YUA
+owner=X00
+controller=X00
 add_core=KHA
 add_core=MGL
-add_core=YUA
+add_core=X00
 trade_goods = cattle
 life_rating = 32

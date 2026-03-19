@@ -5,3 +5,18 @@ add_core=UKR
 add_core=WSF
 trade_goods = sulphur
 life_rating = 35
+state_building= {
+	level=1
+	building = fertilizer_factory
+	upgrade = yes
+}
+state_building= {
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building= {
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

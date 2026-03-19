@@ -1,7 +1,7 @@
-owner=YUA
-controller=YUA
+owner=RUS
+controller=RUS
 add_core=UGR
-add_core=YUA
+add_core=RUS
 trade_goods = coal
 life_rating = 15
 terrain = boreal

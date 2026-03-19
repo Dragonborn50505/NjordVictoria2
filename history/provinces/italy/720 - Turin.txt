@@ -10,3 +10,8 @@ state_building=
 	building = winery
 	upgrade = yes
 }
+state_building= {
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

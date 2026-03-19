@@ -1,6 +1,5 @@
-owner=CHI
-controller=CHI
-add_core=CHI
+owner=X00
+controller=X00
 add_core=X00
 add_core=CHI
 trade_goods = wool

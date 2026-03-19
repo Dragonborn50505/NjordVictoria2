@@ -1,6 +1,6 @@
-owner=CHI
-controller=CHI
-add_core=CHI
+owner=X00
+controller=X00
+add_core=X00
 trade_goods = cattle
 life_rating = 32
 fort = 1

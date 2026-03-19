@@ -2,6 +2,7 @@ political_decisions = {
 	YUA_TEST = {
 		potential = {
 			tag = YUA
+			ai = no
 		}
 
 		effect = {

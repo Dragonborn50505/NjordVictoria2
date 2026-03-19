@@ -1,0 +1,34 @@
+political_decisions = {
+	excavate_BYZ = {
+		picture = custers_expedition
+		potential = {
+			tag = BYZ
+			NOT = {
+				has_country_flag = australian_excavations
+			}
+		}
+		
+		allow = {
+			iron_railroad = 1
+			OR = {
+				drilling_and_blasting = 1
+				AND = {
+					regenerative_furnaces = 1
+					business_banks = 1
+				}
+			}
+		}
+		
+		effect = {
+			2492 = { trade_goods = iron }
+			2472 = { trade_goods = coal }
+			2494 = { trade_goods = sulphur }
+			2497 = { trade_goods = iron }
+			2475 = { trade_goods = iron }
+			2473 = { trade_goods = iron }
+			2483 = { trade_goods = iron }
+			2489 = { trade_goods = iron }
+			set_country_flag = australian_excavations
+		}
+	}
+}

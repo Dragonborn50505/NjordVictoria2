@@ -8,7 +8,10 @@ country_event = {
 		name = "k."
 		all_core = {
 			limit = {
-				is_core = CHI
+				OR = {
+					is_core = CHI
+					is_core = X00
+				}
 			}
 			remove_core = THIS
 		}
@@ -25,13 +28,22 @@ country_event = {
 		any_country = {
 				limit = {
 					any_core = {
-						is_core = CHI
+						OR = {
+							is_core = CHI
+							is_core = X00
+						}
 					}
 					NOT = {tag = CHI}
+					NOT = { tag = X00 }
 				}
 				country_event = 676767
 		}
 		CHI = {
+			country_event = {
+				id = 676767
+			}
+		}
+		X00 = {
 			country_event = {
 				id = 676767
 			}

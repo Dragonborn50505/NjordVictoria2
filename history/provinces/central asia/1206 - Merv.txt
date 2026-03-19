@@ -1,8 +1,7 @@
-owner=YUA
-controller=YUA
+owner=X02
+controller=X02
 add_core=PER
 add_core=X02
-add_core=YUA
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

@@ -6,3 +6,8 @@ add_core=NET
 trade_goods = coal
 life_rating = 35
 terrain = mining_district
+state_building= {
+	level=1
+	building = cement_factory
+	upgrade = yes
+}
