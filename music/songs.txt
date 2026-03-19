@@ -1,50 +1,322 @@
+# Silences
+
+# For reasons unknow to man, if there are less than 7 songs for any given occasion, the game wont properly play said songs.
+# They will only play once and never loop, I believe the game is still trying to make a full playlist, which has to have at least 7 songs,
+# and so, the unfinished playlist glitches out and the game goes silence.
+# Those 7 silence mp3s are here to ensure the game has at least 7 things to play, I'm 100% sure this will never happen, but who knows all the edge cases...
+# And yes, they will some times play during normal gameplay, but it's fine, it's actually good to have moments of silence from time to time
+
 song = {
-    name = "forgodandqueen.mp3"
+    name = "Base/Silence1.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
 song = {
-    name = "adayatthecourt.mp3"
+    name = "Base/Silence2.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
 song = {
-    name = "WheeWhooDays.mp3"
+    name = "Base/Silence3.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
 song = {
-    name = "battlehymnoftherepublic.mp3"
+    name = "Base/Silence4.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
 song = {
-    name = "buckinghampalace.mp3"
+    name = "Base/Silence5.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
 song = {
-    name = "countryside.mp3"
+    name = "Base/Silence6.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
 song = {
-    name = "deathofprincealbert.mp3"
+    name = "Base/Silence7.mp3"
 
     chance = { modifier = { factor = 0.1 } }
 }
-song = {
-    name = "WheeWhooDays.mp3"
 
-    chance = { modifier = { factor = 1.0 } }
+
+####################################################################################################################################
+ 
+# Generic Peace
+ 
+song = {
+	name = "Peace/OutsiderNoMore.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
 }
+ 
 song = {
-    name = "forgodandqueen.mp3"
-
-    chance = { modifier = { factor = 1 } }
+	name = "Peace/Becalmed.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
 }
+ 
 song = {
-    name = "marchingthroughgeorgia.mp3"
+	name = "Peace/CaptainsOfAdventure.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
+}
+ 
+song = {
+	name = "Peace/Nocturne pour Lumiere.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
+}
+ 
+song = {
+	name = "Peace/Voyage.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
+}
 
-    chance = { modifier = { factor = 6 } }
+song = {
+	name = "Peace/Sciel (Piano).mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
+}
+
+song = {
+	name = "Peace/Le Carousel de Lumiere.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
+}
+ 
+####################################################################################################################################
+ 
+# Generic War
+ 
+song = {
+	name = "War/Zoltraak.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+ 
+song = {
+	name = "War/The Rebel Path.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+ 
+song = {
+	name = "War/The Magic Within.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+ 
+song = {
+	name = "War/Sabaton. The Last Stand.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+ 
+song = {
+	name = "War/In Praise of Genghis Khan.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "War/Girls und Panzer Katyusha.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "War/FrierenTheSlayer.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "War/DragonSmasher.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "War/Our Painted Death.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "War/Fight for the Win.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "War/Our Drafts Unite.mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+song = {
+	name = "War/Taking Down the Paintress (Instrumental).mp3"
+	chance = {
+		modifier = { factor = 10 }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+####################################################################################################################################
+ 
+# Troll Songs
+
+song = {
+	name = "Troll/Irriterande.mp3"
+	chance = {
+		modifier = { factor = 0.01 }
+	}
+}
+
+song = {
+    name = "Troll/Anime/BlingBangBangBorn.mp3"
+    chance = {
+        modifier = { factor = 0.01 }
+        modifier = { factor = 10 tag = JAP }
+    }
+}
+
+song = {
+	name = "Troll/Anime/Idol YOASOBI.mp3"
+	chance = {
+		modifier = { factor = 0.01 }
+        modifier = { factor = 10 tag = JAP }
+	}
+}
+
+song = {
+	name = "Troll/Anime/La La La.mp3"
+	chance = {
+		modifier = { factor = 0.01 }
+        modifier = { factor = 10 tag = JAP }
+	}
+}
+
+song = {
+	name = "Troll/Anime/Pain.mp3"
+	chance = {
+		modifier = { factor = 0.01 }
+	}
+}
+
+song = {
+	name = "Troll/Expedition/Pour que Naisse un Bouquet.mp3"
+	chance = {
+		modifier = { factor = 0.1 }
+	}
+}
+
+song = {
+	name = "Troll/Expedition/Monoco.mp3"
+	chance = {
+		modifier = { factor = 0.1 }
+	}
+}
+
+song = {
+	name = "Troll/Expedition/Alicia.mp3"
+	chance = {
+		modifier = { factor = 0.1 }
+	}
+}
+
+
+####################################################################################################################################
+ 
+# Poland
+
+song = {
+	name = "Poland/HejPolish.mp3"
+	chance = {
+		modifier = { factor = 1 }
+        modifier = { factor = 0 NOT = { tag = POL } }
+	}
+}
+
+song = {
+	name = "Poland/czasy legionera Polish.mp3"
+	chance = {
+		modifier = { factor = 10 }
+        modifier = { factor = 0 NOT = { tag = POL } }
+		modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+####################################################################################################################################
+ 
+# Germany
+
+song = {
+	name = "Poland/Ich Bin Soldat.mp3"
+	chance = {
+		modifier = { factor = 1 }
+        modifier = { factor = 0 NOT = { OR = { tag = PRU tag = GER } } }
+        modifier = { factor = 0 war = no NOT = { has_country_flag = war_songs_bypass } }
+	}
+}
+
+####################################################################################################################################
+ 
+# France
+
+song = {
+	name = "France/Degeneration.mp3"
+	chance = {
+		modifier = { factor = 1 }
+        modifier = { factor = 0 NOT = { tag = FRA } }
+	}
+}
+
+song = {
+	name = "France/France.mp3"
+	chance = {
+		modifier = { factor = 1 }
+        modifier = { factor = 0 NOT = { tag = FRA } }
+	}
 }
