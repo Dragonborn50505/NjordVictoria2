@@ -1,5 +1,5 @@
-owner=RYA
-controller=RYA
+owner=TUR
+controller=TUR
 trade_goods = cattle
 life_rating = 35
 colonial=2

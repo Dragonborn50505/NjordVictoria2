@@ -1,6 +1,6 @@
-owner=RYA
-controller=RYA
-add_core=RYA
+owner=TUR
+controller=TUR
+add_core=TUR
 trade_goods = iron
 life_rating = 35
 fort = 1

@@ -1,5 +1,5 @@
-owner=RYA
-controller=RYA
-add_core=RYA
+owner=TUR
+controller=TUR
+add_core=TUR
 trade_goods = grain
 life_rating = 40
