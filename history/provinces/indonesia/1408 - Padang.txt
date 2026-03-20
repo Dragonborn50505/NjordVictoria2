@@ -5,6 +5,5 @@ add_core=MLC
 add_core=MLY
 trade_goods = fruit
 life_rating = 32
-colonial=2
 naval_base = 2
 fort = 1

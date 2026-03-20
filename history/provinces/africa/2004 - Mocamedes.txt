@@ -1,3 +1,5 @@
+owner=NET
+controller=NET
 trade_goods = fish
 life_rating = 15
 terrain = semidesert

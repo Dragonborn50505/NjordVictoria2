@@ -1,5 +1,6 @@
-owner=AUG
-controller=AUG
+owner=X18
+controller=X18
+add_core=X18
 add_core=HLR
 add_core=IRQ
 add_core=JER

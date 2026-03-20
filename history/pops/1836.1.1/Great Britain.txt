@@ -200,35 +200,35 @@
 	artisans=
 	{
 		culture = dynamic-scottish-culture-num1
-		religion = animist
+		religion = orthodox
 		size= 50
 	}
 
 	clergymen=
 	{
 		culture = dynamic-scottish-culture-num1
-		religion = animist
+		religion = orthodox
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = dynamic-scottish-culture-num1
-		religion = animist
+		religion = orthodox
 		size= 1
 	}
 
 	officers=
 	{
 		culture = dynamic-scottish-culture-num1
-		religion = animist
+		religion = orthodox
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = dynamic-scottish-culture-num1
-		religion = animist
+		religion = orthodox
 		size= 9
 	}
 
@@ -286,42 +286,42 @@
 	soldiers=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 331
 	}
 
 	clergymen=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 31
 	}
 
 	bureaucrats=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 40
 	}
 
@@ -449,63 +449,63 @@
 	soldiers=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 10
 	}
 
 	craftsmen=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 26
 	}
 
 	artisans=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 268
 	}
 
 	clergymen=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 39
 	}
 
 	clerks=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 14
 	}
 
 	bureaucrats=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 6
 	}
 
 	capitalists=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 29
 	}
 
@@ -784,42 +784,42 @@
 	soldiers=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 415
 	}
 
 	clergymen=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 39
 	}
 
 	bureaucrats=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = scottish
-		religion = animist
+		religion = orthodox
 		size= 25
 	}
 
@@ -1260,7 +1260,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 1232
+		size= 52320
 	}
 
 }
@@ -1317,42 +1317,42 @@
 	soldiers=
 	{
 		culture = welsh
-		religion = animist
+		religion = orthodox
 		size= 20
 	}
 
 	artisans=
 	{
 		culture = welsh
-		religion = animist
+		religion = orthodox
 		size= 215
 	}
 
 	clergymen=
 	{
 		culture = welsh
-		religion = animist
+		religion = orthodox
 		size= 23
 	}
 
 	bureaucrats=
 	{
 		culture = welsh
-		religion = animist
+		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
 		culture = welsh
-		religion = animist
+		religion = orthodox
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = welsh
-		religion = animist
+		religion = orthodox
 		size= 26
 	}
 
@@ -2852,49 +2852,49 @@
 	soldiers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 332
 	}
 
 	artisans=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 1554
 	}
 
 	clergymen=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 167
 	}
 
 	bureaucrats=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 31
 	}
 
 	officers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 32
 	}
 
 	aristocrats=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 93
 	}
 
 	farmers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 1400
 	}
 
@@ -3001,49 +3001,49 @@
 	soldiers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 719
 	}
 
 	artisans=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 3364
 	}
 
 	clergymen=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 360
 	}
 
 	bureaucrats=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 67
 	}
 
 	officers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 70
 	}
 
 	aristocrats=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 202
 	}
 
 	farmers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 3028
 	}
 
@@ -4041,49 +4041,49 @@
 	soldiers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 419
 	}
 
 	artisans=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 1958
 	}
 
 	clergymen=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 210
 	}
 
 	bureaucrats=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 39
 	}
 
 	officers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 41
 	}
 
 	aristocrats=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 117
 	}
 
 	farmers=
 	{
 		culture = english
-		religion = animist
+		religion = orthodox
 		size= 1772
 	}
 

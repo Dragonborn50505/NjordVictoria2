@@ -1,12 +1,15 @@
 capital = 1416
-primary_culture = javan
+primary_culture = flemish
+culture = javan
 culture = zzz_religion_sunni
 religion = sunni
 government = absolute_monarchy
 plurality = 0
-nationalvalue = nv_tradition
-literacy = 0
+nationalvalue = nv_equality
+literacy = 0.2
 
+civilized = yes
+treasury = 100000
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -44,6 +47,17 @@ consciousness = 0
 nonstate_consciousness= 0
 
 # Technologies
+army_command_principle = 1
+basic_chemistry = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+flintlock_rifles = 1
+hot_blast = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
 prestige=0
 oob = "JAV_OOB.txt"
 set_country_flag = religi

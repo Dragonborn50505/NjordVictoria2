@@ -83,8 +83,11 @@ FLR = {
 	level = 2
 }
 FRA = {
-	value = 50
-	level = 3
+	value=100
+    last_send_diplomat="1918.4.9"
+    level=5
+    level_changed_date="1903.1.21"
+    influence_value=100.000
 }
 GER = {
 	value = 30
@@ -383,6 +386,20 @@ YEM = {
 YUA = {
 	value = -14
 	level = 2
+}
+JAV = {
+	value=100
+    last_send_diplomat="1918.4.9"
+    level=5
+    level_changed_date="1903.1.21"
+    influence_value=100.000
+}
+ATJ = {
+	value=100
+    last_send_diplomat="1918.4.9"
+    level=5
+    level_changed_date="1903.1.21"
+    influence_value=100.000
 }
 
 #Leaders
@@ -2097,7 +2114,7 @@ army = {
 		home=401
 	}
 	regiment = {
-		name="1st Liège Artillery"
+		name="1st Liï¿½ge Artillery"
 		type=artillery
 		home=395
 	}

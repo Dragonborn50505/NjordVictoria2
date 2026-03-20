@@ -1,5 +1,6 @@
-owner=X02
-controller=X02
+owner=AUG
+controller=AUG
+add_core=AUG
 add_core=IRQ
 add_core=SYR
 add_core=X02
