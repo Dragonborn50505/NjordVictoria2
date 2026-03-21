@@ -363,45 +363,10 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Ienari Akamatsu"
-	date="1733.11.5"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Katsuhito Mimura"
-	date="1740.9.3"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Ieharu Takeda"
-	date="1742.2.16"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Fusahito Mogami"
-	date="1742.9.4"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Ieyoshi Keda"
-	date="1742.9.29"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
 
 #Armies

@@ -396,45 +396,10 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Feidlimidh Macartney"
-	date="1733.2.22"
-	type=land
-	personality="inspiring"
-	background="aristocrat"
-}
 
-leader = {
-	name="Aonghus Martyn"
-	date="1747.2.19"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Cao0mhin Barry"
-	date="1748.12.16"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Flann Moore"
-	date="1748.12.13"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Math0in Coote"
-	date="1749.6.25"
-	type=land
-	personality="inspiring"
-	background="aristocrat"
-}
 
 
 #Armies

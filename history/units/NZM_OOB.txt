@@ -366,29 +366,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Purta Taika"
-	date="1719.7.25"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Aperahama Kaihautu"
-	date="1726.10.24"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Tangaroa Kamaka"
-	date="1741.4.23"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

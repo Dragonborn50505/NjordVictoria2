@@ -359,13 +359,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Voreqe Lala"
-	date="1748.7.2"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
 
 #Armies

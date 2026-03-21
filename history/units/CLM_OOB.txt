@@ -396,69 +396,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Hilal de Niebla"
-	date="1725.5.27"
-	type=sea
-	personality="disciplined"
-	background="generals_aide"
-}
 
-leader = {
-	name="Ölvir Garmendia"
-	date="1725.6.1"
-	type=land
-	personality="tactful"
-	background="pawn"
-}
 
-leader = {
-	name="T'ar'iq de la Cerda"
-	date="1733.8.29"
-	type=land
-	personality="stalwart"
-	background="brownnoser"
-}
-
-leader = {
-	name="Barisone de Menezes"
-	date="1742.12.7"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ölvir de Medinaceli"
-	date="1747.8.19"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Ubertu de Villahermosa"
-	date="1747.8.21"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Barisone Lasso de la Vega"
-	date="1748.11.27"
-	type=sea
-	personality="disciplined"
-	background="war_college"
-}
-
-leader = {
-	name="Ubertu de Rocamora"
-	date="1750.7.18"
-	type=sea
-	personality="coolminded"
-	background="generals_aide"
-}
 
 
 #Armies

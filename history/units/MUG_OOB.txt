@@ -392,13 +392,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Sh0h 'Alam Mirza"
-	date="1728.2.20"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

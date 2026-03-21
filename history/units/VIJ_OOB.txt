@@ -402,29 +402,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Lakshmidhara Tiruvadi"
-	date="1731.5.6"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Isvara Heuna"
-	date="1735.4.27"
-	type=land
-	personality="unflinching"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Vira Vijaya Bukka Timmarasa"
-	date="1741.9.2"
-	type=sea
-	personality="coolminded"
-	background="generals_aide"
-}
 
 
 #Armies

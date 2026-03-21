@@ -6,3 +6,8 @@ add_core=X01
 trade_goods = cattle
 life_rating = 40
 fort = 1
+state_building= {
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

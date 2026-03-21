@@ -386,13 +386,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Aata Tia"
-	date="1719.4.17"
-	type=sea
-	personality="intuitive"
-	background="war_college"
-}
 
 
 #Armies

@@ -395,69 +395,13 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Adityasenagupta VIII Kalachuri"
-	date="1748.4.22"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Narayanapala Roy"
-	date="1728.6.18"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Lalitaditya-Muktapida Borphukan"
-	date="1739.1.25"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Surapala Chandra"
-	date="1742.8.2"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Ramapala Deka"
-	date="1743.7.2"
-	type=sea
-	personality="disciplined"
-	background="war_college"
-}
 
-leader = {
-	name="Rajyapala Kalita"
-	date="1743.7.4"
-	type=sea
-	personality="disciplined"
-	background="generals_aide"
-}
 
-leader = {
-	name="Govindapala Narayan"
-	date="1746.2.11"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Kuvalayapida Roy"
-	date="1749.1.20"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
 
 
 #Armies

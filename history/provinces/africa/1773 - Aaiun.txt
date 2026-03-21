@@ -1,2 +1,4 @@
 trade_goods = fish
 life_rating = 10
+owner=X01
+controller=X01

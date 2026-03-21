@@ -333,13 +333,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Hakim Das"
-	date="1746.3.2"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
 
 #Armies

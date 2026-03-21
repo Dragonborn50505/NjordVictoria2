@@ -418,61 +418,12 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Andreas Vaklikas"
-	date="1738.7.14"
-	type=land
-	personality="chivalrous"
-	background="artillerist"
-}
 
-leader = {
-	name="Konstantios Kalavros"
-	date="1739.2.3"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Yakut Triblattites"
-	date="1741.3.14"
-	type=land
-	personality="disciplined"
-	background="generals_aide"
-}
 
-leader = {
-	name="Konstantios Peganites"
-	date="1742.5.25"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Andronikos Makrembolites"
-	date="1749.6.16"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Konstantios Skamandrenos"
-	date="1746.3.4"
-	type=sea
-	personality="inspiring"
-	background="aristocrat"
-}
 
-leader = {
-	name="Yakut Akapnes"
-	date="1749.6.12"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
 
 #Armies

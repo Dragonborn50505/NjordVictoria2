@@ -408,21 +408,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Yazdegerd II Sinjid"
-	date="1731.11.1"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Asav Laskaris"
-	date="1718.2.27"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
 
 
 #Armies

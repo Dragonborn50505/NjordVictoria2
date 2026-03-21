@@ -396,45 +396,10 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Tadhg O'Donnell"
-	date="1726.9.18"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Aerdghal Butler"
-	date="1736.5.24"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Aonghus Alexander"
-	date="1744.6.29"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Se0n Touchet"
-	date="1747.8.19"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Conn McCarthy"
-	date="1747.8.20"
-	type=land
-	personality="chivalrous"
-	background="bootlicker"
-}
 
 
 #Armies

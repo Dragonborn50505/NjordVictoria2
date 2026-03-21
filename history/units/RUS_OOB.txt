@@ -394,13 +394,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Aleksandr Soltikov"
-	date="1735.2.10"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

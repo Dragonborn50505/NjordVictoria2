@@ -377,21 +377,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Goshtasb Patidar"
-	date="1740.10.12"
-	type=land
-	personality="disciplined"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Mahmud Patidar"
-	date="1740.10.15"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
 
 #Armies

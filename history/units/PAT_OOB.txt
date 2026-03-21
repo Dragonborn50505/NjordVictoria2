@@ -394,13 +394,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Raja Emas Jayam Baginda Prem"
-	date="1739.4.24"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

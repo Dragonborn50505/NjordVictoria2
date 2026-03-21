@@ -387,13 +387,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Hasam Alami"
-	date="1749.8.29"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

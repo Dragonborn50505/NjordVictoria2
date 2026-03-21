@@ -335,13 +335,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Mans0r Sh0h Kyai"
-	date="1739.7.2"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
 
 #Armies

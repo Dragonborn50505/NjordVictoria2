@@ -409,21 +409,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Upendra II Kalachuri"
-	date="1748.7.27"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Upendra Qadirid"
-	date="1746.2.11"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
 
 #Armies

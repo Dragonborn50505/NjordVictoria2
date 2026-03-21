@@ -361,21 +361,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Ai Wu Hsa V Konbaung"
-	date="1747.11.6"
-	type=land
-	personality="disciplined"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Minhlange Ava"
-	date="1734.2.2"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
 
 #Armies

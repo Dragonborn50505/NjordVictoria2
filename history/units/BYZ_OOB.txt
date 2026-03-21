@@ -345,29 +345,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Manuel Argyros"
-	date="1724.1.5"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Philippos Rhodocanakis"
-	date="1731.8.20"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Hektorios Melisurgos"
-	date="1741.3.9"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

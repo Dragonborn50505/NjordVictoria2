@@ -394,29 +394,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Abd al-Jal0l Rahmat Sh0h I Srivijaya"
-	date="1747.10.7"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Abd al-Jal0l Sh0h Roem"
-	date="1727.4.19"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Mahm0d Sh0h Natzar"
-	date="1747.10.10"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

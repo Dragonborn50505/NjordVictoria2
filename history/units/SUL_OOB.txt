@@ -401,29 +401,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Muhammad al Halim Saleh"
-	date="1724.9.15"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Muhammad Israil Satria"
-	date="1736.2.27"
-	type=sea
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Muizz ul Din Sentosa"
-	date="1746.7.4"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

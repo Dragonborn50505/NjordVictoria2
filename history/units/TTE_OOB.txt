@@ -395,13 +395,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Zainal Abidin Abdulfatah"
-	date="1715.12.30"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

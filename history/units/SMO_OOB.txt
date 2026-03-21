@@ -375,13 +375,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Liko Kalei"
-	date="1720.5.5"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

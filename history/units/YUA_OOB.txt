@@ -368,13 +368,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Shams-i-Jahan Bayardai"
-	date="1718.3.2"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
 
 #Armies

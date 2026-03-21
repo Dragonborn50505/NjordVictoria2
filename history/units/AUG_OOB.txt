@@ -356,37 +356,9 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Johann von Hatzfeldt"
-	date="1709.11.29"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Wilhelm Zrinski"
-	date="1710.12.1"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Adolf von Schönburg"
-	date="1727.7.17"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Ferdinand Alvintzky"
-	date="1742.1.5"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
 
 
 #Armies

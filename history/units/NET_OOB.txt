@@ -403,101 +403,17 @@ ATJ = {
 }
 
 #Leaders
-leader = {
-	name="= van Serooskerken"
-	date="1703.10.22"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name=", van Limburg"
-	date="1735.9.15"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
 
-leader = {
-	name="= van Montfoort"
-	date="1737.4.14"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
-leader = {
-	name=", van Bergh"
-	date="1738.1.19"
-	type=land
-	personality="unflinching"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Brandt de Friesland"
-	date="1738.1.19"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Brandt de Friesland"
-	date="1738.1.20"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Brandt de Friesland"
-	date="1738.1.21"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
-leader = {
-	name=", de Reginar"
-	date="1738.1.23"
-	type=land
-	personality="unflinching"
-	background="school_of_defense"
-}
 
-leader = {
-	name=", van Breda"
-	date="1739.6.1"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="= von Salm"
-	date="1741.7.4"
-	type=land
-	personality="defiant"
-	background="school_of_defense"
-}
 
-leader = {
-	name="= von Salm"
-	date="1741.7.4"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
-leader = {
-	name="leader_names van Loon"
-	date="1741.7.4"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
 
 #Armies

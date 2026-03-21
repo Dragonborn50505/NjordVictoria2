@@ -1,5 +1,5 @@
-owner=X01
-controller=X01
+owner=ITA
+controller=ITA
 add_core=MOR
 add_core=X13
 trade_goods = grain

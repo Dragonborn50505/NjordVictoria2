@@ -332,21 +332,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Bharmal Naru"
-	date="1748.2.2"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Banabira Kachwaha"
-	date="1749.11.4"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
 
 #Armies

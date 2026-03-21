@@ -375,13 +375,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Keiki Kale"
-	date="1748.8.4"
-	type=sea
-	personality="inspiring"
-	background="aristocrat"
-}
 
 
 #Armies

@@ -361,21 +361,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Siegfried von Stille"
-	date="1720.12.1"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Adolf von Merckatz"
-	date="1730.7.5"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

@@ -348,29 +348,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Zeya Thura Mohnyin"
-	date="1713.12.11"
-	type=land
-	personality="tactful"
-	background="pawn"
-}
 
-leader = {
-	name="Hmauk Sakoi"
-	date="1742.7.17"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Taik Mobye"
-	date="1743.5.20"
-	type=land
-	personality="coolminded"
-	background="natural_born_leader"
-}
 
 
 #Armies

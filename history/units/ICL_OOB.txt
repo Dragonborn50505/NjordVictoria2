@@ -369,13 +369,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Thorvaldur Arason"
-	date="1713.7.30"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

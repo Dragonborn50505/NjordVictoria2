@@ -395,53 +395,11 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Ibr0h0m Sh0h Abdulfatah"
-	date="1738.7.16"
-	type=land
-	personality="disciplined"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Ma'ayat Sh0h Hasanuddin"
-	date="1738.7.18"
-	type=land
-	personality="disciplined"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Sulaym0n Badr Sh0h Ibnu"
-	date="1738.7.19"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Sam Agi Amir"
-	date="1743.5.27"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="'Abd al-Jal0l Sh0h Zulkifli"
-	date="1743.7.22"
-	type=land
-	personality="tactful"
-	background="pawn"
-}
 
-leader = {
-	name="Rajah Qasim Hasanuddin"
-	date="1744.3.6"
-	type=sea
-	personality="coolminded"
-	background="brownnoser"
-}
 
 
 #Armies

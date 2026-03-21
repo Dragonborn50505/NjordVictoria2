@@ -3,3 +3,4 @@ controller=NET
 trade_goods = fish
 life_rating = 10
 terrain = desert
+colonial = 2

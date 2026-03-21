@@ -345,45 +345,10 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Phrachao Suea Na Udon"
-	date="1739.12.23"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Intha Racha Kawrungruang"
-	date="1747.10.6"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Chairacha Na Roi Et"
-	date="1747.10.8"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Chao Fa Jai Diskul"
-	date="1747.10.10"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
 
-leader = {
-	name="Borommaracha Yongchaiyudh"
-	date="1748.2.2"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
 
 #Armies

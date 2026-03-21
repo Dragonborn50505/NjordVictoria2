@@ -343,29 +343,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Muhammad T0j ad-D0n Natzar"
-	date="1730.3.4"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Bulkiah Mukhtar"
-	date="1747.10.7"
-	type=land
-	personality="coolminded"
-	background="generals_aide"
-}
 
-leader = {
-	name="Al0' ad-D0n Batuta"
-	date="1747.10.9"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
 
 #Armies

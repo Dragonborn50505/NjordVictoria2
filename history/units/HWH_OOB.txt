@@ -348,13 +348,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Akamu Keani"
-	date="1718.12.8"
-	type=sea
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
 
 #Armies

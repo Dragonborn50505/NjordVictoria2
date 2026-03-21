@@ -385,21 +385,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Jayapida II Chagatay"
-	date="1740.10.8"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Shahrdad Chauhan"
-	date="1740.10.9"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
 
 #Armies

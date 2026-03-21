@@ -399,93 +399,9 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Karl Münchov"
-	date="1714.6.5"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Karl Arnim"
-	date="1718.7.6"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Diederick von Merckatz"
-	date="1719.6.4"
-	type=land
-	personality="stalwart"
-	background="brownnoser"
-}
 
-leader = {
-	name="Heinrich von Taubeneck"
-	date="1719.10.18"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Erwin von Schwerin"
-	date="1724.8.15"
-	type=sea
-	personality="stalwart"
-	background="artillerist"
-}
-
-leader = {
-	name="Siegmund von Merckatz"
-	date="1730.8.23"
-	type=sea
-	personality="coolminded"
-	background="generals_aide"
-}
-
-leader = {
-	name="Oskar von Dossow"
-	date="1730.8.24"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Rupprecht von Schwerin"
-	date="1730.8.25"
-	type=sea
-	personality="resolute"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Gottfried von Bimback"
-	date="1744.4.14"
-	type=land
-	personality="resolute"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Nikolaus Arnswald"
-	date="1747.3.10"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="August Wilhelm Below"
-	date="1747.3.17"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
 
 #Armies

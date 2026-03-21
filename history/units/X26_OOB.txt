@@ -397,37 +397,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Hilal de Valencia"
-	date="1710.3.2"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Jofré Lasso de la Vega"
-	date="1725.5.27"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ölvir de Silva"
-	date="1726.7.31"
-	type=land
-	personality="disciplined"
-	background="generals_aide"
-}
-
-leader = {
-	name="Maymun de Alcalá"
-	date="1747.8.19"
-	type=land
-	personality="coolminded"
-	background="generals_aide"
-}
 
 
 #Armies

@@ -348,77 +348,14 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Alphonse de Chambly"
-	date="1723.1.5"
-	type=land
-	personality="disciplined"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Maximilien de Galard"
-	date="1728.6.9"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
 
-leader = {
-	name="Firmin de Crussol"
-	date="1735.2.21"
-	type=land
-	personality="disciplined"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Ignace de La Porte"
-	date="1735.2.26"
-	type=land
-	personality="resolute"
-	background="natural_born_leader"
-}
 
-leader = {
-	name="Alphonse de Galard"
-	date="1735.3.4"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Alphonse de Rochemaure"
-	date="1735.3.11"
-	type=land
-	personality="disciplined"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Jacques de Champmartin"
-	date="1740.9.14"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Bernard du Fournay"
-	date="1747.9.17"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Georges de Boissieu"
-	date="1750.1.13"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
 
 #Armies

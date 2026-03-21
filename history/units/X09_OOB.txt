@@ -394,29 +394,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Papin Senar"
-	date="1728.2.18"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
 
-leader = {
-	name="Arus Hadareb"
-	date="1728.2.20"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Mari-Djata Hadendiwa"
-	date="1728.2.23"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
 
 
 #Armies

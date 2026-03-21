@@ -357,13 +357,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Jamal-ud-din Safsikhan"
-	date="1738.7.13"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
 
 #Armies

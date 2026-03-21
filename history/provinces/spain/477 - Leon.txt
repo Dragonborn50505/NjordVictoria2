@@ -5,3 +5,13 @@ add_core=X01
 trade_goods = coal
 life_rating = 35
 fort = 1
+state_building= {
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building= {
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

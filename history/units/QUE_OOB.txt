@@ -395,53 +395,11 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Benedikt Truxes"
-	date="1715.12.17"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Wilhelm von Seel"
-	date="1726.8.8"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Joachim von Derfflinger"
-	date="1747.11.5"
-	type=sea
-	personality="coolminded"
-	background="brownnoser"
-}
 
-leader = {
-	name="Helmut von Derfflinger"
-	date="1748.1.12"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Friedrich Cisielsky"
-	date="1750.3.1"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Horst Knobelsdorf"
-	date="1750.9.21"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

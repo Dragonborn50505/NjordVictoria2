@@ -355,42 +355,6 @@ an_elephant_for_america = {
 			set_country_flag = sent_an_elephant_to_america
 		}
 	}
-	
-	
-	
-	delete_poland = {
-	picture = frostpunk5
-
-        potential = {
-		TAG = RUS
-		NOT = { year = 1838 }
-        }
-
-        allow = {
-		#???
-		war = no 
-		
-        }
-
-        effect = {
-		#do stuff
-		any_owned = {
-        limit = {
-            is_core = POL
-        }
-        remove_core = POL
-		}
-		any_owned = {
-		limit = {
-            is_core = RUS
-        }
-		remove_claim = POL
-
-		}
-        }
-
-        ai_will_do = { factor = 1 }
-    }
 	the_partition_of_the_commune = {
 	picture = chi
 

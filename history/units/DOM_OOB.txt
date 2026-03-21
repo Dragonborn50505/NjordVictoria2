@@ -395,37 +395,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Maymun de Villahermosa"
-	date="1725.5.27"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Ubertu Enríquez"
-	date="1742.3.25"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Maymun de Hoyos"
-	date="1747.8.19"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Ölvir de Alcalá"
-	date="1748.4.24"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

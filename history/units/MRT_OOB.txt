@@ -382,61 +382,12 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Amara Bhonsle"
-	date="1729.8.4"
-	type=sea
-	personality="disciplined"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Mallugi Shinde"
-	date="1732.6.22"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Dridhaprahara Gujar"
-	date="1733.12.9"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Durgasimha Chavan"
-	date="1736.11.21"
-	type=land
-	personality="disciplined"
-	background="bootlicker"
-}
 
-leader = {
-	name="Amara Moray"
-	date="1746.2.11"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Amaragangeyya Maruthi"
-	date="1746.2.14"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
 
-leader = {
-	name="Mallugi Ramiah"
-	date="1750.6.22"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

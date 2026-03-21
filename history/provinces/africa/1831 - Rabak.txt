@@ -1,5 +1,5 @@
-owner=X09
-controller=X09
+owner=YEM
+controller=YEM
 add_core=NUB
 add_core=X09
 trade_goods = grain

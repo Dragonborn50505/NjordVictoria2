@@ -403,13 +403,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Birama Pecori-Giraldi"
-	date="1732.4.11"
-	type=land
-	personality="coolminded"
-	background="natural_born_leader"
-}
 
 
 #Armies

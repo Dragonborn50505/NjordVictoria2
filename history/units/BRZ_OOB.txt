@@ -396,53 +396,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Ubertu de Castilla"
-	date="1725.5.29"
-	type=land
-	personality="chivalrous"
-	background="artillerist"
-}
 
-leader = {
-	name="Ölvir de Haro"
-	date="1733.8.30"
-	type=land
-	personality="disciplined"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="T'ar'iq de Borja"
-	date="1736.7.6"
-	type=sea
-	personality="tactful"
-	background="pawn"
-}
-
-leader = {
-	name="Jofré de Castro"
-	date="1741.10.25"
-	type=sea
-	personality="inspiring"
-	background="aristocrat"
-}
-
-leader = {
-	name="Adergazuz de Castro"
-	date="1749.4.10"
-	type=sea
-	personality="tactful"
-	background="pawn"
-}
-
-leader = {
-	name="T'ar'iq de Menezes"
-	date="1750.7.20"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
 
 #Armies

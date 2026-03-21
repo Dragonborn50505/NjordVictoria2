@@ -376,29 +376,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Niall Barry"
-	date="1722.4.20"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="MONARCH_NAME_GEAROID O'Donnell"
-	date="1722.10.14"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Se0n FitzWilliam"
-	date="1747.8.18"
-	type=land
-	personality="inspiring"
-	background="aristocrat"
-}
 
 
 #Armies

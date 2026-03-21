@@ -406,53 +406,11 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Dhidhin Issa"
-	date="1728.2.24"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Fadil Ibrahim"
-	date="1728.12.24"
-	type=sea
-	personality="chivalrous"
-	background="bootlicker"
-}
 
-leader = {
-	name="Kalballah Saleh"
-	date="1728.12.26"
-	type=sea
-	personality="resolute"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Irir Mansour"
-	date="1731.1.31"
-	type=land
-	personality="chivalrous"
-	background="war_college"
-}
 
-leader = {
-	name="Fadil Issa"
-	date="1747.10.17"
-	type=land
-	personality="chivalrous"
-	background="artillerist"
-}
 
-leader = {
-	name="Uthman Jabrid"
-	date="1750.11.4"
-	type=land
-	personality="stalwart"
-	background="brownnoser"
-}
 
 
 #Armies

@@ -392,77 +392,14 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Oskar Selasinky"
-	date="1731.5.23"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Anton von Preuﬂen"
-	date="1737.7.9"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
-leader = {
-	name="Reiner von Stille"
-	date="1737.9.2"
-	type=land
-	personality="intuitive"
-	background="war_college"
-}
 
-leader = {
-	name="Lukas Finck"
-	date="1738.11.11"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Florian Below"
-	date="1741.5.24"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Franz Perlkowski"
-	date="1743.4.30"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Nikolaus Arnim"
-	date="1745.4.17"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="Horst Linkendorf"
-	date="1747.8.15"
-	type=sea
-	personality="polite"
-	background="pawn"
-}
 
-leader = {
-	name="Emil von Hohenzollern"
-	date="1750.5.22"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies

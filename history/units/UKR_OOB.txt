@@ -400,29 +400,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="NIckolas Vasylenko"
-	date="1729.2.16"
-	type=sea
-	personality="chivalrous"
-	background="war_college"
-}
 
-leader = {
-	name="Romulus Lysenko"
-	date="1730.11.24"
-	type=sea
-	personality="coolminded"
-	background="generals_aide"
-}
 
-leader = {
-	name="Romulus Doroshenko"
-	date="1730.11.27"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
 
 
 #Armies

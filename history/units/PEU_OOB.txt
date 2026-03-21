@@ -378,37 +378,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Ölvir de Castilla"
-	date="1730.11.23"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Jofré de la Cerda"
-	date="1739.10.16"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ölvir Manrique de Lara"
-	date="1747.8.19"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Udure de Ávalos"
-	date="1750.7.18"
-	type=land
-	personality="gallant"
-	background="drillmaster"
-}
 
 
 #Armies

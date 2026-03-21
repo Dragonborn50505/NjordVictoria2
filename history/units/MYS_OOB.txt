@@ -385,21 +385,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Chikkadevaraja I Saluva"
-	date="1743.4.2"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Mahesh Vaidya"
-	date="1743.4.18"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
 
 
 #Armies

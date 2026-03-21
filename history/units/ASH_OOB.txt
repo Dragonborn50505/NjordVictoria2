@@ -332,21 +332,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Dimani Afrifa"
-	date="1717.9.1"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Dimani Addy"
-	date="1729.11.23"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
 
 
 #Armies

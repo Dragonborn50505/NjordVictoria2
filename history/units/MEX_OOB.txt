@@ -397,21 +397,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Fonnchadh Duff"
-	date="1746.7.2"
-	type=sea
-	personality="disciplined"
-	background="war_college"
-}
 
-leader = {
-	name="Brian Duff"
-	date="1748.12.2"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

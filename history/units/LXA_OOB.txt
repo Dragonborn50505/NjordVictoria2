@@ -378,37 +378,9 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Nokeo Koumanh Insisiengmay"
-	date="1733.8.7"
-	type=land
-	personality="resolute"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Meunsai Vongsawat"
-	date="1735.3.14"
-	type=sea
-	personality="coolminded"
-	background="generals_aide"
-}
 
-leader = {
-	name="Lan Kham Deng Phetrasy"
-	date="1747.11.5"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Anurutha Chounramany"
-	date="1747.12.30"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
 
 
 #Armies

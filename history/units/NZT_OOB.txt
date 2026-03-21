@@ -379,21 +379,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Manaaki Tawera"
-	date="1725.11.17"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
 
-leader = {
-	name="Henare Hahona"
-	date="1727.11.7"
-	type=sea
-	personality="tactful"
-	background="pawn"
-}
 
 
 #Armies

@@ -361,29 +361,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Wilhelm Wecker"
-	date="1725.3.25"
-	type=land
-	personality="chivalrous"
-	background="bootlicker"
-}
 
-leader = {
-	name="Joseph Kuhn"
-	date="1730.7.30"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Wilhelm Büttner"
-	date="1749.9.4"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
 
 #Armies

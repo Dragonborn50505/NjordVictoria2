@@ -340,13 +340,6 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Colambu Agung"
-	date="1743.2.2"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
 
 
 #Armies

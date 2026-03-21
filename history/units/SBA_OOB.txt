@@ -397,53 +397,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Barisone de Haro"
-	date="1726.1.20"
-	type=sea
-	personality="inspiring"
-	background="aristocrat"
-}
 
-leader = {
-	name="T'ar'iq de Niebla"
-	date="1743.6.23"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ubertu de Mendoza"
-	date="1747.8.20"
-	type=land
-	personality="disciplined"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ölvir de Alcalá"
-	date="1747.8.22"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Muhammad Téllez-Girón"
-	date="1747.8.24"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ubertu de Trastámara"
-	date="1750.8.31"
-	type=land
-	personality="disciplined"
-	background="cavalry_school"
-}
 
 
 #Armies

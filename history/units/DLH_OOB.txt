@@ -352,21 +352,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Aladdin Alam Shah II Khilji"
-	date="1748.9.3"
-	type=land
-	personality="disciplined"
-	background="cavalry_school"
-}
 
-leader = {
-	name="Khidr Khan Bhutto"
-	date="1740.10.15"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

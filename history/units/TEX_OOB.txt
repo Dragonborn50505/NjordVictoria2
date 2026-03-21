@@ -379,29 +379,8 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Iarfhlaith Blayney"
-	date="1747.8.18"
-	type=land
-	personality="resolute"
-	background="generals_aide"
-}
 
-leader = {
-	name="Aerdghal O'Connell"
-	date="1747.8.21"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="R0ag0in Hervey"
-	date="1747.8.23"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

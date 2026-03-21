@@ -379,21 +379,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Ietepere Ikaroa"
-	date="1725.11.18"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
-leader = {
-	name="Kahurangi Kamaka"
-	date="1748.1.2"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
 
 
 #Armies

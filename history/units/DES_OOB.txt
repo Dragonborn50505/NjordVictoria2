@@ -380,21 +380,7 @@ YUA = {
 }
 
 #Leaders
-leader = {
-	name="Muchadh Keating"
-	date="1747.8.23"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
 
-leader = {
-	name="MONARCH_NAME_GEAROID Cholmondeley"
-	date="1748.5.16"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
 
 
 #Armies
