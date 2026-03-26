@@ -82,10 +82,10 @@ political_decisions = {
 			CPL = {
 				set_country_flag = player_country
 				soldiers = {
-					reduce_pop = 0.2
+					reduce_pop = 0.25
 				}
+				any_pop = { literacy = 0.25 }
 				change_tag = POL
-				any_pop = { literacy = 0.15 }
 			}
 			X18 = {
 				set_country_flag = player_country
