@@ -5,7 +5,7 @@ culture = south_italian
 culture = magnagreek
 culture = zzz_religion_orthodox
 religion = orthodox
-government = presidential_dictatorship
+government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.303622
@@ -23,9 +23,9 @@ school_reforms = no_schools
 
 # political reforms
 slavery=no_slavery
-vote_franschise=wealth_weighted_voting
-upper_house_composition=state_equal_weight
-voting_system=first_past_the_post
+vote_franschise=none_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
 public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=state_controlled
