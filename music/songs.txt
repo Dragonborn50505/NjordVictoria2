@@ -105,6 +105,14 @@ song = {
 	}
 }
 
+song = {
+	name = "Peace/Macht_of_the_Golden_Land.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 war = yes NOT = { has_country_flag = warsong_bypass } }
+	}
+}
+
  
 ####################################################################################################################################
  
