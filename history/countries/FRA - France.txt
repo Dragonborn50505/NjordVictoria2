@@ -82,7 +82,6 @@ romanticism = 1
 the_command_principle = 1
 prestige=12.46002
 oob = "FRA_OOB.txt"
-decision = fix_everything_decision
 decision = resize_states_njord
 set_country_flag = emperor_hre
 set_country_flag = religi

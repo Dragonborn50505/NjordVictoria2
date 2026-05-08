@@ -1,15 +1,22 @@
 political_decisions = {
-	YUA_TEST = {
+	YUA_form = {
 		potential = {
-			tag = YUA
+			tag = MGL
 			ai = no
 		}
 
+		allow = {
+			NOT = {
+				exists = X00
+				exists = CHI
+			}
+		}
+
 		effect = {
-			inherit = X00
-			inherit = CHI
+			change_tag = YUA
+			prestige = 25
 			country_event = 676768
-			
+			set_country_flag = SEA_YUA_CONQ
 		}
 	}
 }

@@ -1,7 +1,5 @@
-owner=YUA
-controller=YUA
-add_core=KHA
-add_core=MGL
-add_core=YUA
+owner=RUS
+controller=RUS
+add_core=RUS
 trade_goods = coal
 life_rating = 35

@@ -3638,7 +3638,7 @@ china_acquire_state = {
     months = 12
     crisis = no
 
-    badboy_factor = 0
+    badboy_factor = 1.1
     prestige_factor = 0
     peace_cost_factor = 1
     penalty_factor = 1
@@ -3660,31 +3660,17 @@ china_acquire_state = {
                 NOT = { tag = MGL }
                 NOT = { tag = YUA }
             }
-            year = 1946
+            year = 1842
         }
         NOT = { is_our_vassal = THIS }
         neighbour = THIS
         OR = {
             any_owned_province = {
-                NOT = { is_core = THIS }
                 is_core = CHI
             }
             is_culture_group = east_asian
             tag = MGL
             tag = YUA
-        }
-        THIS = {
-            NOT = { tag = LAN }
-            OR = {
-                is_culture_group = east_asian
-                tag = MGL
-                tag = YUA
-            }
-            
-            NOT = {
-                has_country_modifier = neutrality_modifier
-                war_policy = pacifism
-            }
         }
         is_vassal = no
         OR = {
@@ -3722,7 +3708,7 @@ china_acquire_state = {
                     has_country_flag = kuomintang_faction
                     has_country_flag = communist_faction
                     tag = KMT
-                    THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = beiyang_faction has_country_flag = kuomintang_faction has_country_flag = communist_faction tag = CHI tag = KMT } } } }
+                    THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = beiyang_faction has_country_flag = kuomintang_faction has_country_flag = communist_faction } } } }
                 }
             }
             AND = {
@@ -3760,9 +3746,7 @@ china_acquire_state = {
     allowed_states = {
         OR = {
             any_owned_province = {
-                NOT = {    is_core = THIS }
                 is_core = CHI
-                is_core = X00
             }
             AND = {
                 THIS = { has_country_flag = SEA_YUA_CONQ }

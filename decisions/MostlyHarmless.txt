@@ -26,16 +26,16 @@ political_decisions = {
     }
                 add_province_modifier = {
                     name = province_small_immigration_boom
-                    duration = -1
+                    duration = 1000
 					}
 			
                 add_province_modifier = {
                     name = gateway_to_harbor
-                    duration = -1
+                    duration = 1000
 				}
 				add_province_modifier = {
                     name = gateway_to_america
-                    duration = -1
+                    duration = 1000
 				} 
 				add_province_modifier = {
                     name = great_generator
@@ -51,15 +51,15 @@ political_decisions = {
     }
                 add_province_modifier = {
                     name = province_small_immigration_boom
-                    duration = -1
+                    duration = 1000
                 }
 				add_province_modifier = {
                     name = gateway_to_harbor
-                    duration = -1
+                    duration = 1000
 				}
 				add_province_modifier = {
                     name = gateway_to_america
-                    duration = -1
+                    duration = 1000
 				}
 				add_province_modifier = {
                     name = great_generator

@@ -57,7 +57,7 @@ political_decisions = {
 				soldiers = {
 					reduce_pop = 0.3
 				}
-				any_pop = { literacy = 0.15 }
+				any_pop = { literacy = 0.2 }
 			}
 			GER = {
 				set_country_flag = player_country
@@ -84,8 +84,10 @@ political_decisions = {
 				soldiers = {
 					reduce_pop = 0.25
 				}
-				any_pop = { literacy = 0.25 }
 				change_tag = POL
+			}
+			POL = {
+				any_pop = { literacy = 0.25 }
 			}
 			X18 = {
 				set_country_flag = player_country
@@ -98,6 +100,9 @@ political_decisions = {
 				set_country_flag = player_country
 				soldiers = {
 					reduce_pop = 0.25
+				}
+				any_owned = {
+					add_core = X01
 				}
 			}
 			JAP = {

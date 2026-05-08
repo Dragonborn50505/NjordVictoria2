@@ -1,6 +1,8 @@
 capital = 513
 primary_culture = spanish
 culture = galician
+culture = catalan
+culture = maghrebi
 culture = zzz_religion_protestant
 religion = protestant
 government = bourgeois_dictatorship

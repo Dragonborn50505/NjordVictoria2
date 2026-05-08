@@ -1,6 +1,8 @@
 capital = 838
 primary_culture = romanian
 culture = greek
+culture = hungarian
+culture = szekely
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

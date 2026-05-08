@@ -1,7 +1,5 @@
-owner=YUA
-controller=YUA
-add_core=SHY
+owner=TKS
+controller=TKS
 add_core=TKS
-add_core=YUA
 trade_goods = wool
 life_rating = 35

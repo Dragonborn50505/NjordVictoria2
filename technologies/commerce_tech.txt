@@ -430,7 +430,7 @@ late_classical_theory = {
 
 collectivist_theory = {
 	area = economic_thought_and_critique
-	year = 1836
+	year = 1845
 	cost = 10800
 
 	factory_input = -0.01

@@ -1,8 +1,8 @@
-owner=X00
-controller=X00
+owner=YUA
+controller=YUA
 add_core=CHI
 add_core=MCK
 add_core=MJZ
-add_core=X00
+add_core=YUA
 trade_goods = coal
 life_rating = 32

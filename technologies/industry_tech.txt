@@ -1438,7 +1438,7 @@ medicine = {
 
 inorganic_chemistry = {
 	area = chemistry_and_electricity
-	year = 1836
+	year = 1850
 	cost = 10800
 
 	supply_limit = 0.25
@@ -1502,7 +1502,7 @@ inorganic_chemistry = {
 
 organic_chemistry = {
 	area = chemistry_and_electricity
-	year = 1850
+	year = 1860
 	cost = 14400
 
 	supply_limit = 0.25

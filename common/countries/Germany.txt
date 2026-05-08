@@ -24,7 +24,7 @@ party = {
 	ideology = conservative
 
 	citizenship_policy = limited_citizenship
-	economic_policy = laissez_faire
+	economic_policy = interventionism
 	religious_policy = moralism
 	social_policy = no_position_set
 	trade_policy = protectionism

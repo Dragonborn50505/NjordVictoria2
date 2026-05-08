@@ -1,5 +1,5 @@
-owner=YUA
-controller=YUA
-add_core=YUA
+owner=TKS
+controller=TKS
+add_core=TKS
 trade_goods = grain
 life_rating = 35

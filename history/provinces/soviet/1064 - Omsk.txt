@@ -1,6 +1,6 @@
-owner=YUA
-controller=YUA
+owner=RUS
+controller=RUS
 add_core=UGR
-add_core=YUA
+add_core=RUS
 trade_goods = sulphur
 life_rating = 40

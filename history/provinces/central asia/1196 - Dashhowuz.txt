@@ -1,7 +1,6 @@
-owner=YUA
-controller=YUA
+owner=TKS
+controller=TKS
 add_core=TKS
-add_core=YUA
 trade_goods = cattle
 life_rating = 35
 terrain = semidesert

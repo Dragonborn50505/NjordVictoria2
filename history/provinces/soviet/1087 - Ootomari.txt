@@ -1,6 +1,3 @@
-owner=X00
-controller=X00
-add_core=AIN
-add_core=X00
+
 trade_goods = coal
 life_rating = 15

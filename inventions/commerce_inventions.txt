@@ -646,6 +646,7 @@ karl_marx = {
     }
     effect = {
         permanent_prestige = 1
+        mobilisation_size = 0.01
     }
 }
 friedrich_engels = {

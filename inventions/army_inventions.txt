@@ -1335,6 +1335,7 @@ empirical_combat_efficiency_matrix = {
             default_organisation = 2.5
             supply_consumption = 0.05
         }
+        mobilisation_size = 0.01
     }
 }
 

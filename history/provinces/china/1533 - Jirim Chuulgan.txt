@@ -1,8 +1,9 @@
-owner=X00
-controller=X00
-add_core=KHA
-add_core=MGL
-add_core=X00
+owner=YUA
+controller=YUA
+add_core=CHI
+add_core=MCK
+add_core=MJZ
+add_core=YUA
 trade_goods = timber
 life_rating = 32
 fort = 1

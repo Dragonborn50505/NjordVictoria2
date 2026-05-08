@@ -1,6 +1,6 @@
-owner=X00
-controller=X00
-add_core=X00
+owner=RUS
+controller=RUS
+add_core=RUS
 trade_goods = fish
 life_rating = 10
 terrain = montane_tundra
