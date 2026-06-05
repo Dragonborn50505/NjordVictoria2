@@ -107,4 +107,23 @@ political_decisions = {
 			add_accepted_culture = dynamic-hungarian-culture-num1
 		}
 	}
+
+	PRU_nordic_union = {
+		picture = custers_expedition
+
+		potential = {
+			tag = PRU
+			NOT = { has_accepted_culture = danish }
+		}
+
+		allow = {
+			owns = 322
+		}
+
+		effect = {
+			prestige = 5
+			add_accepted_culture = swedish
+			add_accepted_culture = danish
+		}
+	}
 }
