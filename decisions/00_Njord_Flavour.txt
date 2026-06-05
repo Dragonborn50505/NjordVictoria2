@@ -61,7 +61,7 @@ political_decisions = {
 			set_country_flag = ukraine_invasion
 		}
 	}
-	}
+
 
 	culture_POL = {
 		picture = custers_expedition

@@ -2566,3 +2566,8 @@ great_generator = {
 	population_growth = 1
 	icon = 9
 }
+
+capital_supply = {
+    supply_limit = 1000
+    icon = 17
+}
