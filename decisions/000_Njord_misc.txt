@@ -11,6 +11,67 @@ political_decisions = {
 		}
 	}
 
+	fix_everything_decision_2 = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = FED_2 }
+		}
+
+		effect = {
+			X01 = {
+				any_owned = {
+					limit = {
+						is_core = SPA
+					}
+					remove_core = SPA
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						tag = HUG
+						tag = LAG
+						tag = MED
+						tag = SMA
+						tag = TIN
+					}
+				}
+				primary_culture = polar_bears
+			}
+			LRG = { annex_to = X18 }
+			MUL = { annex_to = X18 }
+			MRT = {
+				1292 = { secede_province = X18 }
+				1293 = { secede_province = X18 }
+				1291 = { secede_province = X18 }
+				1294 = { secede_province = X18 }
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						trade_goods = iron
+					}
+					add_province_modifier = {
+						name = iron_production
+						duration = -1
+					}
+				}
+			}
+			FRA = {
+				any_owned = {
+					limit = {
+						trade_goods = iron
+					}
+					add_province_modifier = {
+						name = iron_production
+						duration = -1
+					}
+				}
+			}
+			set_country_flag = FED_2
+		}
+	}
+
 	fix_everything_decision = {
 		potential = {
 			NOT = { has_global_flag = fix_everything }

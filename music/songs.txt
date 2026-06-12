@@ -413,7 +413,7 @@ song = {
 	name = "Communist/marchingthroughgeorgia.mp3"
 	chance = {
 		modifier = { factor = 0.1 }
-		modifier = { factor = 5 ruling_party_ideology = communist }
+		modifier = { factor = 10 ruling_party_ideology = communist }
 	}
 }
 
@@ -421,7 +421,7 @@ song = {
 	name = "Communist/adayatthecourt.mp3"
 	chance = {
 		modifier = { factor = 0.1 }
-		modifier = { factor = 2 OR = { tag = JAP tag = RUS ruling_party_ideology = communist}  }
+		modifier = { factor = 10 OR = { tag = JAP tag = RUS ruling_party_ideology = communist}  }
 	}
 }
 
@@ -429,6 +429,6 @@ song = {
 	name = "Communist/01. Main Theme.mp3"
 	chance = {
 		modifier = { factor = 0.1 }
-		modifier = { factor = 2 OR = { tag = JAP tag = NET tag = RUS ruling_party_ideology = communist}  }
+		modifier = { factor = 10 OR = { tag = JAP tag = NET tag = RUS ruling_party_ideology = communist}  }
 	}
 }
