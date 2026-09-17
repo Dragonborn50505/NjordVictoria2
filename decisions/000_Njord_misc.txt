@@ -11,6 +11,24 @@ political_decisions = {
 		}
 	}
 
+	fix_everything_decision_3 = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = FED_3 }
+		}
+
+		effect = {
+			LRG = {
+				annex_to = X18
+			}
+			1292 = { secede_province = X18 }
+			1295 = { secede_province = X18 }
+			set_country_flag = FED_3
+		}
+	}
+
+
+
 	fix_everything_decision_2 = {
 		potential = {
 			tag = FRA

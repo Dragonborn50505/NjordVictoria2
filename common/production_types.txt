@@ -254,7 +254,7 @@ electric_gear_factory = {
 machine_parts_factory = {
     template = factory_template
     input_goods = {
-        steel = 9        #42.3
+        steel = 5        #42.3
         coal = 5        #11.5  total input+maint = 63.8
     }
     output_goods = machine_parts
@@ -370,7 +370,7 @@ luxury_furniture_factory = {
 steel_factory = {
     template = factory_template
     input_goods = {
-        iron = 20        #70
+        iron = 10        #70
         coal = 5        #11.5    total input+maint = 91.3
     }
 
@@ -390,7 +390,7 @@ artillery_factory = {
     template = factory_template
     input_goods = {
         explosives = 1        #20
-        steel = 8        #37.6   total input+maint = 67.6
+        steel = 5        #37.6   total input+maint = 67.6
     }
     output_goods = artillery
     value = 1.4        #84 - profit = 16.4
