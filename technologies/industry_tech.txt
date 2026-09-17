@@ -1082,7 +1082,7 @@ electric_furnace = {
 	cost = 21600
 
 	rgo_goods_output = {
-        iron = 075
+        iron = 0.75
     }
 	rgo_goods_output = {
         coal = 0.4
